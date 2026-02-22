@@ -33,12 +33,7 @@ jobs:
         run: |
           if ! head -n 1 docs/index.md | grep -q '^---$'; then
             tmpfile=$(mktemp)
-            cat > "$tmpfile" << 'EOF'
----
-layout: default
-title: AI Daily Digest
----
-EOF
+            printf '%s\n' '---' 'layout: default' 'title: AI Daily Digest' '---' > "$tmpfile"
             cat docs/index.md >> "$tmpfile"
             mv "$tmpfile" docs/index.md
           fi
