@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-02-27
+# 📰 AI 博客每日精选 — 2026-02-28
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Hoard things you know how to do**
+🥇 **Please, please, please stop using passkeys for encrypting user data**
 
-[Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Hoard things you know how to do
+> Please, please, please stop using passkeys for encrypting user data
 
-🥈 **Quoting Andrej Karpathy**
+🥈 **An AI agent coding skeptic tries AI agent coding, in excessive detail**
 
-[Quoting Andrej Karpathy](https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Quoting Andrej Karpathy
+> An AI agent coding skeptic tries AI agent coding, in excessive detail
 
-🥉 **Google API Keys Weren't Secrets. But then Gemini Changed the Rules.**
+🥉 **Free Claude Max for (large project) open source maintainers**
 
-[Google API Keys Weren't Secrets. But then Gemini Changed the Rules.](https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Free Claude Max for (large project) open source maintainers](https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Google API Keys Weren't Secrets. But then Gemini Changed the Rules.
+> Free Claude Max for (large project) open source maintainers
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2418 篇 → 48 篇 | 48h | **15 篇** |
+| 84/92 | 2418 篇 → 41 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Hoard things you know how to do
+### 1. Please, please, please stop using passkeys for encrypting user data
 
-[Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Please, please, please stop using passkeys for encrypting user data
+
+---
+
+### 2. An AI agent coding skeptic tries AI agent coding, in excessive detail
+
+[An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> An AI agent coding skeptic tries AI agent coding, in excessive detail
+
+---
+
+### 3. Free Claude Max for (large project) open source maintainers
+
+[Free Claude Max for (large project) open source maintainers](https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Free Claude Max for (large project) open source maintainers
+
+---
+
+### 4. Unicode Explorer using binary search over fetch() HTTP range requests
+
+[Unicode Explorer using binary search over fetch() HTTP range requests](https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Unicode Explorer using binary search over fetch() HTTP range requests
+
+---
+
+### 5. Hoard things you know how to do
+
+[Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Hoard things you know how to do
 
 ---
 
-### 2. Quoting Andrej Karpathy
+### 6. Quoting Andrej Karpathy
 
-[Quoting Andrej Karpathy](https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Quoting Andrej Karpathy](https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Andrej Karpathy
 
 ---
 
-### 3. Google API Keys Weren't Secrets. But then Gemini Changed the Rules.
+### 7. Upgrading my Open Source Pi Surveillance Server with Frigate
 
-[Google API Keys Weren't Secrets. But then Gemini Changed the Rules.](https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Upgrading my Open Source Pi Surveillance Server with Frigate](https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/) — **jeffgeerling.com** · 19 小时前 · ⭐ 15/30
 
-> Google API Keys Weren't Secrets. But then Gemini Changed the Rules.
-
----
-
-### 4. Quoting Benedict Evans
-
-[Quoting Benedict Evans](https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Benedict Evans
-
----
-
-### 5. tldraw issue: Move tests to closed source repo
-
-[tldraw issue: Move tests to closed source repo](https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> tldraw issue: Move tests to closed source repo
-
----
-
-### 6. Claude Code Remote Control
-
-[Claude Code Remote Control](https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Claude Code Remote Control
-
----
-
-### 7. I vibe coded my dream macOS presentation app
-
-[I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> I vibe coded my dream macOS presentation app
+> Upgrading my Open Source Pi Surveillance Server with Frigate
 
 ---
 
 ### 8. How to Securely Erase an old Hard Drive on macOS Tahoe
 
-[How to Securely Erase an old Hard Drive on macOS Tahoe](https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/) — **jeffgeerling.com** · 15 小时前 · ⭐ 15/30
+[How to Securely Erase an old Hard Drive on macOS Tahoe](https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > How to Securely Erase an old Hard Drive on macOS Tahoe
 
 ---
 
-### 9. Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership
+### 9. West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free
 
-[Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership](https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free](https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free
+
+---
+
+### 10. How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator
+
+[How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator
+
+---
+
+### 11. ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App
+
+[★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App](https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App
+
+---
+
+### 12. TUDUMB
+
+[TUDUMB](https://spyglass.org/netflix-warner-bros-paramount-deal/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> TUDUMB
+
+---
+
+### 13. Block Lays Off 4,000 (of 10,000) Employees
+
+[Block Lays Off 4,000 (of 10,000) Employees](https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Block Lays Off 4,000 (of 10,000) Employees
+
+---
+
+### 14. Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership
+
+[Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership](https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership
 
 ---
 
-### 10. Energym
+### 15. Energym
 
-[Energym](https://www.aicandy.be/giorgio-1) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Energym](https://www.aicandy.be/giorgio-1) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Energym
 
 ---
 
-### 11. Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover
-
-[Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover
-
----
-
-### 12. iPhone and iPad Approved to Handle Classified NATO Information
-
-[iPhone and iPad Approved to Handle Classified NATO Information](https://nr.apple.com/Do0I6B8WX0) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
-
-> iPhone and iPad Approved to Handle Classified NATO Information
-
----
-
-### 13. ‘Steve Jobs in Exile’
-
-[‘Steve Jobs in Exile’](https://geoffreycain.net/steve-jobs-in-exile/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> ‘Steve Jobs in Exile’
-
----
-
-### 14. Microsoft Adds Additional Markdown Features to Windows Notepad
-
-[Microsoft Adds Additional Markdown Features to Windows Notepad](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> Microsoft Adds Additional Markdown Features to Windows Notepad
-
----
-
-### 15. Prediction ‘Market’ Kalshi Accuses MrBeast Editor of Insider Trading
-
-[Prediction ‘Market’ Kalshi Accuses MrBeast Editor of Insider Trading](https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
-
-> Prediction ‘Market’ Kalshi Accuses MrBeast Editor of Insider Trading
-
----
-
-*生成于 2026-02-27 11:48 | 扫描 84 源 → 获取 2418 篇 → 精选 15 篇*
+*生成于 2026-02-28 10:48 | 扫描 84 源 → 获取 2418 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
