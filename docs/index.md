@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-02
+# 📰 AI 博客每日精选 — 2026-03-03
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting claude.com/import-memory**
+🥇 **GIF optimization tool using WebAssembly and Gifsicle**
 
-[Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
 
-> Quoting claude.com/import-memory
+> GIF optimization tool using WebAssembly and Gifsicle
 
-🥈 **Interactive explanations**
+🥈 **February sponsors-only newsletter**
 
-[Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[February sponsors-only newsletter](https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
 
-> Interactive explanations
+> February sponsors-only newsletter
 
-🥉 **Expert Beginners and Lone Wolves will dominate this early LLM era**
+🥉 **I built a pint-sized Macintosh**
 
-[Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — jeffgeerling.com · 13 小时前 · 📝 其他
+[I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/) — jeffgeerling.com · 14 小时前 · 📝 其他
 
-> Expert Beginners and Lone Wolves will dominate this early LLM era
+> I built a pint-sized Macintosh
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2380 篇 → 28 篇 | 48h | **15 篇** |
+| 83/92 | 2400 篇 → 34 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting claude.com/import-memory
+### 1. GIF optimization tool using WebAssembly and Gifsicle
 
-[Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
 
-> Quoting claude.com/import-memory
-
----
-
-### 2. Interactive explanations
-
-[Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Interactive explanations
+> GIF optimization tool using WebAssembly and Gifsicle
 
 ---
 
-### 3. Expert Beginners and Lone Wolves will dominate this early LLM era
+### 2. February sponsors-only newsletter
 
-[Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — **jeffgeerling.com** · 13 小时前 · ⭐ 15/30
+[February sponsors-only newsletter](https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> February sponsors-only newsletter
+
+---
+
+### 3. I built a pint-sized Macintosh
+
+[I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/) — **jeffgeerling.com** · 14 小时前 · ⭐ 15/30
+
+> I built a pint-sized Macintosh
+
+---
+
+### 4. Expert Beginners and Lone Wolves will dominate this early LLM era
+
+[Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > Expert Beginners and Lone Wolves will dominate this early LLM era
 
 ---
 
-### 4. Who is the Kimwolf Botmaster “Dort”?
+### 5. Giving LLMs a personality is just good engineering
 
-[Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/) — **seangoedecke.com** · 11 小时前 · ⭐ 15/30
 
-> Who is the Kimwolf Botmaster “Dort”?
-
----
-
-### 5. Sentry
-
-[Sentry](https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Sentry
+> Giving LLMs a personality is just good engineering
 
 ---
 
-### 6. The Talk Show: ‘Bad Dates’
+### 6. [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase
 
-[The Talk Show: ‘Bad Dates’](https://daringfireball.net/thetalkshow/2026/02/28/ep-442) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> The Talk Show: ‘Bad Dates’
-
----
-
-### 7. Trump’s Enormous Gamble on Regime Change in Iran
-
-[Trump’s Enormous Gamble on Regime Change in Iran](https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Trump’s Enormous Gamble on Regime Change in Iran
+> [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase
 
 ---
 
-### 8. Redis patterns for coding
+### 7. ★ HazeOver — Mac Utility for Highlighting the Frontmost Window
 
-[Redis patterns for coding](http://antirez.com/news/161) — **antirez.com** · 1 天前 · ⭐ 15/30
+[★ HazeOver — Mac Utility for Highlighting the Frontmost Window](https://daringfireball.net/2026/03/hazeover) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Redis patterns for coding
-
----
-
-### 9. &ldquo;How old are you?&rdquo; Asked the OS
-
-[&ldquo;How old are you?&rdquo; Asked the OS](https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> &ldquo;How old are you?&rdquo; Asked the OS
+> ★ HazeOver — Mac Utility for Highlighting the Frontmost Window
 
 ---
 
-### 10. That's it, I'm cancelling my ChatGPT
+### 8. Unsung Heroes: Flickr’s URLs Scheme
 
-[That's it, I'm cancelling my ChatGPT](https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Unsung Heroes: Flickr’s URLs Scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> That's it, I'm cancelling my ChatGPT
-
----
-
-### 11. Pluralistic: No one wants to read your AI slop (02 Mar 2026)
-
-[Pluralistic: No one wants to read your AI slop (02 Mar 2026)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
-
-> Pluralistic: No one wants to read your AI slop (02 Mar 2026)
+> Unsung Heroes: Flickr’s URLs Scheme
 
 ---
 
-### 12. Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆
+### 9. ChangeTheHeaders
 
-[Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆](https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
+[ChangeTheHeaders](https://underpassapp.com/news/2025/3/4.html) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆
-
----
-
-### 13. 30 months to 3MWh - some more home battery stats
-
-[30 months to 3MWh - some more home battery stats](https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> 30 months to 3MWh - some more home battery stats
+> ChangeTheHeaders
 
 ---
 
-### 14. The Unbound Scepter
+### 10. Welcome (Back) to Macintosh
 
-[The Unbound Scepter](https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/) — **xeiaso.net** · 11 小时前 · ⭐ 15/30
+[Welcome (Back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> The Unbound Scepter
-
----
-
-### 15. Killing my inner Necron
-
-[Killing my inner Necron](https://xeiaso.net/blog/2026/killing-my-inner-necron/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
-
-> Killing my inner Necron
+> Welcome (Back) to Macintosh
 
 ---
 
-*生成于 2026-03-02 11:39 | 扫描 82 源 → 获取 2380 篇 → 精选 15 篇*
+### 11. SerpApi Filed Motion to Dismiss Google’s Lawsuit
+
+[SerpApi Filed Motion to Dismiss Google’s Lawsuit](https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> SerpApi Filed Motion to Dismiss Google’s Lawsuit
+
+---
+
+### 12. ‘Anthropic and Alignment’
+
+[‘Anthropic and Alignment’](https://stratechery.com/2026/anthropic-and-alignment/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> ‘Anthropic and Alignment’
+
+---
+
+### 13. WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’
+
+[WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’](https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’
+
+---
+
+### 14. Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands
+
+[Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands](https://www.macrumors.com/2026/03/02/iphone-cases-apple-accessories-new-colors/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands
+
+---
+
+### 15. Apple Introduces New iPad Air With M4
+
+[Apple Introduces New iPad Air With M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Apple Introduces New iPad Air With M4
+
+---
+
+*生成于 2026-03-03 11:48 | 扫描 83 源 → 获取 2400 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
