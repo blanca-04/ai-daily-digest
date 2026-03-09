@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-08
+# 📰 AI 博客每日精选 — 2026-03-09
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Codex for Open Source**
+🥇 **Quoting Joseph Weizenbaum**
 
-[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+
+> Quoting Joseph Weizenbaum
+
+🥈 **Codex for Open Source**
+
+[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Codex for Open Source
 
-🥈 **Quoting Ally Piechowski**
+🥉 **How AI Assistants are Moving the Security Goalposts**
 
-[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — krebsonsecurity.com · 12 小时前 · 📝 其他
 
-> Quoting Ally Piechowski
-
-🥉 **Anthropic and the Pentagon**
-
-[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Anthropic and the Pentagon
+> How AI Assistants are Moving the Security Goalposts
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2423 篇 → 32 篇 | 48h | **15 篇** |
+| 83/92 | 2393 篇 → 23 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Codex for Open Source
+### 1. Quoting Joseph Weizenbaum
 
-[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Quoting Joseph Weizenbaum
+
+---
+
+### 2. Codex for Open Source
+
+[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Codex for Open Source
 
 ---
 
-### 2. Quoting Ally Piechowski
+### 3. How AI Assistants are Moving the Security Goalposts
 
-[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — **krebsonsecurity.com** · 12 小时前 · ⭐ 15/30
 
-> Quoting Ally Piechowski
-
----
-
-### 3. Anthropic and the Pentagon
-
-[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Anthropic and the Pentagon
+> How AI Assistants are Moving the Security Goalposts
 
 ---
 
-### 4. A PTP Wall Clock is impractical and a little too precise
+### 4. Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?
 
-[A PTP Wall Clock is impractical and a little too precise](https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
+[Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> A PTP Wall Clock is impractical and a little too precise
+> Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?
 
 ---
 
-### 5. ‘npx workos’
+### 5. Donald Knuth on Claude Opus Solving a Computer Science Problem
 
-[‘npx workos’](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Donald Knuth on Claude Opus Solving a Computer Science Problem](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Donald Knuth on Claude Opus Solving a Computer Science Problem
+
+---
+
+### 6. Steve Lemay Hits Apple’s Leadership Page
+
+[Steve Lemay Hits Apple’s Leadership Page](https://www.apple.com/leadership/steve-lemay/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Steve Lemay Hits Apple’s Leadership Page
+
+---
+
+### 7. ‘npx workos’
+
+[‘npx workos’](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘npx workos’
 
 ---
 
-### 6. Daring Fireball Weekly Sponsorship Openings
+### 8. GNU and the AI reimplementations
 
-[Daring Fireball Weekly Sponsorship Openings](https://daringfireball.net/feeds/sponsors/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[GNU and the AI reimplementations](http://antirez.com/news/162) — **antirez.com** · 19 小时前 · ⭐ 15/30
 
-> Daring Fireball Weekly Sponsorship Openings
-
----
-
-### 7. Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin
-
-[Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin
+> GNU and the AI reimplementations
 
 ---
 
-### 8. ‘The Window Chrome of Our Discontent’
+### 9. Pluralistic: The web is bearable with RSS (07 Mar 2026)
 
-[‘The Window Chrome of Our Discontent’](https://pxlnv.com/blog/window-chrome-of-our-discontent/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
-> ‘The Window Chrome of Our Discontent’
-
----
-
-### 9. The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’
-
-[The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’
+> Pluralistic: The web is bearable with RSS (07 Mar 2026)
 
 ---
 
-### 10. Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032
+### 10. What's the source of Einstein's "citizen of the world" quip?
 
-[Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[What's the source of Einstein's "citizen of the world" quip?](https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
 
-> Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032
-
----
-
-### 11. The MacBook Neo’s Price, Looking to the Past and Future
-
-[The MacBook Neo’s Price, Looking to the Past and Future](https://x.com/ethan_is_online/status/2029331836137291941?s=42) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The MacBook Neo’s Price, Looking to the Past and Future
+> What's the source of Einstein's "citizen of the world" quip?
 
 ---
 
-### 12. ‘Never the Same Game Twice’
+### 11. Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆
 
-[‘Never the Same Game Twice’](https://johnmccoy.org/2026/03/05/never-the-same-game-twice/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
-> ‘Never the Same Game Twice’
-
----
-
-### 13. Another Steve Jobs Quote on Lower-Priced Macs
-
-[Another Steve Jobs Quote on Lower-Priced Macs](https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Another Steve Jobs Quote on Lower-Priced Macs
+> Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆
 
 ---
 
-### 14. It Depends
+### 12. Vibe Coding Trip Report: Making a sponsor panel
 
-[It Depends](https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — **xeiaso.net** · 11 小时前 · ⭐ 15/30
 
-> It Depends
-
----
-
-### 15. Remove annoying banners
-
-[Remove annoying banners](https://maurycyz.com/projects/fixsite/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
-
-> Remove annoying banners
+> Vibe Coding Trip Report: Making a sponsor panel
 
 ---
 
-*生成于 2026-03-08 10:53 | 扫描 84 源 → 获取 2423 篇 → 精选 15 篇*
+### 13. Some Thorns Have Roses
+
+[Some Thorns Have Roses](https://xeiaso.net/blog/2026/some-thorns-have-roses/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
+
+> Some Thorns Have Roses
+
+---
+
+### 14. How much certainty is worthwhile?
+
+[How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — **johndcook.com** · 17 小时前 · ⭐ 15/30
+
+> How much certainty is worthwhile?
+
+---
+
+### 15. Introducing llm-eliza
+
+[Introducing llm-eliza](https://evanhahn.com/llm-eliza/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+
+> Introducing llm-eliza
+
+---
+
+*生成于 2026-03-09 11:52 | 扫描 83 源 → 获取 2393 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
