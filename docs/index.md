@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-09
+# 📰 AI 博客每日精选 — 2026-03-10
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Joseph Weizenbaum**
+🥇 **Production query plans without production data**
 
-[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+[Production query plans without production data](https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+
+> Production query plans without production data
+
+🥈 **Perhaps not Boring Technology after all**
+
+[Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything) — simonwillison.net · 22 小时前 · 📝 其他
+
+> Perhaps not Boring Technology after all
+
+🥉 **Quoting Joseph Weizenbaum**
+
+[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting Joseph Weizenbaum
-
-🥈 **Codex for Open Source**
-
-[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Codex for Open Source
-
-🥉 **How AI Assistants are Moving the Security Goalposts**
-
-[How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — krebsonsecurity.com · 12 小时前 · 📝 其他
-
-> How AI Assistants are Moving the Security Goalposts
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2393 篇 → 23 篇 | 48h | **15 篇** |
+| 81/92 | 2374 篇 → 33 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Joseph Weizenbaum
+### 1. Production query plans without production data
 
-[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Production query plans without production data](https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Production query plans without production data
+
+---
+
+### 2. Perhaps not Boring Technology after all
+
+[Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> Perhaps not Boring Technology after all
+
+---
+
+### 3. Quoting Joseph Weizenbaum
+
+[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Joseph Weizenbaum
 
 ---
 
-### 2. Codex for Open Source
+### 4. How AI Assistants are Moving the Security Goalposts
 
-[Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Codex for Open Source
-
----
-
-### 3. How AI Assistants are Moving the Security Goalposts
-
-[How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — **krebsonsecurity.com** · 12 小时前 · ⭐ 15/30
+[How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > How AI Assistants are Moving the Security Goalposts
 
 ---
 
-### 4. Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?
+### 5. [Sponsor] Finalist
 
-[Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[[Sponsor] Finalist](https://www.finalist.works/finalist-36/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> [Sponsor] Finalist
+
+---
+
+### 6. ★ The iPhone 17e
+
+[★ The iPhone 17e](https://daringfireball.net/2026/03/the_iphone_17e) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> ★ The iPhone 17e
+
+---
+
+### 7. MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe
+
+[MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe](https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe
+
+---
+
+### 8. Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses
+
+[Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses
+
+---
+
+### 9. Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?
+
+[Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?
 
 ---
 
-### 5. Donald Knuth on Claude Opus Solving a Computer Science Problem
+### 10. Donald Knuth on Claude Opus Solving a Computer Science Problem
 
-[Donald Knuth on Claude Opus Solving a Computer Science Problem](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Donald Knuth on Claude Opus Solving a Computer Science Problem](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Donald Knuth on Claude Opus Solving a Computer Science Problem
 
 ---
 
-### 6. Steve Lemay Hits Apple’s Leadership Page
+### 11. Steve Lemay Hits Apple’s Leadership Page
 
-[Steve Lemay Hits Apple’s Leadership Page](https://www.apple.com/leadership/steve-lemay/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[Steve Lemay Hits Apple’s Leadership Page](https://www.apple.com/leadership/steve-lemay/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Steve Lemay Hits Apple’s Leadership Page
 
 ---
 
-### 7. ‘npx workos’
+### 12. GNU and the AI reimplementations
 
-[‘npx workos’](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘npx workos’
-
----
-
-### 8. GNU and the AI reimplementations
-
-[GNU and the AI reimplementations](http://antirez.com/news/162) — **antirez.com** · 19 小时前 · ⭐ 15/30
+[GNU and the AI reimplementations](http://antirez.com/news/162) — **antirez.com** · 1 天前 · ⭐ 15/30
 
 > GNU and the AI reimplementations
 
 ---
 
-### 9. Pluralistic: The web is bearable with RSS (07 Mar 2026)
+### 13. Why Am I Paranoid, You Say?
 
-[Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[Why Am I Paranoid, You Say?](https://idiallo.com/blog/why-am-i-paranoid?src=feed) — **idiallo.com** · 23 小时前 · ⭐ 15/30
 
-> Pluralistic: The web is bearable with RSS (07 Mar 2026)
-
----
-
-### 10. What's the source of Einstein's "citizen of the world" quip?
-
-[What's the source of Einstein's "citizen of the world" quip?](https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
-
-> What's the source of Einstein's "citizen of the world" quip?
+> Why Am I Paranoid, You Say?
 
 ---
 
-### 11. Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆
+### 14. Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)
 
-[Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)](https://pluralistic.net/2026/03/09/autocrats-of-trade-2/) — **pluralistic.net** · 19 小时前 · ⭐ 15/30
 
-> Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆
-
----
-
-### 12. Vibe Coding Trip Report: Making a sponsor panel
-
-[Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — **xeiaso.net** · 11 小时前 · ⭐ 15/30
-
-> Vibe Coding Trip Report: Making a sponsor panel
+> Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)
 
 ---
 
-### 13. Some Thorns Have Roses
+### 15. Book Review: There Is No Antimemetics Division by qntm ★★★★★
 
-[Some Thorns Have Roses](https://xeiaso.net/blog/2026/some-thorns-have-roses/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
+[Book Review: There Is No Antimemetics Division by qntm ★★★★★](https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
 
-> Some Thorns Have Roses
-
----
-
-### 14. How much certainty is worthwhile?
-
-[How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — **johndcook.com** · 17 小时前 · ⭐ 15/30
-
-> How much certainty is worthwhile?
+> Book Review: There Is No Antimemetics Division by qntm ★★★★★
 
 ---
 
-### 15. Introducing llm-eliza
-
-[Introducing llm-eliza](https://evanhahn.com/llm-eliza/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
-
-> Introducing llm-eliza
-
----
-
-*生成于 2026-03-09 11:52 | 扫描 83 源 → 获取 2393 篇 → 精选 15 篇*
+*生成于 2026-03-10 11:48 | 扫描 81 源 → 获取 2374 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
