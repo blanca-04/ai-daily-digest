@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-12
+# 📰 AI 博客每日精选 — 2026-03-13
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Sorting algorithms**
+🥇 **Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations**
 
-[Sorting algorithms](https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — simonwillison.net · 7 小时前 · 📝 其他
 
-> Sorting algorithms
+> Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
 
-🥈 **Quoting John Carmack**
+🥈 **MALUS - Clean Room as a Service**
 
-[Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+[MALUS - Clean Room as a Service](https://simonwillison.net/2026/Mar/12/malus/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Quoting John Carmack
+> MALUS - Clean Room as a Service
 
-🥉 **AI should help us produce better code**
+🥉 **Coding After Coders: The End of Computer Programming as We Know It**
 
-[AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Coding After Coders: The End of Computer Programming as We Know It](https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> AI should help us produce better code
+> Coding After Coders: The End of Computer Programming as We Know It
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2417 篇 → 39 篇 | 48h | **15 篇** |
+| 83/92 | 2402 篇 → 45 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Sorting algorithms
+### 1. Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
 
-[Sorting algorithms](https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+
+> Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
+
+---
+
+### 2. MALUS - Clean Room as a Service
+
+[MALUS - Clean Room as a Service](https://simonwillison.net/2026/Mar/12/malus/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> MALUS - Clean Room as a Service
+
+---
+
+### 3. Coding After Coders: The End of Computer Programming as We Know It
+
+[Coding After Coders: The End of Computer Programming as We Know It](https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Coding After Coders: The End of Computer Programming as We Know It
+
+---
+
+### 4. Quoting Les Orchard
+
+[Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Quoting Les Orchard
+
+---
+
+### 5. Sorting algorithms
+
+[Sorting algorithms](https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Sorting algorithms
 
 ---
 
-### 2. Quoting John Carmack
+### 6. Quoting John Carmack
 
-[Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting John Carmack
 
 ---
 
-### 3. AI should help us produce better code
+### 7. Can the MacBook Neo replace my M4 Air?
 
-[AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Can the MacBook Neo replace my M4 Air?](https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/) — **jeffgeerling.com** · 17 小时前 · ⭐ 15/30
 
-> AI should help us produce better code
+> Can the MacBook Neo replace my M4 Air?
 
 ---
 
-### 4. Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
+### 8. Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
 
-[Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) — **krebsonsecurity.com** · 19 小时前 · ⭐ 15/30
+[Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
 
 ---
 
-### 5. Microsoft Patch Tuesday, March 2026 Edition
+### 9. Accents
 
-[Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Accents](https://mahdi.jp/apps/accents) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Microsoft Patch Tuesday, March 2026 Edition
+> Accents
 
 ---
 
-### 6. Jason Snell Is on Jeopardy Next Week
+### 10. Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator
 
-[Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator](https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+
+> Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator
+
+---
+
+### 11. Eddy Cue Says F1 on Apple TV Opened to Increased Viewership
+
+[Eddy Cue Says F1 on Apple TV Opened to Increased Viewership](https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+
+> Eddy Cue Says F1 on Apple TV Opened to Increased Viewership
+
+---
+
+### 12. MacBook Neo Teardown
+
+[MacBook Neo Teardown](https://www.youtube.com/watch?v=5k7Lv7f-5CQ) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> MacBook Neo Teardown
+
+---
+
+### 13. Software Proprioception
+
+[Software Proprioception](https://unsung.aresluna.org/software-proprioception/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Software Proprioception
+
+---
+
+### 14. Jason Snell Is on Jeopardy Next Week
+
+[Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Jason Snell Is on Jeopardy Next Week
 
 ---
 
-### 7. Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’
+### 15. Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’
 
-[Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’
 
 ---
 
-### 8. ★ Modifier Key Order for Keyboard Shortcuts
-
-[★ Modifier Key Order for Keyboard Shortcuts](https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> ★ Modifier Key Order for Keyboard Shortcuts
-
----
-
-### 9. Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards
-
-[Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards](https://x.com/ClassicII_MrMac/status/2028869838870069447) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards
-
----
-
-### 10. Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January
-
-[Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January](https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January
-
----
-
-### 11. From the DF Archive: ‘And Oranges’
-
-[From the DF Archive: ‘And Oranges’](https://daringfireball.net/2006/06/and_oranges) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> From the DF Archive: ‘And Oranges’
-
----
-
-### 12. ★ The MacBook Neo
-
-[★ The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ The MacBook Neo
-
----
-
-### 13. Where did you think the training data was coming from?
-
-[Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed) — **idiallo.com** · 23 小时前 · ⭐ 15/30
-
-> Where did you think the training data was coming from?
-
----
-
-### 14. The Server Older than my Kids!
-
-[The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> The Server Older than my Kids!
-
----
-
-### 15. I'm Not Lying, I'm Hallucinating
-
-[I'm Not Lying, I'm Hallucinating](https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> I'm Not Lying, I'm Hallucinating
-
----
-
-*生成于 2026-03-12 11:42 | 扫描 84 源 → 获取 2417 篇 → 精选 15 篇*
+*生成于 2026-03-13 11:22 | 扫描 83 源 → 获取 2402 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
