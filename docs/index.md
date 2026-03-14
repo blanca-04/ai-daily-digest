@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-13
+# 📰 AI 博客每日精选 — 2026-03-14
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations**
+🥇 **1M context is now generally available for Opus 4.6 and Sonnet 4.6**
 
-[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — simonwillison.net · 7 小时前 · 📝 其他
+[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+
+> 1M context is now generally available for Opus 4.6 and Sonnet 4.6
+
+🥈 **Quoting Craig Mod**
+
+[Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+
+> Quoting Craig Mod
+
+🥉 **Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations**
+
+[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
-
-🥈 **MALUS - Clean Room as a Service**
-
-[MALUS - Clean Room as a Service](https://simonwillison.net/2026/Mar/12/malus/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
-
-> MALUS - Clean Room as a Service
-
-🥉 **Coding After Coders: The End of Computer Programming as We Know It**
-
-[Coding After Coders: The End of Computer Programming as We Know It](https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
-
-> Coding After Coders: The End of Computer Programming as We Know It
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2402 篇 → 45 篇 | 48h | **15 篇** |
+| 84/92 | 2429 篇 → 42 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
+### 1. 1M context is now generally available for Opus 4.6 and Sonnet 4.6
 
-[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> 1M context is now generally available for Opus 4.6 and Sonnet 4.6
+
+---
+
+### 2. Quoting Craig Mod
+
+[Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Craig Mod
+
+---
+
+### 3. Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
+
+[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations
 
 ---
 
-### 2. MALUS - Clean Room as a Service
+### 4. MALUS - Clean Room as a Service
 
-[MALUS - Clean Room as a Service](https://simonwillison.net/2026/Mar/12/malus/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[MALUS - Clean Room as a Service](https://simonwillison.net/2026/Mar/12/malus/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > MALUS - Clean Room as a Service
 
 ---
 
-### 3. Coding After Coders: The End of Computer Programming as We Know It
+### 5. Coding After Coders: The End of Computer Programming as We Know It
 
-[Coding After Coders: The End of Computer Programming as We Know It](https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Coding After Coders: The End of Computer Programming as We Know It](https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Coding After Coders: The End of Computer Programming as We Know It
 
 ---
 
-### 4. Quoting Les Orchard
+### 6. Quoting Les Orchard
 
-[Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Les Orchard
 
 ---
 
-### 5. Sorting algorithms
+### 7. Restoring an Xserve G5: When Apple built real servers
 
-[Sorting algorithms](https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Restoring an Xserve G5: When Apple built real servers](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> Sorting algorithms
-
----
-
-### 6. Quoting John Carmack
-
-[Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting John Carmack
+> Restoring an Xserve G5: When Apple built real servers
 
 ---
 
-### 7. Can the MacBook Neo replace my M4 Air?
+### 8. Can the MacBook Neo replace my M4 Air?
 
-[Can the MacBook Neo replace my M4 Air?](https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/) — **jeffgeerling.com** · 17 小时前 · ⭐ 15/30
+[Can the MacBook Neo replace my M4 Air?](https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > Can the MacBook Neo replace my M4 Air?
 
 ---
 
-### 8. Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
+### 9. Big tech engineers need big egos
 
-[Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
-
----
-
-### 9. Accents
-
-[Accents](https://mahdi.jp/apps/accents) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> Accents
+> Big tech engineers need big egos
 
 ---
 
-### 10. Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator
+### 10. Tim Cook: ‘50 Years of Thinking Different’
 
-[Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator](https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Tim Cook: ‘50 Years of Thinking Different’](https://www.apple.com/50-years-of-thinking-different/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator
-
----
-
-### 11. Eddy Cue Says F1 on Apple TV Opened to Increased Viewership
-
-[Eddy Cue Says F1 on Apple TV Opened to Increased Viewership](https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> Eddy Cue Says F1 on Apple TV Opened to Increased Viewership
+> Tim Cook: ‘50 Years of Thinking Different’
 
 ---
 
-### 12. MacBook Neo Teardown
+### 11. NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’
 
-[MacBook Neo Teardown](https://www.youtube.com/watch?v=5k7Lv7f-5CQ) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> MacBook Neo Teardown
-
----
-
-### 13. Software Proprioception
-
-[Software Proprioception](https://unsung.aresluna.org/software-proprioception/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Software Proprioception
+> NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’
 
 ---
 
-### 14. Jason Snell Is on Jeopardy Next Week
+### 12. Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing
 
-[Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing](https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Jason Snell Is on Jeopardy Next Week
-
----
-
-### 15. Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’
-
-[Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’
+> Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing
 
 ---
 
-*生成于 2026-03-13 11:22 | 扫描 83 源 → 获取 2402 篇 → 精选 15 篇*
+### 13. Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today
+
+[Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today](https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today
+
+---
+
+### 14. ‘Software Bonkers’
+
+[‘Software Bonkers’](https://craigmod.com/essays/software_bonkers/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> ‘Software Bonkers’
+
+---
+
+### 15. ‘Grief and the AI Split’
+
+[‘Grief and the AI Split’](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> ‘Grief and the AI Split’
+
+---
+
+*生成于 2026-03-14 10:59 | 扫描 84 源 → 获取 2429 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
