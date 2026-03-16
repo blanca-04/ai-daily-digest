@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-15
+# 📰 AI 博客每日精选 — 2026-03-16
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Jannis Leidel**
+🥇 **What is agentic engineering?**
 
-[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+
+> What is agentic engineering?
+
+🥈 **Quoting Jannis Leidel**
+
+[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting Jannis Leidel
 
-🥈 **My fireside chat about agentic engineering at the Pragmatic Summit**
+🥉 **My fireside chat about agentic engineering at the Pragmatic Summit**
 
-[My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > My fireside chat about agentic engineering at the Pragmatic Summit
-
-🥉 **1M context is now generally available for Opus 4.6 and Sonnet 4.6**
-
-[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> 1M context is now generally available for Opus 4.6 and Sonnet 4.6
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2417 篇 → 34 篇 | 48h | **15 篇** |
+| 83/92 | 2403 篇 → 28 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Jannis Leidel
+### 1. What is agentic engineering?
 
-[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> What is agentic engineering?
+
+---
+
+### 2. Quoting Jannis Leidel
+
+[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Jannis Leidel
 
 ---
 
-### 2. My fireside chat about agentic engineering at the Pragmatic Summit
+### 3. My fireside chat about agentic engineering at the Pragmatic Summit
 
-[My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > My fireside chat about agentic engineering at the Pragmatic Summit
 
 ---
 
-### 3. 1M context is now generally available for Opus 4.6 and Sonnet 4.6
+### 4. CHM Live: Apple at 50
 
-[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[CHM Live: Apple at 50](https://www.youtube.com/live/eCSNJgI2LFI) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> 1M context is now generally available for Opus 4.6 and Sonnet 4.6
-
----
-
-### 4. Quoting Craig Mod
-
-[Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Craig Mod
+> CHM Live: Apple at 50
 
 ---
 
-### 5. Restoring an Xserve G5: When Apple built real servers
+### 5. Finalist 3.6
 
-[Restoring an Xserve G5: When Apple built real servers](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
+[Finalist 3.6](https://www.finalist.works/finalist-36/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Restoring an Xserve G5: When Apple built real servers
-
----
-
-### 6. Big tech engineers need big egos
-
-[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Big tech engineers need big egos
+> Finalist 3.6
 
 ---
 
-### 7. Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam
+### 6. ‘This Is Not the Computer for You’
 
-[Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam](https://ma.tt/2026/03/gone-almost-phishin/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[‘This Is Not the Computer for You’](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> ‘This Is Not the Computer for You’
+
+---
+
+### 7. Blaming AI for Layoffs: ‘It Plays Better’
+
+[Blaming AI for Layoffs: ‘It Plays Better’](https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Blaming AI for Layoffs: ‘It Plays Better’
+
+---
+
+### 8. Horace Dediu on Apple Sitting Out the AI Spending Race
+
+[Horace Dediu on Apple Sitting Out the AI Spending Race](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Horace Dediu on Apple Sitting Out the AI Spending Race
+
+---
+
+### 9. Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’
+
+[Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’
+
+---
+
+### 10. Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam
+
+[Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam](https://ma.tt/2026/03/gone-almost-phishin/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam
 
 ---
 
-### 8. iFixit’s MacBook Neo Teardown
+### 11. iFixit’s MacBook Neo Teardown
 
-[iFixit’s MacBook Neo Teardown](https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[iFixit’s MacBook Neo Teardown](https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > iFixit’s MacBook Neo Teardown
 
 ---
 
-### 9. PC Makers Are Not Ready for the MacBook Neo
+### 12. PC Makers Are Not Ready for the MacBook Neo
 
-[PC Makers Are Not Ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[PC Makers Are Not Ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > PC Makers Are Not Ready for the MacBook Neo
 
 ---
 
-### 10. Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes
+### 13. Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes
 
-[Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes
 
 ---
 
-### 11. Lil Finder Guy
+### 14. Lil Finder Guy
 
-[Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Lil Finder Guy
 
 ---
 
-### 12. Tim Cook: ‘50 Years of Thinking Different’
+### 15. Shower Thought: Git Teleportation
 
-[Tim Cook: ‘50 Years of Thinking Different’](https://www.apple.com/50-years-of-thinking-different/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Shower Thought: Git Teleportation](https://idiallo.com/byte-size/git-teleportation?src=feed) — **idiallo.com** · 11 小时前 · ⭐ 15/30
 
-> Tim Cook: ‘50 Years of Thinking Different’
-
----
-
-### 13. NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’
-
-[NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’
+> Shower Thought: Git Teleportation
 
 ---
 
-### 14. Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing
-
-[Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing](https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing
-
----
-
-### 15. Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today
-
-[Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today](https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today
-
----
-
-*生成于 2026-03-15 11:01 | 扫描 83 源 → 获取 2417 篇 → 精选 15 篇*
+*生成于 2026-03-16 12:03 | 扫描 83 源 → 获取 2403 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
