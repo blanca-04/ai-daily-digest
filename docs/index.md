@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-20
+# 📰 AI 博客每日精选 — 2026-03-21
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Thoughts on OpenAI acquiring Astral and uv/ruff/ty**
+🥇 **Turbo Pascal 3.02A, deconstructed**
 
-[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+
+> Turbo Pascal 3.02A, deconstructed
+
+🥈 **Quoting Kimi.ai @Kimi_Moonshot**
+
+[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+
+> Quoting Kimi.ai @Kimi_Moonshot
+
+🥉 **Thoughts on OpenAI acquiring Astral and uv/ruff/ty**
+
+[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Thoughts on OpenAI acquiring Astral and uv/ruff/ty
-
-🥈 **Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally**
-
-[Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-
-🥉 **Snowflake Cortex AI Escapes Sandbox and Executes Malware**
-
-[Snowflake Cortex AI Escapes Sandbox and Executes Malware](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Snowflake Cortex AI Escapes Sandbox and Executes Malware
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2422 篇 → 35 篇 | 48h | **15 篇** |
+| 84/92 | 2434 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Thoughts on OpenAI acquiring Astral and uv/ruff/ty
+### 1. Turbo Pascal 3.02A, deconstructed
 
-[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Turbo Pascal 3.02A, deconstructed
+
+---
+
+### 2. Quoting Kimi.ai @Kimi_Moonshot
+
+[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Quoting Kimi.ai @Kimi_Moonshot
+
+---
+
+### 3. Thoughts on OpenAI acquiring Astral and uv/ruff/ty
+
+[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Thoughts on OpenAI acquiring Astral and uv/ruff/ty
 
 ---
 
-### 2. Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
+### 4. The best laptop Apple ever made
 
-[Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The best laptop Apple ever made](https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally
-
----
-
-### 3. Snowflake Cortex AI Escapes Sandbox and Executes Malware
-
-[Snowflake Cortex AI Escapes Sandbox and Executes Malware](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Snowflake Cortex AI Escapes Sandbox and Executes Malware
+> The best laptop Apple ever made
 
 ---
 
-### 4. Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
+### 5. Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
 
-[Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — **krebsonsecurity.com** · 10 小时前 · ⭐ 15/30
+[Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
 
 ---
 
-### 5. StopTheMadness Pro and StopTheScript Extensions for Safari
+### 6. Google Search Is Now Using AI to Rewrite Headlines
 
-[StopTheMadness Pro and StopTheScript Extensions for Safari](https://mastodon.social/@lapcatsoftware/116252960395480568) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> Google Search Is Now Using AI to Rewrite Headlines
+
+---
+
+### 7. Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
+
+[Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+
+> Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
+
+---
+
+### 8. Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
+
+[Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now](https://bsky.social/about/blog/03-19-2026-series-b) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
+
+---
+
+### 9. Quiche Browser
+
+[Quiche Browser](https://quiche.industries/browser/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Quiche Browser
+
+---
+
+### 10. StopTheMadness Pro and StopTheScript Extensions for Safari
+
+[StopTheMadness Pro and StopTheScript Extensions for Safari](https://mastodon.social/@lapcatsoftware/116252960395480568) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > StopTheMadness Pro and StopTheScript Extensions for Safari
 
 ---
 
-### 6. Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’
+### 11. Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’
 
-[Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’
 
 ---
 
-### 7. ‘Everyone but Trump Understands What He’s Done’
+### 12. ‘Everyone but Trump Understands What He’s Done’
 
-[‘Everyone but Trump Understands What He’s Done’](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[‘Everyone but Trump Understands What He’s Done’](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘Everyone but Trump Understands What He’s Done’
 
 ---
 
-### 8. The Day Mark Simonson Discovered Type Design
+### 13. The Day Mark Simonson Discovered Type Design
 
-[The Day Mark Simonson Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[The Day Mark Simonson Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Day Mark Simonson Discovered Type Design
 
 ---
 
-### 9. Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period
+### 14. Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period
 
-[Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period](https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period](https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period
 
 ---
 
-### 10. Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’
+### 15. Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’
 
-[Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’](https://news.ycombinator.com/item?id=47390945) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’](https://news.ycombinator.com/item?id=47390945) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’
 
 ---
 
-### 11. ★ AppleScript: ‘Save MarsEdit Document to Text File’
-
-[★ AppleScript: ‘Save MarsEdit Document to Text File’](https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
-
-> ★ AppleScript: ‘Save MarsEdit Document to Text File’
-
----
-
-### 12. The Talk Show: ‘The Pogue Feature’
-
-[The Talk Show: ‘The Pogue Feature’](https://daringfireball.net/thetalkshow/2026/03/18/ep-443) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Talk Show: ‘The Pogue Feature’
-
----
-
-### 13. ★ ‘Your Frustration Is the Product’
-
-[★ ‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ ‘Your Frustration Is the Product’
-
----
-
-### 14. How to Identify Your Apple Keyboard Layout by Country or Region
-
-[How to Identify Your Apple Keyboard Layout by Country or Region](https://support.apple.com/en-us/102743) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> How to Identify Your Apple Keyboard Layout by Country or Region
-
----
-
-### 15. Jony Ive on Redesigning the Christie’s Rostrum
-
-[Jony Ive on Redesigning the Christie’s Rostrum](https://www.youtube.com/watch?v=HLXDxx06_EM) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Jony Ive on Redesigning the Christie’s Rostrum
-
----
-
-*生成于 2026-03-20 11:22 | 扫描 83 源 → 获取 2422 篇 → 精选 15 篇*
+*生成于 2026-03-21 10:56 | 扫描 84 源 → 获取 2434 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
