@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-21
+# 📰 AI 博客每日精选 — 2026-03-22
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Turbo Pascal 3.02A, deconstructed**
+🥇 **Profiling Hacker News users based on their comments**
 
-[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+
+> Profiling Hacker News users based on their comments
+
+🥈 **Using Git with coding agents**
+
+[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+
+> Using Git with coding agents
+
+🥉 **Turbo Pascal 3.02A, deconstructed**
+
+[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Turbo Pascal 3.02A, deconstructed
-
-🥈 **Quoting Kimi.ai @Kimi_Moonshot**
-
-[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
-
-> Quoting Kimi.ai @Kimi_Moonshot
-
-🥉 **Thoughts on OpenAI acquiring Astral and uv/ruff/ty**
-
-[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Thoughts on OpenAI acquiring Astral and uv/ruff/ty
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2434 篇 → 35 篇 | 48h | **15 篇** |
+| 83/92 | 2423 篇 → 25 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Turbo Pascal 3.02A, deconstructed
+### 1. Profiling Hacker News users based on their comments
 
-[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Profiling Hacker News users based on their comments
+
+---
+
+### 2. Using Git with coding agents
+
+[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Using Git with coding agents
+
+---
+
+### 3. Turbo Pascal 3.02A, deconstructed
+
+[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Turbo Pascal 3.02A, deconstructed
 
 ---
 
-### 2. Quoting Kimi.ai @Kimi_Moonshot
+### 4. Quoting Kimi.ai @Kimi_Moonshot
 
-[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Kimi.ai @Kimi_Moonshot
 
 ---
 
-### 3. Thoughts on OpenAI acquiring Astral and uv/ruff/ty
+### 5. The best laptop Apple ever made
 
-[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Thoughts on OpenAI acquiring Astral and uv/ruff/ty
-
----
-
-### 4. The best laptop Apple ever made
-
-[The best laptop Apple ever made](https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
+[The best laptop Apple ever made](https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > The best laptop Apple ever made
 
 ---
 
-### 5. Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
+### 6. Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
 
-[Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
 
-> Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
+> Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
 
 ---
 
-### 6. Google Search Is Now Using AI to Rewrite Headlines
+### 7. Google Search Is Now Using AI to Rewrite Headlines
 
-[Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Google Search Is Now Using AI to Rewrite Headlines
 
 ---
 
-### 7. Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
+### 8. Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
 
-[Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
 
 ---
 
-### 8. Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
+### 9. Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
 
-[Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now](https://bsky.social/about/blog/03-19-2026-series-b) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now](https://bsky.social/about/blog/03-19-2026-series-b) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
 
 ---
 
-### 9. Quiche Browser
+### 10. Quiche Browser
 
-[Quiche Browser](https://quiche.industries/browser/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Quiche Browser](https://quiche.industries/browser/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Quiche Browser
 
 ---
 
-### 10. StopTheMadness Pro and StopTheScript Extensions for Safari
+### 11. Why Is Everyone Supposed to Die If Machines Can Think?
 
-[StopTheMadness Pro and StopTheScript Extensions for Safari](https://mastodon.social/@lapcatsoftware/116252960395480568) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> StopTheMadness Pro and StopTheScript Extensions for Safari
-
----
-
-### 11. Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’
-
-[Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’
+> Why Is Everyone Supposed to Die If Machines Can Think?
 
 ---
 
-### 12. ‘Everyone but Trump Understands What He’s Done’
+### 12. I'm OK being left behind, thanks!
 
-[‘Everyone but Trump Understands What He’s Done’](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[I'm OK being left behind, thanks!](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
-> ‘Everyone but Trump Understands What He’s Done’
-
----
-
-### 13. The Day Mark Simonson Discovered Type Design
-
-[The Day Mark Simonson Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Day Mark Simonson Discovered Type Design
+> I'm OK being left behind, thanks!
 
 ---
 
-### 14. Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period
+### 13. Windows stack limit checking retrospective: arm64, also known as AArch64
 
-[Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period](https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Windows stack limit checking retrospective: arm64, also known as AArch64](https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
 
-> Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period
-
----
-
-### 15. Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’
-
-[Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’](https://news.ycombinator.com/item?id=47390945) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’
+> Windows stack limit checking retrospective: arm64, also known as AArch64
 
 ---
 
-*生成于 2026-03-21 10:56 | 扫描 84 源 → 获取 2434 篇 → 精选 15 篇*
+### 14. Embedded regex flags
+
+[Embedded regex flags](https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+
+> Embedded regex flags
+
+---
+
+### 15. How to Attract AI Bots to Your Open Source Project
+
+[How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
+
+> How to Attract AI Bots to Your Open Source Project
+
+---
+
+*生成于 2026-03-22 10:57 | 扫描 83 源 → 获取 2423 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
