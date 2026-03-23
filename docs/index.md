@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-22
+# 📰 AI 博客每日精选 — 2026-03-23
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Profiling Hacker News users based on their comments**
+🥇 **Beats now have notes**
 
-[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
 
-> Profiling Hacker News users based on their comments
+> Beats now have notes
 
-🥈 **Using Git with coding agents**
+🥈 **Starlette 1.0 skill**
 
-[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Using Git with coding agents
+> Starlette 1.0 skill
 
-🥉 **Turbo Pascal 3.02A, deconstructed**
+🥉 **Experimenting with Starlette 1.0 with Claude skills**
 
-[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Turbo Pascal 3.02A, deconstructed
+> Experimenting with Starlette 1.0 with Claude skills
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2423 篇 → 25 篇 | 48h | **15 篇** |
+| 84/92 | 2435 篇 → 26 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Profiling Hacker News users based on their comments
+### 1. Beats now have notes
 
-[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+
+> Beats now have notes
+
+---
+
+### 2. Starlette 1.0 skill
+
+[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Starlette 1.0 skill
+
+---
+
+### 3. Experimenting with Starlette 1.0 with Claude skills
+
+[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Experimenting with Starlette 1.0 with Claude skills
+
+---
+
+### 4. PCGamer Article Performance Audit
+
+[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> PCGamer Article Performance Audit
+
+---
+
+### 5. JavaScript Sandboxing Research
+
+[JavaScript Sandboxing Research](https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> JavaScript Sandboxing Research
+
+---
+
+### 6. DNS Lookup
+
+[DNS Lookup](https://simonwillison.net/2026/Mar/22/dns/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> DNS Lookup
+
+---
+
+### 7. Merge State Visualizer
+
+[Merge State Visualizer](https://simonwillison.net/2026/Mar/22/manyana/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Merge State Visualizer
+
+---
+
+### 8. Profiling Hacker News users based on their comments
+
+[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Profiling Hacker News users based on their comments
 
 ---
 
-### 2. Using Git with coding agents
+### 9. Using Git with coding agents
 
-[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Using Git with coding agents
 
 ---
 
-### 3. Turbo Pascal 3.02A, deconstructed
+### 10. Mux — Video API for Developers
 
-[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Mux — Video API for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Turbo Pascal 3.02A, deconstructed
-
----
-
-### 4. Quoting Kimi.ai @Kimi_Moonshot
-
-[Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Kimi.ai @Kimi_Moonshot
+> Mux — Video API for Developers
 
 ---
 
-### 5. The best laptop Apple ever made
+### 11. ‘Good, I’m Glad He’s Dead.’
 
-[The best laptop Apple ever made](https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
+[‘Good, I’m Glad He’s Dead.’](https://truthsocial.com/@realDonaldTrump/116268334535345382) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> The best laptop Apple ever made
+> ‘Good, I’m Glad He’s Dead.’
 
 ---
 
-### 6. Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
+### 12. Half a Gigabyte of Ads
 
-[Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Half a Gigabyte of Ads](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Half a Gigabyte of Ads
+
+---
+
+### 13. Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
+
+[Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
 
 ---
 
-### 7. Google Search Is Now Using AI to Rewrite Headlines
+### 14. Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)
 
-[Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)](https://pluralistic.net/2026/03/22/nobodys-home/) — **pluralistic.net** · 6 小时前 · ⭐ 15/30
 
-> Google Search Is Now Using AI to Rewrite Headlines
-
----
-
-### 8. Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
-
-[Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency
+> Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)
 
 ---
 
-### 9. Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
+### 15. Bored of eating your own dogfood? Try smelling your own farts!
 
-[Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now](https://bsky.social/about/blog/03-19-2026-series-b) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
 
-> Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now
-
----
-
-### 10. Quiche Browser
-
-[Quiche Browser](https://quiche.industries/browser/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Quiche Browser
+> Bored of eating your own dogfood? Try smelling your own farts!
 
 ---
 
-### 11. Why Is Everyone Supposed to Die If Machines Can Think?
-
-[Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> Why Is Everyone Supposed to Die If Machines Can Think?
-
----
-
-### 12. I'm OK being left behind, thanks!
-
-[I'm OK being left behind, thanks!](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> I'm OK being left behind, thanks!
-
----
-
-### 13. Windows stack limit checking retrospective: arm64, also known as AArch64
-
-[Windows stack limit checking retrospective: arm64, also known as AArch64](https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
-
-> Windows stack limit checking retrospective: arm64, also known as AArch64
-
----
-
-### 14. Embedded regex flags
-
-[Embedded regex flags](https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Embedded regex flags
-
----
-
-### 15. How to Attract AI Bots to Your Open Source Project
-
-[How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
-
-> How to Attract AI Bots to Your Open Source Project
-
----
-
-*生成于 2026-03-22 10:57 | 扫描 83 源 → 获取 2423 篇 → 精选 15 篇*
+*生成于 2026-03-23 11:58 | 扫描 84 源 → 获取 2435 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
