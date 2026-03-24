@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-23
+# 📰 AI 博客每日精选 — 2026-03-24
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Beats now have notes**
+🥇 **Streaming experts**
 
-[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
+[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — simonwillison.net · 6 小时前 · 📝 其他
 
-> Beats now have notes
+> Streaming experts
 
-🥈 **Starlette 1.0 skill**
+🥈 **Quoting Neurotica**
 
-[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Starlette 1.0 skill
+> Quoting Neurotica
 
-🥉 **Experimenting with Starlette 1.0 with Claude skills**
+🥉 **datasette-files 0.1a2**
 
-[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Experimenting with Starlette 1.0 with Claude skills
+> datasette-files 0.1a2
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2435 篇 → 26 篇 | 48h | **15 篇** |
+| 82/92 | 2406 篇 → 40 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Beats now have notes
+### 1. Streaming experts
 
-[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — **simonwillison.net** · 6 小时前 · ⭐ 15/30
+
+> Streaming experts
+
+---
+
+### 2. Quoting Neurotica
+
+[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Neurotica
+
+---
+
+### 3. datasette-files 0.1a2
+
+[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> datasette-files 0.1a2
+
+---
+
+### 4. Quoting David Abram
+
+[Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting David Abram
+
+---
+
+### 5. Beats now have notes
+
+[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Beats now have notes
 
 ---
 
-### 2. Starlette 1.0 skill
+### 6. Starlette 1.0 skill
 
-[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Starlette 1.0 skill
 
 ---
 
-### 3. Experimenting with Starlette 1.0 with Claude skills
+### 7. Experimenting with Starlette 1.0 with Claude skills
 
-[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Experimenting with Starlette 1.0 with Claude skills
 
 ---
 
-### 4. PCGamer Article Performance Audit
+### 8. PCGamer Article Performance Audit
 
-[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > PCGamer Article Performance Audit
 
 ---
 
-### 5. JavaScript Sandboxing Research
+### 9. JavaScript Sandboxing Research
 
-[JavaScript Sandboxing Research](https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[JavaScript Sandboxing Research](https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > JavaScript Sandboxing Research
 
 ---
 
-### 6. DNS Lookup
+### 10. DNS Lookup
 
-[DNS Lookup](https://simonwillison.net/2026/Mar/22/dns/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[DNS Lookup](https://simonwillison.net/2026/Mar/22/dns/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > DNS Lookup
 
 ---
 
-### 7. Merge State Visualizer
+### 11. Merge State Visualizer
 
-[Merge State Visualizer](https://simonwillison.net/2026/Mar/22/manyana/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Merge State Visualizer](https://simonwillison.net/2026/Mar/22/manyana/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Merge State Visualizer
 
 ---
 
-### 8. Profiling Hacker News users based on their comments
+### 12. ‘CanisterWorm’ Springs Wiper Attack Targeting Iran
 
-[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) — **krebsonsecurity.com** · 20 小时前 · ⭐ 15/30
 
-> Profiling Hacker News users based on their comments
-
----
-
-### 9. Using Git with coding agents
-
-[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Using Git with coding agents
+> ‘CanisterWorm’ Springs Wiper Attack Targeting Iran
 
 ---
 
-### 10. Mux — Video API for Developers
+### 13. [Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps
 
-[Mux — Video API for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Mux — Video API for Developers
-
----
-
-### 11. ‘Good, I’m Glad He’s Dead.’
-
-[‘Good, I’m Glad He’s Dead.’](https://truthsocial.com/@realDonaldTrump/116268334535345382) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
-
-> ‘Good, I’m Glad He’s Dead.’
+> [Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps
 
 ---
 
-### 12. Half a Gigabyte of Ads
+### 14. Gasoline Prices Around the World
 
-[Half a Gigabyte of Ads](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Gasoline Prices Around the World](https://www.globalpetrolprices.com/gasoline_prices/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Half a Gigabyte of Ads
-
----
-
-### 13. Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
-
-[Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’
+> Gasoline Prices Around the World
 
 ---
 
-### 14. Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)
+### 15. WWDC 2026: June 8–12
 
-[Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)](https://pluralistic.net/2026/03/22/nobodys-home/) — **pluralistic.net** · 6 小时前 · ⭐ 15/30
+[WWDC 2026: June 8–12](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)
-
----
-
-### 15. Bored of eating your own dogfood? Try smelling your own farts!
-
-[Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
-
-> Bored of eating your own dogfood? Try smelling your own farts!
+> WWDC 2026: June 8–12
 
 ---
 
-*生成于 2026-03-23 11:58 | 扫描 84 源 → 获取 2435 篇 → 精选 15 篇*
+*生成于 2026-03-24 12:00 | 扫描 82 源 → 获取 2406 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
