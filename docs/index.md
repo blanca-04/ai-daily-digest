@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-24
+# 📰 AI 博客每日精选 — 2026-03-25
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Streaming experts**
+🥇 **Auto mode for Claude Code**
 
-[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — simonwillison.net · 6 小时前 · 📝 其他
+[Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Streaming experts
+> Auto mode for Claude Code
 
-🥈 **Quoting Neurotica**
+🥈 **Package Managers Need to Cool Down**
 
-[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Package Managers Need to Cool Down](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Quoting Neurotica
+> Package Managers Need to Cool Down
 
-🥉 **datasette-files 0.1a2**
+🥉 **Quoting Christopher Mims**
 
-[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Quoting Christopher Mims](https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> datasette-files 0.1a2
+> Quoting Christopher Mims
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2406 篇 → 40 篇 | 48h | **15 篇** |
+| 84/92 | 2436 篇 → 46 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Streaming experts
+### 1. Auto mode for Claude Code
 
-[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — **simonwillison.net** · 6 小时前 · ⭐ 15/30
+[Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Auto mode for Claude Code
+
+---
+
+### 2. Package Managers Need to Cool Down
+
+[Package Managers Need to Cool Down](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Package Managers Need to Cool Down
+
+---
+
+### 3. Quoting Christopher Mims
+
+[Quoting Christopher Mims](https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Quoting Christopher Mims
+
+---
+
+### 4. Malicious litellm_init.pth in litellm 1.82.8 — credential stealer
+
+[Malicious litellm_init.pth in litellm 1.82.8 — credential stealer](https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Malicious litellm_init.pth in litellm 1.82.8 — credential stealer
+
+---
+
+### 5. Streaming experts
+
+[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Streaming experts
 
 ---
 
-### 2. Quoting Neurotica
+### 6. Quoting Neurotica
 
-[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Neurotica
 
 ---
 
-### 3. datasette-files 0.1a2
+### 7. datasette-files 0.1a2
 
-[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-files 0.1a2
 
 ---
 
-### 4. Quoting David Abram
+### 8. Quoting David Abram
 
-[Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting David Abram
 
 ---
 
-### 5. Beats now have notes
+### 9. Using FireWire on a Raspberry Pi
 
-[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) — **jeffgeerling.com** · 18 小时前 · ⭐ 15/30
 
-> Beats now have notes
-
----
-
-### 6. Starlette 1.0 skill
-
-[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Starlette 1.0 skill
+> Using FireWire on a Raspberry Pi
 
 ---
 
-### 7. Experimenting with Starlette 1.0 with Claude skills
+### 10. ‘CanisterWorm’ Springs Wiper Attack Targeting Iran
 
-[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Experimenting with Starlette 1.0 with Claude skills
-
----
-
-### 8. PCGamer Article Performance Audit
-
-[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> PCGamer Article Performance Audit
-
----
-
-### 9. JavaScript Sandboxing Research
-
-[JavaScript Sandboxing Research](https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> JavaScript Sandboxing Research
-
----
-
-### 10. DNS Lookup
-
-[DNS Lookup](https://simonwillison.net/2026/Mar/22/dns/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> DNS Lookup
-
----
-
-### 11. Merge State Visualizer
-
-[Merge State Visualizer](https://simonwillison.net/2026/Mar/22/manyana/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Merge State Visualizer
-
----
-
-### 12. ‘CanisterWorm’ Springs Wiper Attack Targeting Iran
-
-[‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) — **krebsonsecurity.com** · 20 小时前 · ⭐ 15/30
+[‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > ‘CanisterWorm’ Springs Wiper Attack Targeting Iran
 
 ---
 
-### 13. [Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps
+### 11. Claude Can Now Take Control of Your Mac
 
-[[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Claude Can Now Take Control of Your Mac](https://claude.com/blog/dispatch-and-computer-use) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> [Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps
-
----
-
-### 14. Gasoline Prices Around the World
-
-[Gasoline Prices Around the World](https://www.globalpetrolprices.com/gasoline_prices/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Gasoline Prices Around the World
+> Claude Can Now Take Control of Your Mac
 
 ---
 
-### 15. WWDC 2026: June 8–12
+### 12. WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’
 
-[WWDC 2026: June 8–12](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> WWDC 2026: June 8–12
+> WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’
 
 ---
 
-*生成于 2026-03-24 12:00 | 扫描 82 源 → 获取 2406 篇 → 精选 15 篇*
+### 13. OpenAI Is Closing Sora
+
+[OpenAI Is Closing Sora](https://x.com/soraofficialapp/status/2036546752535470382) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
+
+> OpenAI Is Closing Sora
+
+---
+
+### 14. iOS 26.4
+
+[iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
+
+> iOS 26.4
+
+---
+
+### 15. Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones
+
+[Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones](https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones
+
+---
+
+*生成于 2026-03-25 10:37 | 扫描 84 源 → 获取 2436 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
