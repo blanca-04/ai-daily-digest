@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-03-26
+# 📰 AI 博客每日精选 — 2026-03-27
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette-files-s3 0.1a1**
+🥇 **We Rewrote JSONata with AI in a Day, Saved $500K/Year**
 
-[datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> datasette-files-s3 0.1a1
+> We Rewrote JSONata with AI in a Day, Saved $500K/Year
 
-🥈 **Thoughts on slowing the fuck down**
+🥈 **My minute-by-minute response to the LiteLLM malware attack**
 
-[Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[My minute-by-minute response to the LiteLLM malware attack](https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Thoughts on slowing the fuck down
+> My minute-by-minute response to the LiteLLM malware attack
 
-🥉 **datasette-llm 0.1a1**
+🥉 **Quantization from the ground up**
 
-[datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Quantization from the ground up](https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
 
-> datasette-llm 0.1a1
+> Quantization from the ground up
 
 ---
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette-files-s3 0.1a1
+### 1. We Rewrote JSONata with AI in a Day, Saved $500K/Year
 
-[datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> We Rewrote JSONata with AI in a Day, Saved $500K/Year
+
+---
+
+### 2. My minute-by-minute response to the LiteLLM malware attack
+
+[My minute-by-minute response to the LiteLLM malware attack](https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> My minute-by-minute response to the LiteLLM malware attack
+
+---
+
+### 3. Quantization from the ground up
+
+[Quantization from the ground up](https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Quantization from the ground up
+
+---
+
+### 4. datasette-files-s3 0.1a1
+
+[datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-files-s3 0.1a1
 
 ---
 
-### 2. Thoughts on slowing the fuck down
+### 5. Thoughts on slowing the fuck down
 
-[Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Thoughts on slowing the fuck down
 
 ---
 
-### 3. datasette-llm 0.1a1
+### 6. datasette-llm 0.1a1
 
-[datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-llm 0.1a1
 
 ---
 
-### 4. LiteLLM Hack: Were You One of the 47,000?
+### 7. LiteLLM Hack: Were You One of the 47,000?
 
-[LiteLLM Hack: Were You One of the 47,000?](https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[LiteLLM Hack: Were You One of the 47,000?](https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > LiteLLM Hack: Were You One of the 47,000?
 
 ---
 
-### 5. Auto mode for Claude Code
+### 8. Engineers do get promoted for writing simple code
 
-[Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Auto mode for Claude Code
-
----
-
-### 6. Package Managers Need to Cool Down
-
-[Package Managers Need to Cool Down](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Package Managers Need to Cool Down
-
----
-
-### 7. Quoting Christopher Mims
-
-[Quoting Christopher Mims](https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Christopher Mims
-
----
-
-### 8. Malicious litellm_init.pth in litellm 1.82.8 — credential stealer
-
-[Malicious litellm_init.pth in litellm 1.82.8 — credential stealer](https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Malicious litellm_init.pth in litellm 1.82.8 — credential stealer
-
----
-
-### 9. Using FireWire on a Raspberry Pi
-
-[Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Using FireWire on a Raspberry Pi
-
----
-
-### 10. Engineers do get promoted for writing simple code
-
-[Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Engineers do get promoted for writing simple code
 
 ---
 
-### 11. ‘A List of Chain Restaurants Whose Names Contain Unusual Structures’
+### 9. Apple Discontinues the Mac Pro With No Plans to Bring It Back
 
-[‘A List of Chain Restaurants Whose Names Contain Unusual Structures’](https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Apple Discontinues the Mac Pro With No Plans to Bring It Back](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> ‘A List of Chain Restaurants Whose Names Contain Unusual Structures’
-
----
-
-### 12. Improved Analytics in App Store Connect
-
-[Improved Analytics in App Store Connect](https://developer.apple.com/news/?id=hh6v4b55) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Improved Analytics in App Store Connect
+> Apple Discontinues the Mac Pro With No Plans to Bring It Back
 
 ---
 
-### 13. Claude Can Now Take Control of Your Mac
+### 10. The Apple Charging Situation
 
-[Claude Can Now Take Control of Your Mac](https://claude.com/blog/dispatch-and-computer-use) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[The Apple Charging Situation](https://randsinrepose.com/guides/apple-charging-guide.html) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Claude Can Now Take Control of Your Mac
-
----
-
-### 14. WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’
-
-[WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’
+> The Apple Charging Situation
 
 ---
 
-### 15. OpenAI Is Closing Sora
+### 11. You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4
 
-[OpenAI Is Closing Sora](https://x.com/soraofficialapp/status/2036546752535470382) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4](https://daringfireball.net/linked/2026/03/24/ios-264) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> OpenAI Is Closing Sora
+> You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4
 
 ---
 
-*生成于 2026-03-26 10:41 | 扫描 83 源 → 获取 2424 篇 → 精选 15 篇*
+### 12. Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed
+
+[Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed](https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed
+
+---
+
+### 13. Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It
+
+[Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It](https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It
+
+---
+
+### 14. NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’
+
+[NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’
+
+---
+
+### 15. The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’
+
+[The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’](https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’
+
+---
+
+*生成于 2026-03-27 10:37 | 扫描 83 源 → 获取 2424 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
