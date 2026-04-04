@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-04-03
+# 📰 AI 博客每日精选 — 2026-04-04
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Highlights from my conversation about agentic engineering on Lenny's Podcast**
+🥇 **Quoting Kyle Daigle**
 
-[Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Quoting Kyle Daigle](https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything) — simonwillison.net · 8 小时前 · 📝 其他
 
-> Highlights from my conversation about agentic engineering on Lenny's Podcast
+> Quoting Kyle Daigle
 
-🥈 **Gemma 4: Byte for byte, the most capable open models**
+🥈 **Vulnerability Research Is Cooked**
 
-[Gemma 4: Byte for byte, the most capable open models](https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Gemma 4: Byte for byte, the most capable open models
+> Vulnerability Research Is Cooked
 
-🥉 **llm-gemini 0.30**
+🥉 **The cognitive impact of coding agents**
 
-[llm-gemini 0.30](https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[The cognitive impact of coding agents](https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> llm-gemini 0.30
+> The cognitive impact of coding agents
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2418 篇 → 52 篇 | 48h | **15 篇** |
+| 84/92 | 2443 篇 → 46 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Highlights from my conversation about agentic engineering on Lenny's Podcast
+### 1. Quoting Kyle Daigle
 
-[Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Quoting Kyle Daigle](https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything) — **simonwillison.net** · 8 小时前 · ⭐ 15/30
+
+> Quoting Kyle Daigle
+
+---
+
+### 2. Vulnerability Research Is Cooked
+
+[Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Vulnerability Research Is Cooked
+
+---
+
+### 3. The cognitive impact of coding agents
+
+[The cognitive impact of coding agents](https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> The cognitive impact of coding agents
+
+---
+
+### 4. Quoting Willy Tarreau
+
+[Quoting Willy Tarreau](https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Willy Tarreau
+
+---
+
+### 5. Quoting Daniel Stenberg
+
+[Quoting Daniel Stenberg](https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Daniel Stenberg
+
+---
+
+### 6. Quoting Greg Kroah-Hartman
+
+[Quoting Greg Kroah-Hartman](https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Greg Kroah-Hartman
+
+---
+
+### 7. Can JavaScript Escape a CSP Meta Tag Inside an Iframe?
+
+[Can JavaScript Escape a CSP Meta Tag Inside an Iframe?](https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Can JavaScript Escape a CSP Meta Tag Inside an Iframe?
+
+---
+
+### 8. The Axios supply chain attack used individually targeted social engineering
+
+[The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> The Axios supply chain attack used individually targeted social engineering
+
+---
+
+### 9. Highlights from my conversation about agentic engineering on Lenny's Podcast
+
+[Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Highlights from my conversation about agentic engineering on Lenny's Podcast
 
 ---
 
-### 2. Gemma 4: Byte for byte, the most capable open models
+### 10. Gemma 4: Byte for byte, the most capable open models
 
-[Gemma 4: Byte for byte, the most capable open models](https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Gemma 4: Byte for byte, the most capable open models](https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Gemma 4: Byte for byte, the most capable open models
 
 ---
 
-### 3. llm-gemini 0.30
+### 11. llm-gemini 0.30
 
-[llm-gemini 0.30](https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[llm-gemini 0.30](https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-gemini 0.30
 
 ---
 
-### 4. March 2026 sponsors-only newsletter
+### 12. Build your own Dial-up ISP with a Raspberry Pi
 
-[March 2026 sponsors-only newsletter](https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> March 2026 sponsors-only newsletter
-
----
-
-### 5. datasette-llm 0.1a6
-
-[datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-llm 0.1a6
+> Build your own Dial-up ISP with a Raspberry Pi
 
 ---
 
-### 6. datasette-enrichments-llm 0.2a1
+### 13. Programming (with AI agents) as theory building
 
-[datasette-enrichments-llm 0.2a1](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-enrichments-llm 0.2a1
-
----
-
-### 7. DRAM pricing is killing the hobbyist SBC market
-
-[DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> DRAM pricing is killing the hobbyist SBC market
-
----
-
-### 8. Programming (with AI agents) as theory building
-
-[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Programming (with AI agents) as theory building
 
 ---
 
-### 9. John Buck on the Invention of QuickTime
+### 14. Apple Releases iOS 18 Security Updates for iOS 26 Holdouts
 
-[John Buck on the Invention of QuickTime](https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> John Buck on the Invention of QuickTime
-
----
-
-### 10. Artemis II Crew on Way to Moon
-
-[Artemis II Crew on Way to Moon](https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
-
-> Artemis II Crew on Way to Moon
+> Apple Releases iOS 18 Security Updates for iOS 26 Holdouts
 
 ---
 
-### 11. OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN
+### 15. Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut
 
-[OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN](https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut](https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN
-
----
-
-### 12. Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer
-
-[Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer
+> Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut
 
 ---
 
-### 13. ‘No, We’re Not Stupid. Our Dads Just Got Us Crummy Computers.’
-
-[‘No, We’re Not Stupid. Our Dads Just Got Us Crummy Computers.’](https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> ‘No, We’re Not Stupid. Our Dads Just Got Us Crummy Computers.’
-
----
-
-### 14. Jason Snell on Covering Apple for 33 Years
-
-[Jason Snell on Covering Apple for 33 Years](https://www.macworld.com/article/3103792/thanks-for-the-wild-ride-apple-lets-keep-it-going.html) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> Jason Snell on Covering Apple for 33 Years
-
----
-
-### 15. ‘Great Things in Business Are Never Done by One Person. They’re Done by a Team of People.’
-
-[‘Great Things in Business Are Never Done by One Person. They’re Done by a Team of People.’](https://www.youtube.com/watch?v=vydmUCGQnyI) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> ‘Great Things in Business Are Never Done by One Person. They’re Done by a Team of People.’
-
----
-
-*生成于 2026-04-03 10:33 | 扫描 83 源 → 获取 2418 篇 → 精选 15 篇*
+*生成于 2026-04-04 10:22 | 扫描 84 源 → 获取 2443 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
