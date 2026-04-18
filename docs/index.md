@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-04-17
+# 📰 AI 博客每日精选 — 2026-04-18
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette 1.0a28**
+🥇 **Adding a new content type to my blog-to-newsletter tool**
 
-[datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — simonwillison.net · 6 小时前 · 📝 其他
+[Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything) — simonwillison.net · 7 小时前 · 📝 其他
+
+> Adding a new content type to my blog-to-newsletter tool
+
+🥈 **Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year**
+
+[Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year](https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+
+> Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year
+
+🥉 **datasette 1.0a28**
+
+[datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > datasette 1.0a28
-
-🥈 **llm-anthropic 0.25**
-
-[llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
-
-> llm-anthropic 0.25
-
-🥉 **Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7**
-
-[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
-
-> Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2415 篇 → 43 篇 | 48h | **15 篇** |
+| 82/92 | 2409 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette 1.0a28
+### 1. Adding a new content type to my blog-to-newsletter tool
 
-[datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — **simonwillison.net** · 6 小时前 · ⭐ 15/30
+[Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+
+> Adding a new content type to my blog-to-newsletter tool
+
+---
+
+### 2. Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year
+
+[Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year](https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year
+
+---
+
+### 3. datasette 1.0a28
+
+[datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a28
 
 ---
 
-### 2. llm-anthropic 0.25
+### 4. llm-anthropic 0.25
 
-[llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-anthropic 0.25
 
 ---
 
-### 3. Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
+### 5. Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
 
-[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7
 
 ---
 
-### 4. datasette.io news preview
+### 6. Apple’s Developer Guidelines for Ratings and Review Prompts
 
-[datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> datasette.io news preview
-
----
-
-### 5. datasette-export-database 0.3a1
-
-[datasette-export-database 0.3a1](https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-export-database 0.3a1
+> Apple’s Developer Guidelines for Ratings and Review Prompts
 
 ---
 
-### 6. datasette 1.0a27
+### 7. Follow-Up Regarding App Store Reviews, Which Are Definitely Busted
 
-[datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> datasette 1.0a27
-
----
-
-### 7. Quoting John Gruber
-
-[Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting John Gruber
+> Follow-Up Regarding App Store Reviews, Which Are Definitely Busted
 
 ---
 
-### 8. Gemini 3.1 Flash TTS
+### 8. App Store Reviews Are Busted
 
-[Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Gemini 3.1 Flash TTS
-
----
-
-### 9. Gemini 3.1 Flash TTS
-
-[Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Gemini 3.1 Flash TTS
-
----
-
-### 10. Quoting Kyle Kingsbury
-
-[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Kyle Kingsbury
-
----
-
-### 11. An Arm Mainboard for the Framework Laptop
-
-[An Arm Mainboard for the Framework Laptop](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> An Arm Mainboard for the Framework Laptop
-
----
-
-### 12. App Store Reviews Are Busted
-
-[App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
+[App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > App Store Reviews Are Busted
 
 ---
 
-### 13. Freecash Was More Like Scamcash
+### 9. Freecash Was More Like Scamcash
 
-[Freecash Was More Like Scamcash](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Freecash Was More Like Scamcash](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Freecash Was More Like Scamcash
 
 ---
 
-### 14. Colliding With Reality, Indeed
+### 10. Colliding With Reality, Indeed
 
-[Colliding With Reality, Indeed](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Colliding With Reality, Indeed](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Colliding With Reality, Indeed
 
 ---
 
-### 15. How to Format 10-Digit Phone Numbers
+### 11. How to Format 10-Digit Phone Numbers
 
-[How to Format 10-Digit Phone Numbers](https://www.threads.com/@apstylebook/post/DXKtXVXEh7T) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[How to Format 10-Digit Phone Numbers](https://www.threads.com/@apstylebook/post/DXKtXVXEh7T) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > How to Format 10-Digit Phone Numbers
 
 ---
 
-*生成于 2026-04-17 10:45 | 扫描 82 源 → 获取 2415 篇 → 精选 15 篇*
+### 12. Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’
+
+[Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’
+
+---
+
+### 13. Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers
+
+[Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers
+
+---
+
+### 14. Bonus Thought Regarding the Name ‘iPhone Ultra’
+
+[Bonus Thought Regarding the Name ‘iPhone Ultra’](https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Bonus Thought Regarding the Name ‘iPhone Ultra’
+
+---
+
+### 15. Rory Goss’s Accessibility Story
+
+[Rory Goss’s Accessibility Story](https://www.apple.com/education/college-students/success-stories/goss/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Rory Goss’s Accessibility Story
+
+---
+
+*生成于 2026-04-18 10:30 | 扫描 82 源 → 获取 2409 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
