@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-02
+# 📰 AI 博客每日精选 — 2026-05-03
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **iNaturalist Sightings**
+🥇 **Sightings**
 
-[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+
+> Sightings
+
+🥈 **iNaturalist Sightings**
+
+[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > iNaturalist Sightings
 
-🥈 **Codex CLI 0.128.0 adds /goal**
+🥉 **SBC Clusters are a terrible value, but they're fun anyway**
 
-[Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — jeffgeerling.com · 1 天前 · 📝 其他
 
-> Codex CLI 0.128.0 adds /goal
-
-🥉 **Our evaluation of OpenAI's GPT-5.5 cyber capabilities**
-
-[Our evaluation of OpenAI's GPT-5.5 cyber capabilities](https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Our evaluation of OpenAI's GPT-5.5 cyber capabilities
+> SBC Clusters are a terrible value, but they're fun anyway
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2438 篇 → 33 篇 | 48h | **15 篇** |
+| 83/92 | 2439 篇 → 19 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. iNaturalist Sightings
+### 1. Sightings
 
-[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Sightings
+
+---
+
+### 2. iNaturalist Sightings
+
+[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > iNaturalist Sightings
 
 ---
 
-### 2. Codex CLI 0.128.0 adds /goal
+### 3. SBC Clusters are a terrible value, but they're fun anyway
 
-[Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Codex CLI 0.128.0 adds /goal
-
----
-
-### 3. Our evaluation of OpenAI's GPT-5.5 cyber capabilities
-
-[Our evaluation of OpenAI's GPT-5.5 cyber capabilities](https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Our evaluation of OpenAI's GPT-5.5 cyber capabilities
-
----
-
-### 4. Quoting Andrew Kelley
-
-[Quoting Andrew Kelley](https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Andrew Kelley
-
----
-
-### 5. We need RSS for sharing abundant vibe-coded apps
-
-[We need RSS for sharing abundant vibe-coded apps](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> We need RSS for sharing abundant vibe-coded apps
-
----
-
-### 6. SBC Clusters are a terrible value, but they're fun anyway
-
-[SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
+[SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > SBC Clusters are a terrible value, but they're fun anyway
 
 ---
 
-### 7. Anti-DDoS Firm Heaped Attacks on Brazilian ISPs
+### 4. Why I don't like the "staff engineer archetypes"
 
-[Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Anti-DDoS Firm Heaped Attacks on Brazilian ISPs
+> Why I don't like the "staff engineer archetypes"
 
 ---
 
-### 8. More on Apple’s Logically Elegant Tariff Refund Puzzle Solution
+### 5. More on Apple’s Logically Elegant Tariff Refund Puzzle Solution
 
-[More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
+[More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > More on Apple’s Logically Elegant Tariff Refund Puzzle Solution
 
 ---
 
-### 9. Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet
+### 6. Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet
 
-[Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet
 
 ---
 
-### 10. Tim Cook’s Clever Solution to the Tariff Refund Puzzle
+### 7. Tim Cook’s Clever Solution to the Tariff Refund Puzzle
 
-[Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Tim Cook’s Clever Solution to the Tariff Refund Puzzle
 
 ---
 
-### 11. The Talk Show: ‘Food and Beverage Director’
+### 8. Editing my LLM assisted Articles
 
-[The Talk Show: ‘Food and Beverage Director’](https://daringfireball.net/thetalkshow/2026/04/30/ep-446) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Editing my LLM assisted Articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> The Talk Show: ‘Food and Beverage Director’
-
----
-
-### 12. Scientology ‘Speed Running’ Trend
-
-[Scientology ‘Speed Running’ Trend](https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Scientology ‘Speed Running’ Trend
+> Editing my LLM assisted Articles
 
 ---
 
-### 13. Apple Q2 2026 Results
+### 9. Disable Auto-Update
 
-[Apple Q2 2026 Results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Disable Auto-Update](https://idiallo.com/blog/disable-auto-update?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> Apple Q2 2026 Results
-
----
-
-### 14. ★ On the Future of Apple’s Vision Platform
-
-[★ On the Future of Apple’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ On the Future of Apple’s Vision Platform
+> Disable Auto-Update
 
 ---
 
-### 15. I’m Starting to Wonder What They’re Smoking Over There at MacRumors
+### 10. Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)
 
-[I’m Starting to Wonder What They’re Smoking Over There at MacRumors](https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)](https://pluralistic.net/2026/05/02/denazification/) — **pluralistic.net** · 23 小时前 · ⭐ 15/30
 
-> I’m Starting to Wonder What They’re Smoking Over There at MacRumors
+> Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)
 
 ---
 
-*生成于 2026-05-02 10:40 | 扫描 83 源 → 获取 2438 篇 → 精选 15 篇*
+### 11. NHS Goes To War Against Open Source
+
+[NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> NHS Goes To War Against Open Source
+
+---
+
+### 12. Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment
+
+[Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment](https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+
+> Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment
+
+---
+
+### 13. A GitHub for maintainers
+
+[A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
+
+> A GitHub for maintainers
+
+---
+
+### 14. Reading List 05/02/2026
+
+[Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — **construction-physics.com** · 22 小时前 · ⭐ 15/30
+
+> Reading List 05/02/2026
+
+---
+
+### 15. The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain
+
+[The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/) — **filfre.net** · 1 天前 · ⭐ 15/30
+
+> The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain
+
+---
+
+*生成于 2026-05-03 10:42 | 扫描 83 源 → 获取 2439 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
