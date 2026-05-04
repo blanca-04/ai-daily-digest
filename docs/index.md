@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-03
+# 📰 AI 博客每日精选 — 2026-05-04
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Sightings**
+🥇 **Quoting Anthropic**
 
-[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+
+> Quoting Anthropic
+
+🥈 **Sightings**
+
+[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Sightings
 
-🥈 **iNaturalist Sightings**
+🥉 **X, the Platform of Free Speech**
 
-[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — daringfireball.net · 11 小时前 · 📝 其他
 
-> iNaturalist Sightings
-
-🥉 **SBC Clusters are a terrible value, but they're fun anyway**
-
-[SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — jeffgeerling.com · 1 天前 · 📝 其他
-
-> SBC Clusters are a terrible value, but they're fun anyway
+> X, the Platform of Free Speech
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2439 篇 → 19 篇 | 48h | **15 篇** |
+| 81/92 | 2389 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Sightings
+### 1. Quoting Anthropic
 
-[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Quoting Anthropic
+
+---
+
+### 2. Sightings
+
+[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Sightings
 
 ---
 
-### 2. iNaturalist Sightings
+### 3. X, the Platform of Free Speech
 
-[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> iNaturalist Sightings
-
----
-
-### 3. SBC Clusters are a terrible value, but they're fun anyway
-
-[SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> SBC Clusters are a terrible value, but they're fun anyway
+> X, the Platform of Free Speech
 
 ---
 
-### 4. Why I don't like the "staff engineer archetypes"
+### 4. ‘2 Letters From Steve’
 
-[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Why I don't like the "staff engineer archetypes"
-
----
-
-### 5. More on Apple’s Logically Elegant Tariff Refund Puzzle Solution
-
-[More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> More on Apple’s Logically Elegant Tariff Refund Puzzle Solution
+> ‘2 Letters From Steve’
 
 ---
 
-### 6. Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet
+### 5. ★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law
 
-[Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet
-
----
-
-### 7. Tim Cook’s Clever Solution to the Tariff Refund Puzzle
-
-[Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Tim Cook’s Clever Solution to the Tariff Refund Puzzle
+> ★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law
 
 ---
 
-### 8. Editing my LLM assisted Articles
+### 6. Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)
 
-[Editing my LLM assisted Articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/) — **pluralistic.net** · 1 小时前 · ⭐ 15/30
 
-> Editing my LLM assisted Articles
-
----
-
-### 9. Disable Auto-Update
-
-[Disable Auto-Update](https://idiallo.com/blog/disable-auto-update?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> Disable Auto-Update
+> Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)
 
 ---
 
-### 10. Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)
+### 7. Vertically Aligning Roman Numerals in Code
 
-[Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)](https://pluralistic.net/2026/05/02/denazification/) — **pluralistic.net** · 23 小时前 · ⭐ 15/30
+[Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
 
-> Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)
-
----
-
-### 11. NHS Goes To War Against Open Source
-
-[NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> NHS Goes To War Against Open Source
+> Vertically Aligning Roman Numerals in Code
 
 ---
 
-### 12. Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment
+### 8. The shape of a guitar pick
 
-[Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment](https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+[The shape of a guitar pick](https://www.johndcook.com/blog/2026/05/03/guitar-pick/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
 
-> Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment
-
----
-
-### 13. A GitHub for maintainers
-
-[A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
-
-> A GitHub for maintainers
+> The shape of a guitar pick
 
 ---
 
-### 14. Reading List 05/02/2026
+### 9. Minimal Viable Zig Error Contexts
 
-[Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — **construction-physics.com** · 22 小时前 · ⭐ 15/30
+[Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
+
+> Minimal Viable Zig Error Contexts
+
+---
+
+### 10. png-cmp: like cmp for PNGs
+
+[png-cmp: like cmp for PNGs](https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+
+> png-cmp: like cmp for PNGs
+
+---
+
+### 11. Package Manager CWEs
+
+[Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html) — **nesbitt.io** · 1 小时前 · ⭐ 15/30
+
+> Package Manager CWEs
+
+---
+
+### 12. Reading List 05/02/2026
+
+[Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — **construction-physics.com** · 1 天前 · ⭐ 15/30
 
 > Reading List 05/02/2026
 
 ---
 
-### 15. The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain
+### 13. Reinventing the Wheel
 
-[The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/) — **filfre.net** · 1 天前 · ⭐ 15/30
+[Reinventing the Wheel](https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history) — **tedium.co** · 21 小时前 · ⭐ 15/30
 
-> The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain
+> Reinventing the Wheel
 
 ---
 
-*生成于 2026-05-03 10:42 | 扫描 83 源 → 获取 2439 篇 → 精选 15 篇*
+### 14. From RSS to Atom
+
+[From RSS to Atom](https://susam.net/from-rss-to-atom.html) — **susam.net** · 11 小时前 · ⭐ 15/30
+
+> From RSS to Atom
+
+---
+
+### 15. QuickQWERTY 1.2.3
+
+[QuickQWERTY 1.2.3](https://susam.net/code/news/quickqwerty/1.2.3.html) — **susam.net** · 1 天前 · ⭐ 15/30
+
+> QuickQWERTY 1.2.3
+
+---
+
+*生成于 2026-05-04 11:30 | 扫描 81 源 → 获取 2389 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
