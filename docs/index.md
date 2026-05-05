@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-04
+# 📰 AI 博客每日精选 — 2026-05-05
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Anthropic**
+🥇 **Quoting John Gruber**
 
-[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Quoting Anthropic
+> Quoting John Gruber
 
-🥈 **Sightings**
+🥈 **Granite 4.1 3B SVG Pelican Gallery**
 
-[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Sightings
+> Granite 4.1 3B SVG Pelican Gallery
 
-🥉 **X, the Platform of Free Speech**
+🥉 **Quoting Andy Masley**
 
-[X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — daringfireball.net · 11 小时前 · 📝 其他
+[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> X, the Platform of Free Speech
+> Quoting Andy Masley
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2389 篇 → 22 篇 | 48h | **15 篇** |
+| 81/92 | 2389 篇 → 41 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Anthropic
+### 1. Quoting John Gruber
 
-[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Quoting John Gruber
+
+---
+
+### 2. Granite 4.1 3B SVG Pelican Gallery
+
+[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Granite 4.1 3B SVG Pelican Gallery
+
+---
+
+### 3. Quoting Andy Masley
+
+[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Andy Masley
+
+---
+
+### 4. April 2026 newsletter
+
+[April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> April 2026 newsletter
+
+---
+
+### 5. TRE Python binding — ReDoS robustness demo
+
+[TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> TRE Python binding — ReDoS robustness demo
+
+---
+
+### 6. Redis Array Playground
+
+[Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Redis Array Playground
+
+---
+
+### 7. Quoting Anthropic
+
+[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Anthropic
 
 ---
 
-### 2. Sightings
+### 8. [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.
 
-[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.](https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
 
-> Sightings
-
----
-
-### 3. X, the Platform of Free Speech
-
-[X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> X, the Platform of Free Speech
+> [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.
 
 ---
 
-### 4. ‘2 Letters From Steve’
+### 9. Chess Peace
 
-[‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Chess Peace](https://chesspeace.app/) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
 
-> ‘2 Letters From Steve’
-
----
-
-### 5. ★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law
-
-[★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> ★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law
+> Chess Peace
 
 ---
 
-### 6. Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)
+### 10. Adobe’s ‘Modern’ User Interface Is Just Webpages
 
-[Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/) — **pluralistic.net** · 1 小时前 · ⭐ 15/30
+[Adobe’s ‘Modern’ User Interface Is Just Webpages](https://pxlnv.com/linklog/adobe-modern-user-interface/) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
 
-> Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)
-
----
-
-### 7. Vertically Aligning Roman Numerals in Code
-
-[Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
-
-> Vertically Aligning Roman Numerals in Code
+> Adobe’s ‘Modern’ User Interface Is Just Webpages
 
 ---
 
-### 8. The shape of a guitar pick
+### 11. Paul Thurrott Might Write a Book on Markdown
 
-[The shape of a guitar pick](https://www.johndcook.com/blog/2026/05/03/guitar-pick/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+[Paul Thurrott Might Write a Book on Markdown](https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> The shape of a guitar pick
-
----
-
-### 9. Minimal Viable Zig Error Contexts
-
-[Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
-
-> Minimal Viable Zig Error Contexts
+> Paul Thurrott Might Write a Book on Markdown
 
 ---
 
-### 10. png-cmp: like cmp for PNGs
+### 12. ★ Y Combinator’s Stake in OpenAI
 
-[png-cmp: like cmp for PNGs](https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+[★ Y Combinator’s Stake in OpenAI](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> png-cmp: like cmp for PNGs
-
----
-
-### 11. Package Manager CWEs
-
-[Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html) — **nesbitt.io** · 1 小时前 · ⭐ 15/30
-
-> Package Manager CWEs
+> ★ Y Combinator’s Stake in OpenAI
 
 ---
 
-### 12. Reading List 05/02/2026
+### 13. Google Owns a Big Chunk of Anthropic
 
-[Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — **construction-physics.com** · 1 天前 · ⭐ 15/30
+[Google Owns a Big Chunk of Anthropic](https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Reading List 05/02/2026
-
----
-
-### 13. Reinventing the Wheel
-
-[Reinventing the Wheel](https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history) — **tedium.co** · 21 小时前 · ⭐ 15/30
-
-> Reinventing the Wheel
+> Google Owns a Big Chunk of Anthropic
 
 ---
 
-### 14. From RSS to Atom
+### 14. App Store Search Ads and the Slippery Slope
 
-[From RSS to Atom](https://susam.net/from-rss-to-atom.html) — **susam.net** · 11 小时前 · ⭐ 15/30
+[App Store Search Ads and the Slippery Slope](https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> From RSS to Atom
-
----
-
-### 15. QuickQWERTY 1.2.3
-
-[QuickQWERTY 1.2.3](https://susam.net/code/news/quickqwerty/1.2.3.html) — **susam.net** · 1 天前 · ⭐ 15/30
-
-> QuickQWERTY 1.2.3
+> App Store Search Ads and the Slippery Slope
 
 ---
 
-*生成于 2026-05-04 11:30 | 扫描 81 源 → 获取 2389 篇 → 精选 15 篇*
+### 15. ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’
+
+[‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’](https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’
+
+---
+
+*生成于 2026-05-05 11:08 | 扫描 81 源 → 获取 2389 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
