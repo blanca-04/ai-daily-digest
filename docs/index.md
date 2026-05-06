@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-05
+# 📰 AI 博客每日精选 — 2026-05-06
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting John Gruber**
+🥇 **datasette-referrer-policy 0.1**
 
-[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[datasette-referrer-policy 0.1](https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Quoting John Gruber
+> datasette-referrer-policy 0.1
 
-🥈 **Granite 4.1 3B SVG Pelican Gallery**
+🥈 **Our AI started a cafe in Stockholm**
 
-[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[Our AI started a cafe in Stockholm](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Granite 4.1 3B SVG Pelican Gallery
+> Our AI started a cafe in Stockholm
 
-🥉 **Quoting Andy Masley**
+🥉 **datasette-llm 0.1a7**
 
-[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
-> Quoting Andy Masley
+> datasette-llm 0.1a7
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2389 篇 → 41 篇 | 48h | **15 篇** |
+| 82/92 | 2420 篇 → 45 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting John Gruber
+### 1. datasette-referrer-policy 0.1
 
-[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[datasette-referrer-policy 0.1](https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> datasette-referrer-policy 0.1
+
+---
+
+### 2. Our AI started a cafe in Stockholm
+
+[Our AI started a cafe in Stockholm](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Our AI started a cafe in Stockholm
+
+---
+
+### 3. datasette-llm 0.1a7
+
+[datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> datasette-llm 0.1a7
+
+---
+
+### 4. llm-echo 0.5a0
+
+[llm-echo 0.5a0](https://simonwillison.net/2026/May/5/llm-echo/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> llm-echo 0.5a0
+
+---
+
+### 5. Quoting John Gruber
+
+[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting John Gruber
 
 ---
 
-### 2. Granite 4.1 3B SVG Pelican Gallery
+### 6. Granite 4.1 3B SVG Pelican Gallery
 
-[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Granite 4.1 3B SVG Pelican Gallery
 
 ---
 
-### 3. Quoting Andy Masley
+### 7. Quoting Andy Masley
 
-[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Andy Masley
 
 ---
 
-### 4. April 2026 newsletter
+### 8. April 2026 newsletter
 
-[April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > April 2026 newsletter
 
 ---
 
-### 5. TRE Python binding — ReDoS robustness demo
+### 9. TRE Python binding — ReDoS robustness demo
 
-[TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > TRE Python binding — ReDoS robustness demo
 
 ---
 
-### 6. Redis Array Playground
+### 10. Redis Array Playground
 
-[Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Redis Array Playground
 
 ---
 
-### 7. Quoting Anthropic
+### 11. Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens
 
-[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Quoting Anthropic
-
----
-
-### 8. [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.
-
-[[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.](https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
-
-> [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.
+> Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens
 
 ---
 
-### 9. Chess Peace
+### 12. Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million
 
-[Chess Peace](https://chesspeace.app/) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
+[Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million](https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Chess Peace
-
----
-
-### 10. Adobe’s ‘Modern’ User Interface Is Just Webpages
-
-[Adobe’s ‘Modern’ User Interface Is Just Webpages](https://pxlnv.com/linklog/adobe-modern-user-interface/) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
-
-> Adobe’s ‘Modern’ User Interface Is Just Webpages
+> Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million
 
 ---
 
-### 11. Paul Thurrott Might Write a Book on Markdown
+### 13. The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion
 
-[Paul Thurrott Might Write a Book on Markdown](https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion](https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Paul Thurrott Might Write a Book on Markdown
-
----
-
-### 12. ★ Y Combinator’s Stake in OpenAI
-
-[★ Y Combinator’s Stake in OpenAI](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> ★ Y Combinator’s Stake in OpenAI
+> The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion
 
 ---
 
-### 13. Google Owns a Big Chunk of Anthropic
+### 14. ★ Software as the Product of Obsession Times Voice
 
-[Google Owns a Big Chunk of Anthropic](https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[★ Software as the Product of Obsession Times Voice](https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Google Owns a Big Chunk of Anthropic
-
----
-
-### 14. App Store Search Ads and the Slippery Slope
-
-[App Store Search Ads and the Slippery Slope](https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
-
-> App Store Search Ads and the Slippery Slope
+> ★ Software as the Product of Obsession Times Voice
 
 ---
 
-### 15. ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’
+### 15. Pedometer++ 8.0
 
-[‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’](https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Pedometer++ 8.0](https://david-smith.org/blog/2026/04/29/maps-on-watchos/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’
+> Pedometer++ 8.0
 
 ---
 
-*生成于 2026-05-05 11:08 | 扫描 81 源 → 获取 2389 篇 → 精选 15 篇*
+*生成于 2026-05-06 11:42 | 扫描 82 源 → 获取 2420 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
