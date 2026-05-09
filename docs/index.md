@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-08
+# 📰 AI 博客每日精选 — 2026-05-09
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **llm-gemini 0.31**
+🥇 **Quoting Luke Curley**
 
-[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
+
+> Quoting Luke Curley
+
+🥈 **Using Claude Code: The Unreasonable Effectiveness of HTML**
+
+[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+
+> Using Claude Code: The Unreasonable Effectiveness of HTML
+
+🥉 **llm-gemini 0.31**
+
+[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > llm-gemini 0.31
-
-🥈 **Big Words**
-
-[Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
-
-> Big Words
-
-🥉 **Behind the Scenes Hardening Firefox with Claude Mythos Preview**
-
-[Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
-
-> Behind the Scenes Hardening Firefox with Claude Mythos Preview
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2419 篇 → 40 篇 | 48h | **15 篇** |
+| 83/92 | 2441 篇 → 36 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,81 +46,81 @@ pie showData
 
 ## 📝 其他
 
-### 1. llm-gemini 0.31
+### 1. Quoting Luke Curley
 
-[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+
+> Quoting Luke Curley
+
+---
+
+### 2. Using Claude Code: The Unreasonable Effectiveness of HTML
+
+[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Using Claude Code: The Unreasonable Effectiveness of HTML
+
+---
+
+### 3. llm-gemini 0.31
+
+[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-gemini 0.31
 
 ---
 
-### 2. Big Words
+### 4. Big Words
 
-[Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Big Words
 
 ---
 
-### 3. Behind the Scenes Hardening Firefox with Claude Mythos Preview
+### 5. Behind the Scenes Hardening Firefox with Claude Mythos Preview
 
-[Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Behind the Scenes Hardening Firefox with Claude Mythos Preview
 
 ---
 
-### 4. Notes on the xAI/Anthropic data center deal
+### 6. Notes on the xAI/Anthropic data center deal
 
-[Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Notes on the xAI/Anthropic data center deal
 
 ---
 
-### 5. GitHub Repo Stats
+### 7. HomePod mini feels like magic, but it's just good timing
 
-[GitHub Repo Stats](https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> GitHub Repo Stats
-
----
-
-### 6. Live blog: Code w/ Claude 2026
-
-[Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Live blog: Code w/ Claude 2026
+> HomePod mini feels like magic, but it's just good timing
 
 ---
 
-### 7. Vibe coding and agentic engineering are getting closer than I'd like
+### 8. AI makes weak engineers less harmful
 
-[Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Vibe coding and agentic engineering are getting closer than I'd like
+> AI makes weak engineers less harmful
 
 ---
 
-### 8. Notes on incidents
+### 9. Notes on incidents
 
-[Notes on incidents](https://seangoedecke.com/notes-on-incidents/) — **seangoedecke.com** · 11 小时前 · ⭐ 15/30
+[Notes on incidents](https://seangoedecke.com/notes-on-incidents/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Notes on incidents
 
 ---
 
-### 9. Why hasn't longer-horizon training slowed AI progress?
-
-[Why hasn't longer-horizon training slowed AI progress?](https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Why hasn't longer-horizon training slowed AI progress?
-
----
-
 ### 10. Canvas Breach Disrupts Schools & Colleges Nationwide
 
-[Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) — **krebsonsecurity.com** · 8 小时前 · ⭐ 15/30
+[Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Canvas Breach Disrupts Schools & Colleges Nationwide
 
@@ -128,7 +128,7 @@ pie showData
 
 ### 11. Prolost Watches 1.0
 
-[Prolost Watches 1.0](https://prolost.com/blog/prolostwatches) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Prolost Watches 1.0](https://prolost.com/blog/prolostwatches) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Prolost Watches 1.0
 
@@ -136,36 +136,36 @@ pie showData
 
 ### 12. The Greatest Match Cut in Cinematic History, Improved by Amazon Prime
 
-[The Greatest Match Cut in Cinematic History, Improved by Amazon Prime](https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[The Greatest Match Cut in Cinematic History, Improved by Amazon Prime](https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Greatest Match Cut in Cinematic History, Improved by Amazon Prime
 
 ---
 
-### 13. Broadcast Booths Around Baseball Tip Their Caps to John Sterling
+### 13. Hi stranger
 
-[Broadcast Booths Around Baseball Tip Their Caps to John Sterling](https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Hi stranger](https://idiallo.com/blog/hi?src=feed) — **idiallo.com** · 20 小时前 · ⭐ 15/30
 
-> Broadcast Booths Around Baseball Tip Their Caps to John Sterling
-
----
-
-### 14. Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding
-
-[Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding
+> Hi stranger
 
 ---
 
-### 15. Luca Maestri Runs the Cafeteria
+### 14. Pluralistic: Lee Lai's "Cannon" (08 May 2026)
 
-[Luca Maestri Runs the Cafeteria](https://www.apple.com/leadership/luca-maestri/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Lee Lai's "Cannon" (08 May 2026)](https://pluralistic.net/2026/05/08/gung-gung/) — **pluralistic.net** · 22 小时前 · ⭐ 15/30
 
-> Luca Maestri Runs the Cafeteria
+> Pluralistic: Lee Lai's "Cannon" (08 May 2026)
 
 ---
 
-*生成于 2026-05-08 11:01 | 扫描 82 源 → 获取 2419 篇 → 精选 15 篇*
+### 15. I've found just the right paper for my Bottom Hole problem
+
+[I've found just the right paper for my Bottom Hole problem](https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> I've found just the right paper for my Bottom Hole problem
+
+---
+
+*生成于 2026-05-09 10:44 | 扫描 83 源 → 获取 2441 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
