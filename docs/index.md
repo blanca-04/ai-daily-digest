@@ -2,7 +2,7 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-09
+# 📰 AI 博客每日精选 — 2026-05-10
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
@@ -10,21 +10,21 @@ title: AI Daily Digest
 
 🥇 **Quoting Luke Curley**
 
-[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
+[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting Luke Curley
 
 🥈 **Using Claude Code: The Unreasonable Effectiveness of HTML**
 
-[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Using Claude Code: The Unreasonable Effectiveness of HTML
 
-🥉 **llm-gemini 0.31**
+🥉 **HomePod mini feels like magic, but it's just good timing**
 
-[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — jeffgeerling.com · 1 天前 · 📝 其他
 
-> llm-gemini 0.31
+> HomePod mini feels like magic, but it's just good timing
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2441 篇 → 36 篇 | 48h | **15 篇** |
+| 82/92 | 2423 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -48,7 +48,7 @@ pie showData
 
 ### 1. Quoting Luke Curley
 
-[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Luke Curley
 
@@ -56,116 +56,116 @@ pie showData
 
 ### 2. Using Claude Code: The Unreasonable Effectiveness of HTML
 
-[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Using Claude Code: The Unreasonable Effectiveness of HTML
 
 ---
 
-### 3. llm-gemini 0.31
+### 3. HomePod mini feels like magic, but it's just good timing
 
-[llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> llm-gemini 0.31
-
----
-
-### 4. Big Words
-
-[Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Big Words
-
----
-
-### 5. Behind the Scenes Hardening Firefox with Claude Mythos Preview
-
-[Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Behind the Scenes Hardening Firefox with Claude Mythos Preview
-
----
-
-### 6. Notes on the xAI/Anthropic data center deal
-
-[Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Notes on the xAI/Anthropic data center deal
-
----
-
-### 7. HomePod mini feels like magic, but it's just good timing
-
-[HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
+[HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > HomePod mini feels like magic, but it's just good timing
 
 ---
 
-### 8. AI makes weak engineers less harmful
+### 4. The left-wing case for AI
 
-[AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+
+> The left-wing case for AI
+
+---
+
+### 5. AI makes weak engineers less harmful
+
+[AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > AI makes weak engineers less harmful
 
 ---
 
-### 9. Notes on incidents
+### 6. Hi stranger
 
-[Notes on incidents](https://seangoedecke.com/notes-on-incidents/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Notes on incidents
-
----
-
-### 10. Canvas Breach Disrupts Schools & Colleges Nationwide
-
-[Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> Canvas Breach Disrupts Schools & Colleges Nationwide
-
----
-
-### 11. Prolost Watches 1.0
-
-[Prolost Watches 1.0](https://prolost.com/blog/prolostwatches) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Prolost Watches 1.0
-
----
-
-### 12. The Greatest Match Cut in Cinematic History, Improved by Amazon Prime
-
-[The Greatest Match Cut in Cinematic History, Improved by Amazon Prime](https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Greatest Match Cut in Cinematic History, Improved by Amazon Prime
-
----
-
-### 13. Hi stranger
-
-[Hi stranger](https://idiallo.com/blog/hi?src=feed) — **idiallo.com** · 20 小时前 · ⭐ 15/30
+[Hi stranger](https://idiallo.com/blog/hi?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
 > Hi stranger
 
 ---
 
-### 14. Pluralistic: Lee Lai's "Cannon" (08 May 2026)
+### 7. Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)
 
-[Pluralistic: Lee Lai's "Cannon" (08 May 2026)](https://pluralistic.net/2026/05/08/gung-gung/) — **pluralistic.net** · 22 小时前 · ⭐ 15/30
+[Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) — **pluralistic.net** · 22 小时前 · ⭐ 15/30
+
+> Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)
+
+---
+
+### 8. Pluralistic: Lee Lai's "Cannon" (08 May 2026)
+
+[Pluralistic: Lee Lai's "Cannon" (08 May 2026)](https://pluralistic.net/2026/05/08/gung-gung/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Lee Lai's "Cannon" (08 May 2026)
 
 ---
 
-### 15. I've found just the right paper for my Bottom Hole problem
+### 9. Book Review: The Names by Florence Knapp ★★⯪☆☆
 
-[I've found just the right paper for my Bottom Hole problem](https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Book Review: The Names by Florence Knapp ★★⯪☆☆](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
 
-> I've found just the right paper for my Bottom Hole problem
+> Book Review: The Names by Florence Knapp ★★⯪☆☆
 
 ---
 
-*生成于 2026-05-09 10:44 | 扫描 83 源 → 获取 2441 篇 → 精选 15 篇*
+### 10. Developing more confidence when tracking renames via Read­Directory­ChangesW
+
+[Developing more confidence when tracking renames via Read­Directory­ChangesW](https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+
+> Developing more confidence when tracking renames via Read­Directory­ChangesW
+
+---
+
+### 11. Calculating curvature
+
+[Calculating curvature](https://www.johndcook.com/blog/2026/05/08/calculating-curvature/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+
+> Calculating curvature
+
+---
+
+### 12. Madame Semver Will See You Now
+
+[Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) — **nesbitt.io** · 53 分钟前 · ⭐ 15/30
+
+> Madame Semver Will See You Now
+
+---
+
+### 13. The Mismeasure of Open Source
+
+[The Mismeasure of Open Source](https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
+
+> The Mismeasure of Open Source
+
+---
+
+### 14. Reading List 05/09/2026
+
+[Reading List 05/09/2026](https://www.construction-physics.com/p/reading-list-05092026) — **construction-physics.com** · 22 小时前 · ⭐ 15/30
+
+> Reading List 05/09/2026
+
+---
+
+### 15. I Will Not Add Query Strings to Your URLs
+
+[I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) — **susam.net** · 1 天前 · ⭐ 15/30
+
+> I Will Not Add Query Strings to Your URLs
+
+---
+
+*生成于 2026-05-10 10:53 | 扫描 82 源 → 获取 2423 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
