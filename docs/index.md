@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-11
+# 📰 AI 博客每日精选 — 2026-05-12
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting New York Times Editors’ Note**
+🥇 **Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"**
 
-[Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Quoting New York Times Editors’ Note
+> Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
 
-🥈 **Quoting Andrew Quinn**
+🥈 **Quoting James Shore**
 
-[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Quoting Andrew Quinn
+> Quoting James Shore
 
-🥉 **The left-wing case for AI**
+🥉 **Your AI Use Is Breaking My Brain**
 
-[The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/) — seangoedecke.com · 1 天前 · 📝 其他
+[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> The left-wing case for AI
+> Your AI Use Is Breaking My Brain
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2416 篇 → 18 篇 | 48h | **15 篇** |
+| 82/92 | 2412 篇 → 40 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting New York Times Editors’ Note
+### 1. Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
 
-[Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
+
+---
+
+### 2. Quoting James Shore
+
+[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Quoting James Shore
+
+---
+
+### 3. Your AI Use Is Breaking My Brain
+
+[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Your AI Use Is Breaking My Brain
+
+---
+
+### 4. Using LLM in the shebang line of a script
+
+[Using LLM in the shebang line of a script](https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Using LLM in the shebang line of a script
+
+---
+
+### 5. Learning on the Shop floor
+
+[Learning on the Shop floor](https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Learning on the Shop floor
+
+---
+
+### 6. Quoting New York Times Editors’ Note
+
+[Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting New York Times Editors’ Note
 
 ---
 
-### 2. Quoting Andrew Quinn
+### 7. Quoting Andrew Quinn
 
-[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Andrew Quinn
 
 ---
 
-### 3. The left-wing case for AI
+### 8. [Sponsor] Drata
 
-[The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[[Sponsor] Drata](https://drata.com/daring) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
 
-> The left-wing case for AI
+> [Sponsor] Drata
 
 ---
 
-### 4. WorkOS
+### 9. iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging
 
-[WorkOS](https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging](https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging
+
+---
+
+### 10. iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026
+
+[iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026](https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+
+> iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026
+
+---
+
+### 11. The New PowerMac
+
+[The New PowerMac](https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> The New PowerMac
+
+---
+
+### 12. Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap
+
+[Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap
+
+---
+
+### 13. WorkOS
+
+[WorkOS](https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > WorkOS
 
 ---
 
-### 5. Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data
+### 14. Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data
 
-[Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data
 
 ---
 
-### 6. We Are Not Going to Agree on AI
+### 15. We Are Not Going to Agree on AI
 
-[We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) — **idiallo.com** · 33 分钟前 · ⭐ 15/30
+[We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) — **idiallo.com** · 23 小时前 · ⭐ 15/30
 
 > We Are Not Going to Agree on AI
 
 ---
 
-### 7. Pluralistic: 2024 (apart from the obvious) (11 May 2026)
-
-[Pluralistic: 2024 (apart from the obvious) (11 May 2026)](https://pluralistic.net/2026/05/11/postmortem/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
-
-> Pluralistic: 2024 (apart from the obvious) (11 May 2026)
-
----
-
-### 8. Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)
-
-[Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)
-
----
-
-### 9. The linear algebra of bit twiddling
-
-[The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/) — **johndcook.com** · 17 小时前 · ⭐ 15/30
-
-> The linear algebra of bit twiddling
-
----
-
-### 10. Reverse engineering Mersenne Twister with Linear Algebra
-
-[Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/) — **johndcook.com** · 19 小时前 · ⭐ 15/30
-
-> Reverse engineering Mersenne Twister with Linear Algebra
-
----
-
-### 11. Fear is information.
-
-[Fear is information.](https://www.joanwestenberg.com/fear-is-information/) — **joanwestenberg.com** · 8 小时前 · ⭐ 15/30
-
-> Fear is information.
-
----
-
-### 12. proxy
-
-[proxy](https://nesbitt.io/2026/05/11/proxy.html) — **nesbitt.io** · 2 小时前 · ⭐ 15/30
-
-> proxy
-
----
-
-### 13. Madame Semver Will See You Now
-
-[Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
-
-> Madame Semver Will See You Now
-
----
-
-### 14. The Problem of Pedagogy in Advanced Mathematics
-
-[The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html) — **susam.net** · 12 小时前 · ⭐ 15/30
-
-> The Problem of Pedagogy in Advanced Mathematics
-
----
-
-### 15. Out With the JS, In With the HTML
-
-[Out With the JS, In With the HTML](https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/) — **blog.jim-nielsen.com** · 17 小时前 · ⭐ 15/30
-
-> Out With the JS, In With the HTML
-
----
-
-*生成于 2026-05-11 12:33 | 扫描 82 源 → 获取 2416 篇 → 精选 15 篇*
+*生成于 2026-05-12 11:46 | 扫描 82 源 → 获取 2412 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
