@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-12
+# 📰 AI 博客每日精选 — 2026-05-13
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"**
+🥇 **CSP Allow-list Experiment**
 
-[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) — simonwillison.net · 7 小时前 · 📝 其他
 
-> Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
+> CSP Allow-list Experiment
 
-🥈 **Quoting James Shore**
+🥈 **datasette 1.0a29**
 
-[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Quoting James Shore
+> datasette 1.0a29
 
-🥉 **Your AI Use Is Breaking My Brain**
+🥉 **Quoting Mo Bitar**
 
-[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Quoting Mo Bitar](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Your AI Use Is Breaking My Brain
+> Quoting Mo Bitar
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2412 篇 → 40 篇 | 48h | **15 篇** |
+| 82/92 | 2413 篇 → 46 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
+### 1. CSP Allow-list Experiment
 
-[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+
+> CSP Allow-list Experiment
+
+---
+
+### 2. datasette 1.0a29
+
+[datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> datasette 1.0a29
+
+---
+
+### 3. Quoting Mo Bitar
+
+[Quoting Mo Bitar](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Mo Bitar
+
+---
+
+### 4. Quoting Mitchell Hashimoto
+
+[Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Quoting Mitchell Hashimoto
+
+---
+
+### 5. llm 0.32a2
+
+[llm 0.32a2](https://simonwillison.net/2026/May/12/llm/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> llm 0.32a2
+
+---
+
+### 6. Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
+
+[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"
 
 ---
 
-### 2. Quoting James Shore
+### 7. Quoting James Shore
 
-[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting James Shore
 
 ---
 
-### 3. Your AI Use Is Breaking My Brain
+### 8. Your AI Use Is Breaking My Brain
 
-[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Your AI Use Is Breaking My Brain
 
 ---
 
-### 4. Using LLM in the shebang line of a script
+### 9. Using LLM in the shebang line of a script
 
-[Using LLM in the shebang line of a script](https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Using LLM in the shebang line of a script](https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Using LLM in the shebang line of a script
 
 ---
 
-### 5. Learning on the Shop floor
+### 10. Learning on the Shop floor
 
-[Learning on the Shop floor](https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Learning on the Shop floor](https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Learning on the Shop floor
 
 ---
 
-### 6. Quoting New York Times Editors’ Note
+### 11. Bambu Lab is abusing the open source social contract
 
-[Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — **jeffgeerling.com** · 21 小时前 · ⭐ 15/30
 
-> Quoting New York Times Editors’ Note
-
----
-
-### 7. Quoting Andrew Quinn
-
-[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Andrew Quinn
+> Bambu Lab is abusing the open source social contract
 
 ---
 
-### 8. [Sponsor] Drata
+### 12. Patch Tuesday, May 2026 Edition
 
-[[Sponsor] Drata](https://drata.com/daring) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/) — **krebsonsecurity.com** · 14 小时前 · ⭐ 15/30
 
-> [Sponsor] Drata
-
----
-
-### 9. iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging
-
-[iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging](https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging
+> Patch Tuesday, May 2026 Edition
 
 ---
 
-### 10. iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026
+### 13. ★ Nextpad++
 
-[iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026](https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[★ Nextpad++](https://daringfireball.net/2026/05/nextpad) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026
-
----
-
-### 11. The New PowerMac
-
-[The New PowerMac](https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> The New PowerMac
+> ★ Nextpad++
 
 ---
 
-### 12. Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap
+### 14. Kagi Snaps
 
-[Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Kagi Snaps](https://help.kagi.com/kagi/features/snaps.html) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap
-
----
-
-### 13. WorkOS
-
-[WorkOS](https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> WorkOS
+> Kagi Snaps
 
 ---
 
-### 14. Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data
+### 15. Seriously, Give Kagi a Try
 
-[Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Seriously, Give Kagi a Try](https://daringfireball.net/2025/04/try_switching_to_kagi) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data
-
----
-
-### 15. We Are Not Going to Agree on AI
-
-[We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) — **idiallo.com** · 23 小时前 · ⭐ 15/30
-
-> We Are Not Going to Agree on AI
+> Seriously, Give Kagi a Try
 
 ---
 
-*生成于 2026-05-12 11:46 | 扫描 82 源 → 获取 2412 篇 → 精选 15 篇*
+*生成于 2026-05-13 11:53 | 扫描 82 源 → 获取 2413 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
