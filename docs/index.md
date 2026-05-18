@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-17
+# 📰 AI 博客每日精选 — 2026-05-18
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Warelay -> OpenClaw**
+🥇 **GDS weighs in on the NHS's decision to retreat from Open Source**
 
-[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+
+> GDS weighs in on the NHS's decision to retreat from Open Source
+
+🥈 **Warelay -> OpenClaw**
+
+[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Warelay -> OpenClaw
 
-🥈 **Quoting Julia Evans**
+🥉 **Quoting Julia Evans**
 
-[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting Julia Evans
-
-🥉 **inaturalist-clumper 0.1**
-
-[inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> inaturalist-clumper 0.1
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2428 篇 → 31 篇 | 48h | **15 篇** |
+| 80/92 | 2390 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Warelay -> OpenClaw
+### 1. GDS weighs in on the NHS's decision to retreat from Open Source
 
-[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> GDS weighs in on the NHS's decision to retreat from Open Source
+
+---
+
+### 2. Warelay -> OpenClaw
+
+[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Warelay -> OpenClaw
 
 ---
 
-### 2. Quoting Julia Evans
+### 3. Quoting Julia Evans
 
-[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Julia Evans
 
 ---
 
-### 3. inaturalist-clumper 0.1
+### 4. Drata
 
-[inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Drata](https://drata.com/daring) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
 
-> inaturalist-clumper 0.1
-
----
-
-### 4. Western Gull, Rock Pigeon
-
-[Western Gull, Rock Pigeon](https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Western Gull, Rock Pigeon
+> Drata
 
 ---
 
-### 5. How I use LLMs as a staff engineer in 2026
+### 5. Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices
 
-[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
-
-> How I use LLMs as a staff engineer in 2026
-
----
-
-### 6. DeepSeek-V4-Flash means LLM steering is interesting again
-
-[DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> DeepSeek-V4-Flash means LLM steering is interesting again
-
----
-
-### 7. Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices
-
-[Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices
 
 ---
 
-### 8. Santa Clara County Sues Meta Over Alleged Scam Ads
+### 6. Santa Clara County Sues Meta Over Alleged Scam Ads
 
-[Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Santa Clara County Sues Meta Over Alleged Scam Ads
 
 ---
 
-### 9. ★ AI Is Technology, Not a Product
+### 7. ★ AI Is Technology, Not a Product
 
-[★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ AI Is Technology, Not a Product
 
 ---
 
-### 10. ArXiv to Ban Researchers for a Year if They Submit AI Slop
+### 8. ArXiv to Ban Researchers for a Year if They Submit AI Slop
 
-[ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ArXiv to Ban Researchers for a Year if They Submit AI Slop
 
 ---
 
-### 11. The Talk Show: ‘A Sociopathic Father’
+### 9. How I Use My Index 01 + Production Update
 
-[The Talk Show: ‘A Sociopathic Father’](https://daringfireball.net/thetalkshow/2026/05/15/ep-447) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update) — **ericmigi.com** · 12 小时前 · ⭐ 15/30
 
-> The Talk Show: ‘A Sociopathic Father’
-
----
-
-### 12. Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company
-
-[Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company](https://www.wired.com/story/openai-reorg-greg-brockman-product/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company
+> How I Use My Index 01 + Production Update
 
 ---
 
-### 13. Wanton Destruction of CBS Property
+### 10. Don't call yourself a Software Engineer, you are an AI Enabled Engineer.
 
-[Wanton Destruction of CBS Property](https://www.youtube.com/watch?v=eBKWKu2Rqxc) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Don't call yourself a Software Engineer, you are an AI Enabled Engineer.](https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) — **idiallo.com** · 59 分钟前 · ⭐ 15/30
 
-> Wanton Destruction of CBS Property
-
----
-
-### 14. Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking
-
-[Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking](https://dropoverapp.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking
+> Don't call yourself a Software Engineer, you are an AI Enabled Engineer.
 
 ---
 
-### 15. Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks
+### 11. In the Empire's Defense
 
-[Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[In the Empire's Defense](https://idiallo.com/blog/the-empire-won?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks
+> In the Empire's Defense
 
 ---
 
-*生成于 2026-05-17 10:58 | 扫描 82 源 → 获取 2428 篇 → 精选 15 篇*
+### 12. GDS weighs in on the NHS's decision to retreat from Open Source
+
+[GDS weighs in on the NHS's decision to retreat from Open Source](https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> GDS weighs in on the NHS's decision to retreat from Open Source
+
+---
+
+### 13. How to be inspired without copying
+
+[How to be inspired without copying](https://www.joanwestenberg.com/how-to-be-inspired-without-copying/) — **joanwestenberg.com** · 14 小时前 · ⭐ 15/30
+
+> How to be inspired without copying
+
+---
+
+### 14. The mistake of conflating intelligence and power
+
+[The mistake of conflating intelligence and power](https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
+
+> The mistake of conflating intelligence and power
+
+---
+
+### 15. Notes on pretraining parallelisms and failed training runs.
+
+[Notes on pretraining parallelisms and failed training runs.](https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
+
+> Notes on pretraining parallelisms and failed training runs.
+
+---
+
+*生成于 2026-05-18 12:59 | 扫描 80 源 → 获取 2390 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
