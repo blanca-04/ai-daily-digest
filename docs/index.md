@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-18
+# 📰 AI 博客每日精选 — 2026-05-19
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **GDS weighs in on the NHS's decision to retreat from Open Source**
+🥇 **The last six months in LLMs in five minutes**
 
-[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — simonwillison.net · 20 小时前 · 📝 其他
+[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+
+> The last six months in LLMs in five minutes
+
+🥈 **Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose**
+
+[Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose](https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+
+> Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose
+
+🥉 **GDS weighs in on the NHS's decision to retreat from Open Source**
+
+[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > GDS weighs in on the NHS's decision to retreat from Open Source
-
-🥈 **Warelay -> OpenClaw**
-
-[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Warelay -> OpenClaw
-
-🥉 **Quoting Julia Evans**
-
-[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Quoting Julia Evans
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2390 篇 → 22 篇 | 48h | **15 篇** |
+| 81/92 | 2400 篇 → 33 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. GDS weighs in on the NHS's decision to retreat from Open Source
+### 1. The last six months in LLMs in five minutes
 
-[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> The last six months in LLMs in five minutes
+
+---
+
+### 2. Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose
+
+[Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose](https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose
+
+---
+
+### 3. GDS weighs in on the NHS's decision to retreat from Open Source
+
+[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > GDS weighs in on the NHS's decision to retreat from Open Source
 
 ---
 
-### 2. Warelay -> OpenClaw
+### 4. CISA Admin Leaked AWS GovCloud Keys on Github
 
-[Warelay -> OpenClaw](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) — **krebsonsecurity.com** · 15 小时前 · ⭐ 15/30
 
-> Warelay -> OpenClaw
-
----
-
-### 3. Quoting Julia Evans
-
-[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Julia Evans
+> CISA Admin Leaked AWS GovCloud Keys on Github
 
 ---
 
-### 4. Drata
+### 5. [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.
 
-[Drata](https://drata.com/daring) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.](https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+
+> [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.
+
+---
+
+### 6. Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict
+
+[Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict](https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict
+
+---
+
+### 7. ‘John Appleseed’
+
+[‘John Appleseed’](https://om.co/2026/04/20/john-appleseed/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> ‘John Appleseed’
+
+---
+
+### 8. Define ‘Boom’ Please
+
+[Define ‘Boom’ Please](https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Define ‘Boom’ Please
+
+---
+
+### 9. Ted Turner’s Small Apartment Above the Former CNN Center
+
+[Ted Turner’s Small Apartment Above the Former CNN Center](https://www.youtube.com/watch?v=OUIVs58oyPI) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Ted Turner’s Small Apartment Above the Former CNN Center
+
+---
+
+### 10. Existing Stakeholders Have a Say in the Future
+
+[Existing Stakeholders Have a Say in the Future](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Existing Stakeholders Have a Say in the Future
+
+---
+
+### 11. ‘AI, “Humanity”, and Dr. Manhattan Syndrome’
+
+[‘AI, “Humanity”, and Dr. Manhattan Syndrome’](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> ‘AI, “Humanity”, and Dr. Manhattan Syndrome’
+
+---
+
+### 12. The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments
+
+[The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments](https://en.wikipedia.org/wiki/Alaska_Permanent_Fund) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments
+
+---
+
+### 13. AI Data Centers Are Deeply Unpopular, Across the Political Spectrum
+
+[AI Data Centers Are Deeply Unpopular, Across the Political Spectrum](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> AI Data Centers Are Deeply Unpopular, Across the Political Spectrum
+
+---
+
+### 14. Drata
+
+[Drata](https://drata.com/daring) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Drata
 
 ---
 
-### 5. Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices
+### 15. How I Use My Index 01 + Production Update
 
-[Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices
-
----
-
-### 6. Santa Clara County Sues Meta Over Alleged Scam Ads
-
-[Santa Clara County Sues Meta Over Alleged Scam Ads](https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Santa Clara County Sues Meta Over Alleged Scam Ads
-
----
-
-### 7. ★ AI Is Technology, Not a Product
-
-[★ AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ AI Is Technology, Not a Product
-
----
-
-### 8. ArXiv to Ban Researchers for a Year if They Submit AI Slop
-
-[ArXiv to Ban Researchers for a Year if They Submit AI Slop](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ArXiv to Ban Researchers for a Year if They Submit AI Slop
-
----
-
-### 9. How I Use My Index 01 + Production Update
-
-[How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update) — **ericmigi.com** · 12 小时前 · ⭐ 15/30
+[How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update) — **ericmigi.com** · 1 天前 · ⭐ 15/30
 
 > How I Use My Index 01 + Production Update
 
 ---
 
-### 10. Don't call yourself a Software Engineer, you are an AI Enabled Engineer.
-
-[Don't call yourself a Software Engineer, you are an AI Enabled Engineer.](https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) — **idiallo.com** · 59 分钟前 · ⭐ 15/30
-
-> Don't call yourself a Software Engineer, you are an AI Enabled Engineer.
-
----
-
-### 11. In the Empire's Defense
-
-[In the Empire's Defense](https://idiallo.com/blog/the-empire-won?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> In the Empire's Defense
-
----
-
-### 12. GDS weighs in on the NHS's decision to retreat from Open Source
-
-[GDS weighs in on the NHS's decision to retreat from Open Source](https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> GDS weighs in on the NHS's decision to retreat from Open Source
-
----
-
-### 13. How to be inspired without copying
-
-[How to be inspired without copying](https://www.joanwestenberg.com/how-to-be-inspired-without-copying/) — **joanwestenberg.com** · 14 小时前 · ⭐ 15/30
-
-> How to be inspired without copying
-
----
-
-### 14. The mistake of conflating intelligence and power
-
-[The mistake of conflating intelligence and power](https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
-
-> The mistake of conflating intelligence and power
-
----
-
-### 15. Notes on pretraining parallelisms and failed training runs.
-
-[Notes on pretraining parallelisms and failed training runs.](https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
-
-> Notes on pretraining parallelisms and failed training runs.
-
----
-
-*生成于 2026-05-18 12:59 | 扫描 80 源 → 获取 2390 篇 → 精选 15 篇*
+*生成于 2026-05-19 12:33 | 扫描 81 源 → 获取 2400 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
