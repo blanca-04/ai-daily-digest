@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-21
+# 📰 AI 博客每日精选 — 2026-05-22
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting SpaceX S-1**
+🥇 **FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service**
 
-[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) — simonwillison.net · 7 小时前 · 📝 其他
 
-> Quoting SpaceX S-1
+> FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service
 
-🥈 **How fast is 10 tokens per second really?**
+🥈 **Datasette Agent**
 
-[How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+[Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> How fast is 10 tokens per second really?
+> Datasette Agent
 
-🥉 **Google I/O, Gemini Spark, Antigravity**
+🥉 **datasette-agent-sprites 0.1a0**
 
-[Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+[datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> Google I/O, Gemini Spark, Antigravity
+> datasette-agent-sprites 0.1a0
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2481 篇 → 34 篇 | 48h | **15 篇** |
+| 83/92 | 2463 篇 → 42 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting SpaceX S-1
+### 1. FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service
 
-[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+
+> FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service
+
+---
+
+### 2. Datasette Agent
+
+[Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Datasette Agent
+
+---
+
+### 3. datasette-agent-sprites 0.1a0
+
+[datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> datasette-agent-sprites 0.1a0
+
+---
+
+### 4. datasette-agent-charts 0.1a2
+
+[datasette-agent-charts 0.1a2](https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> datasette-agent-charts 0.1a2
+
+---
+
+### 5. datasette-agent 0.1a3
+
+[datasette-agent 0.1a3](https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> datasette-agent 0.1a3
+
+---
+
+### 6. Quoting SpaceX S-1
+
+[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting SpaceX S-1
 
 ---
 
-### 2. How fast is 10 tokens per second really?
+### 7. How fast is 10 tokens per second really?
 
-[How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > How fast is 10 tokens per second really?
 
 ---
 
-### 3. Google I/O, Gemini Spark, Antigravity
+### 8. Google I/O, Gemini Spark, Antigravity
 
-[Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Google I/O, Gemini Spark, Antigravity
 
 ---
 
-### 4. llm-gemini 0.32
+### 9. datasette-agent-charts 0.1a1
 
-[llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[datasette-agent-charts 0.1a1](https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
-> llm-gemini 0.32
-
----
-
-### 5. Gemini 3.5 Flash: more expensive, but Google plan to use it for everything
-
-[Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Gemini 3.5 Flash: more expensive, but Google plan to use it for everything
-
----
-
-### 6. datasette-llm-accountant 0.1a4
-
-[datasette-llm-accountant 0.1a4](https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-llm-accountant 0.1a4
-
----
-
-### 7. llm-gemini 0.32a0
-
-[llm-gemini 0.32a0](https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> llm-gemini 0.32a0
-
----
-
-### 8. datasette-llm 0.1a8
-
-[datasette-llm 0.1a8](https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-llm 0.1a8
-
----
-
-### 9. Wi-Wi Is Wireless Time Sync at 1 nanosecond
-
-[Wi-Wi Is Wireless Time Sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Wi-Wi Is Wireless Time Sync at 1 nanosecond
+> datasette-agent-charts 0.1a1
 
 ---
 
 ### 10. The famous o3 "GeoGuessr" prompt did not work
 
-[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) — **seangoedecke.com** · 12 小时前 · ⭐ 15/30
+[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > The famous o3 "GeoGuessr" prompt did not work
 
 ---
 
-### 11. Prompts are technical debt too
+### 11. Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada
 
-[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) — **krebsonsecurity.com** · 14 小时前 · ⭐ 15/30
 
-> Prompts are technical debt too
-
----
-
-### 12. The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’
-
-[The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
-
-> The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’
+> Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada
 
 ---
 
-### 13. WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’
+### 12. Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case
 
-[WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+[Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’
-
----
-
-### 14. NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’
-
-[NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’
+> Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case
 
 ---
 
-### 15. ‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’
+### 13. Apple TV to Broadcast Entire MLS Match Shot Using iPhones
 
-[‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’](https://www.tiktok.com/@brye.shhh/video/7641047549758934285) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Apple TV to Broadcast Entire MLS Match Shot Using iPhones](https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> ‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’
+> Apple TV to Broadcast Entire MLS Match Shot Using iPhones
 
 ---
 
-*生成于 2026-05-21 12:37 | 扫描 84 源 → 获取 2481 篇 → 精选 15 篇*
+### 14. Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup
+
+[Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup](https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup
+
+---
+
+### 15. Google I/O Keynote in 54 Seconds
+
+[Google I/O Keynote in 54 Seconds](https://x.com/ArtemR/status/2056961743142957143) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Google I/O Keynote in 54 Seconds
+
+---
+
+*生成于 2026-05-22 12:11 | 扫描 83 源 → 获取 2463 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
