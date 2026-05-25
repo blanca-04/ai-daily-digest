@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-24
+# 📰 AI 博客每日精选 — 2026-05-25
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **On the <dl>**
+🥇 **datasette 1.0a30**
 
-[On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> On the <dl>
+> datasette 1.0a30
 
-🥈 **The memory shortage is causing a repricing of consumer electronics**
+🥈 **datasette-agent 0.1a4**
 
-[The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> The memory shortage is causing a repricing of consumer electronics
+> datasette-agent 0.1a4
 
-🥉 **News about Raspberry Pi 6 and Microcontroller Development**
+🥉 **datasette-fixtures 0.1a0**
 
-[News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) — jeffgeerling.com · 1 天前 · 📝 其他
+[datasette-fixtures 0.1a0](https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> News about Raspberry Pi 6 and Microcontroller Development
+> datasette-fixtures 0.1a0
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2443 篇 → 28 篇 | 48h | **15 篇** |
+| 81/92 | 2429 篇 → 24 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. On the <dl>
+### 1. datasette 1.0a30
 
-[On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> datasette 1.0a30
+
+---
+
+### 2. datasette-agent 0.1a4
+
+[datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> datasette-agent 0.1a4
+
+---
+
+### 3. datasette-fixtures 0.1a0
+
+[datasette-fixtures 0.1a0](https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> datasette-fixtures 0.1a0
+
+---
+
+### 4. Quoting Armin Ronacher
+
+[Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Quoting Armin Ronacher
+
+---
+
+### 5. Mad House — Usborne Creepy Computer Games
+
+[Mad House — Usborne Creepy Computer Games](https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Mad House — Usborne Creepy Computer Games
+
+---
+
+### 6. On the <dl>
+
+[On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > On the <dl>
 
 ---
 
-### 2. The memory shortage is causing a repricing of consumer electronics
+### 7. Why Steve Kerr Stayed With the Warriors
 
-[The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Why Steve Kerr Stayed With the Warriors](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
 
-> The memory shortage is causing a repricing of consumer electronics
-
----
-
-### 3. News about Raspberry Pi 6 and Microcontroller Development
-
-[News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> News about Raspberry Pi 6 and Microcontroller Development
+> Why Steve Kerr Stayed With the Warriors
 
 ---
 
-### 4. Lawmakers Demand Answers as CISA Tries to Contain Data Leak
+### 8. Pluralistic: No honor among (ad-tech) thieves (25 May 2026)
 
-[Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Pluralistic: No honor among (ad-tech) thieves (25 May 2026)](https://pluralistic.net/2026/05/25/lying-spies/) — **pluralistic.net** · 4 小时前 · ⭐ 15/30
 
-> Lawmakers Demand Answers as CISA Tries to Contain Data Leak
-
----
-
-### 5. ★ The Fonts of the U.S. Federal Courts
-
-[★ The Fonts of the U.S. Federal Courts](https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ The Fonts of the U.S. Federal Courts
+> Pluralistic: No honor among (ad-tech) thieves (25 May 2026)
 
 ---
 
-### 6. The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)
+### 9. PHP - simple way to send HTTP headers before a script ends
 
-[The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[PHP - simple way to send HTTP headers before a script ends](https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/) — **shkspr.mobi** · 1 小时前 · ⭐ 15/30
 
-> The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)
-
----
-
-### 7. Zero Sum Problems and Apple Sports
-
-[Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Zero Sum Problems and Apple Sports
+> PHP - simple way to send HTTP headers before a script ends
 
 ---
 
-### 8. Stephen Colbert’s ‘The Late Show’ Finale
+### 10. Reverse engineering circuitry in a Spacelab computer from 1980
 
-[Stephen Colbert’s ‘The Late Show’ Finale](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Stephen Colbert’s ‘The Late Show’ Finale
-
----
-
-### 9. The commencement speech that shook the world
-
-[The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> The commencement speech that shook the world
-
----
-
-### 10. How to Talk to Your Coworkers
-
-[How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> How to Talk to Your Coworkers
-
----
-
-### 11. Which age-gates should be skill-gates and vice-versa?
-
-[Which age-gates should be skill-gates and vice-versa?](https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
-
-> Which age-gates should be skill-gates and vice-versa?
-
----
-
-### 12. Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?
-
-[Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?](https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
-
-> Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?
-
----
-
-### 13. Reverse engineering circuitry in a Spacelab computer from 1980
-
-[Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/feeds/872292081485114047/comments/default) — **righto.com** · 18 小时前 · ⭐ 15/30
+[Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/feeds/872292081485114047/comments/default) — **righto.com** · 1 天前 · ⭐ 15/30
 
 > Reverse engineering circuitry in a Spacelab computer from 1980
 
 ---
 
-### 14. Hilbert transform as an infinite matrix
+### 11. Building Pi With Pi
 
-[Hilbert transform as an infinite matrix](https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/) — **johndcook.com** · 19 小时前 · ⭐ 15/30
+[Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/) — **lucumr.pocoo.org** · 1 天前 · ⭐ 15/30
+
+> Building Pi With Pi
+
+---
+
+### 12. Hilbert transform as an infinite matrix
+
+[Hilbert transform as an infinite matrix](https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/) — **johndcook.com** · 1 天前 · ⭐ 15/30
 
 > Hilbert transform as an infinite matrix
 
 ---
 
-### 15. Real and imaginary parts
+### 13. Real and imaginary parts
 
-[Real and imaginary parts](https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/) — **johndcook.com** · 21 小时前 · ⭐ 15/30
+[Real and imaginary parts](https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/) — **johndcook.com** · 1 天前 · ⭐ 15/30
 
 > Real and imaginary parts
 
 ---
 
-*生成于 2026-05-24 11:05 | 扫描 82 源 → 获取 2443 篇 → 精选 15 篇*
+### 14. Why I can't stand the word "driven"
+
+[Why I can't stand the word "driven"](https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/) — **joanwestenberg.com** · 12 小时前 · ⭐ 15/30
+
+> Why I can't stand the word "driven"
+
+---
+
+### 15. Walking the dog with Claude
+
+[Walking the dog with Claude](http://xania.org/202605/walking-the-dog?utm_source=feed&amp;utm_medium=rss) — **xania.org** · 20 小时前 · ⭐ 15/30
+
+> Walking the dog with Claude
+
+---
+
+*生成于 2026-05-25 12:55 | 扫描 81 源 → 获取 2429 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
