@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-05-30
+# 📰 AI 博客每日精选 — 2026-05-31
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette 1.0a31**
+🥇 **Quoting Karen Kwok for Reuters Breakingviews**
 
-[datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
 
-> datasette 1.0a31
+> Quoting Karen Kwok for Reuters Breakingviews
 
-🥈 **Anthropic's run-rate revenue hits $47 billion**
+🥈 **How we contain Claude across products**
 
-[Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Anthropic's run-rate revenue hits $47 billion
+> How we contain Claude across products
 
-🥉 **Claude Opus 4.8: "a modest but tangible improvement"**
+🥉 **Running Python ASGI apps in the browser via Pyodide + a service worker**
 
-[Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Claude Opus 4.8: "a modest but tangible improvement"
+> Running Python ASGI apps in the browser via Pyodide + a service worker
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2461 篇 → 28 篇 | 48h | **15 篇** |
+| 84/92 | 2491 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette 1.0a31
+### 1. Quoting Karen Kwok for Reuters Breakingviews
 
-[datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
 
-> datasette 1.0a31
-
----
-
-### 2. Anthropic's run-rate revenue hits $47 billion
-
-[Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Anthropic's run-rate revenue hits $47 billion
+> Quoting Karen Kwok for Reuters Breakingviews
 
 ---
 
-### 3. Claude Opus 4.8: "a modest but tangible improvement"
+### 2. How we contain Claude across products
 
-[Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
 
-> Claude Opus 4.8: "a modest but tangible improvement"
-
----
-
-### 4. llm-anthropic 0.25.1
-
-[llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> llm-anthropic 0.25.1
+> How we contain Claude across products
 
 ---
 
-### 5. markdown-svg-renderer
+### 3. Running Python ASGI apps in the browser via Pyodide + a service worker
 
-[markdown-svg-renderer](https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
 
-> markdown-svg-renderer
+> Running Python ASGI apps in the browser via Pyodide + a service worker
+
+---
+
+### 4. I Am Retiring from Tech to Live Offline
+
+[I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> I Am Retiring from Tech to Live Offline
+
+---
+
+### 5. Quoting Daniel Jalkut
+
+[Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Daniel Jalkut
 
 ---
 
 ### 6. It's hard to justify buying a Framework 12
 
-[It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) — **jeffgeerling.com** · 21 小时前 · ⭐ 15/30
+[It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > It's hard to justify buying a Framework 12
 
 ---
 
-### 7. Tuning in FM Radio on a 3D Printer Heatbed
+### 7. Build agents, not pipelines
 
-[Tuning in FM Radio on a 3D Printer Heatbed](https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
+[Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) — **seangoedecke.com** · 11 小时前 · ⭐ 15/30
 
-> Tuning in FM Radio on a 3D Printer Heatbed
+> Build agents, not pipelines
 
 ---
 
-### 8. ★ What Is a Dickover?
+### 8. Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’
 
-[★ What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’
+
+---
+
+### 9. Daniel Jalkut on AI
+
+[Daniel Jalkut on AI](https://mastodon.social/@danielpunkass/116639318125898071) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Daniel Jalkut on AI
+
+---
+
+### 10. Yours Truly on TBPN Yesterday
+
+[Yours Truly on TBPN Yesterday](https://www.youtube.com/live/sQVwLUxFdMY?t=1997) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Yours Truly on TBPN Yesterday
+
+---
+
+### 11. ★ What Is a Dickover?
+
+[★ What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ What Is a Dickover?
 
 ---
 
-### 9. One Group, Clearly, Is Deranged
+### 12. One Group, Clearly, Is Deranged
 
-[One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > One Group, Clearly, Is Deranged
 
 ---
 
-### 10. Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras
+### 13. Arp 114:
 
-[Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras](https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Arp 114:](https://maurycyz.com/astro/arp114/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
 
-> Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras
-
----
-
-### 11. Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity
-
-[Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity
+> Arp 114:
 
 ---
 
-### 12. Pluralistic: Carneyism without Carney (30 May 2026)
+### 14. Pluralistic: Carneyism without Carney (30 May 2026)
 
-[Pluralistic: Carneyism without Carney (30 May 2026)](https://pluralistic.net/2026/05/30/rupture/) — **pluralistic.net** · 1 小时前 · ⭐ 15/30
+[Pluralistic: Carneyism without Carney (30 May 2026)](https://pluralistic.net/2026/05/30/rupture/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Carneyism without Carney (30 May 2026)
 
 ---
 
-### 13. Pluralistic: Hold on for dear life (28 May 2026)
+### 15. The UK Government's Low Value Purchase System is a Waste of Time
 
-[Pluralistic: Hold on for dear life (28 May 2026)](https://pluralistic.net/2026/05/28/we-live-in-a-society/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Hold on for dear life (28 May 2026)
-
----
-
-### 14. The UK Government's Low Value Purchase System is a Waste of Time
-
-[The UK Government's Low Value Purchase System is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — **shkspr.mobi** · 23 小时前 · ⭐ 15/30
+[The UK Government's Low Value Purchase System is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > The UK Government's Low Value Purchase System is a Waste of Time
 
 ---
 
-### 15. Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3
-
-[Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3](https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368) — **devblogs.microsoft.com/oldnewthing** · 21 小时前 · ⭐ 15/30
-
-> Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3
-
----
-
-*生成于 2026-05-30 11:10 | 扫描 82 源 → 获取 2461 篇 → 精选 15 篇*
+*生成于 2026-05-31 11:24 | 扫描 84 源 → 获取 2491 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
