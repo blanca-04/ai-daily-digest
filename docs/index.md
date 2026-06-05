@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-04
+# 📰 AI 博客每日精选 — 2026-06-05
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Uber Caps Usage of AI Tools Like Claude Code to Manage Costs**
+🥇 **Quoting Andreas Kling**
 
-[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) — simonwillison.net · 1 小时前 · 📝 其他
 
-> Uber Caps Usage of AI Tools Like Claude Code to Manage Costs
+> Quoting Andreas Kling
 
-🥈 **Microsoft's new MAI models**
+🥈 **AI enthusiasts are in a race against time, AI skeptics are in a race against entropy**
 
-[Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Microsoft's new MAI models
+> AI enthusiasts are in a race against time, AI skeptics are in a race against entropy
 
-🥉 **datasette-agent-micropython 0.1a0**
+🥉 **Quoting Emanuel Maiberg, 404 Media**
 
-[datasette-agent-micropython 0.1a0](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
 
-> datasette-agent-micropython 0.1a0
+> Quoting Emanuel Maiberg, 404 Media
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2478 篇 → 37 篇 | 48h | **15 篇** |
+| 81/92 | 2448 篇 → 40 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Uber Caps Usage of AI Tools Like Claude Code to Manage Costs
+### 1. Quoting Andreas Kling
 
-[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) — **simonwillison.net** · 1 小时前 · ⭐ 15/30
 
-> Uber Caps Usage of AI Tools Like Claude Code to Manage Costs
-
----
-
-### 2. Microsoft's new MAI models
-
-[Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Microsoft's new MAI models
+> Quoting Andreas Kling
 
 ---
 
-### 3. datasette-agent-micropython 0.1a0
+### 2. AI enthusiasts are in a race against time, AI skeptics are in a race against entropy
 
-[datasette-agent-micropython 0.1a0](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
 
-> datasette-agent-micropython 0.1a0
-
----
-
-### 4. micropython-wasm 0.1a1
-
-[micropython-wasm 0.1a1](https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> micropython-wasm 0.1a1
+> AI enthusiasts are in a race against time, AI skeptics are in a race against entropy
 
 ---
 
-### 5. California Brown Pelican
+### 3. Quoting Emanuel Maiberg, 404 Media
 
-[California Brown Pelican](https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
 
-> California Brown Pelican
+> Quoting Emanuel Maiberg, 404 Media
 
 ---
 
-### 6. Anti-AI nostalgia and the cult of the past
+### 4. Anti-AI nostalgia and the cult of the past
 
-[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) — **seangoedecke.com** · 12 小时前 · ⭐ 15/30
+[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Anti-AI nostalgia and the cult of the past
 
 ---
 
-### 7. Another Gem From the Annals of Nick Bilton Jackassery
+### 5. Some People Rooted for The Empire in ‘Star Wars’, Too
 
-[Another Gem From the Annals of Nick Bilton Jackassery](https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Some People Rooted for The Empire in ‘Star Wars’, Too](https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+
+> Some People Rooted for The Empire in ‘Star Wars’, Too
+
+---
+
+### 6. The Talk Show Live From WWDC 2026: Tuesday in San Jose
+
+[The Talk Show Live From WWDC 2026: Tuesday in San Jose](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+
+> The Talk Show Live From WWDC 2026: Tuesday in San Jose
+
+---
+
+### 7. ‘The Insider’
+
+[‘The Insider’](https://letterboxd.com/film/the-insider/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> ‘The Insider’
+
+---
+
+### 8. ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’
+
+[‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’
+
+---
+
+### 9. Lingon and Lingon Pro 10
+
+[Lingon and Lingon Pro 10](https://www.peterborgapps.com/lingon/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Lingon and Lingon Pro 10
+
+---
+
+### 10. Remember When Chrome Went Bad on MacOS?
+
+[Remember When Chrome Went Bad on MacOS?](https://chromeisbad.com/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Remember When Chrome Went Bad on MacOS?
+
+---
+
+### 11. Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous
+
+[Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous
+
+---
+
+### 12. The AI-Driven Resurgence of Native Mac App Development
+
+[The AI-Driven Resurgence of Native Mac App Development](https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> The AI-Driven Resurgence of Native Mac App Development
+
+---
+
+### 13. Another Gem From the Annals of Nick Bilton Jackassery
+
+[Another Gem From the Annals of Nick Bilton Jackassery](https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Another Gem From the Annals of Nick Bilton Jackassery
 
 ---
 
-### 8. If There’s One Thing Nick Bilton Knows, It’s Television
+### 14. If There’s One Thing Nick Bilton Knows, It’s Television
 
-[If There’s One Thing Nick Bilton Knows, It’s Television](https://daringfireball.net/linked/2011/10/27/bilton-itv) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[If There’s One Thing Nick Bilton Knows, It’s Television](https://daringfireball.net/linked/2011/10/27/bilton-itv) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > If There’s One Thing Nick Bilton Knows, It’s Television
 
 ---
 
-### 9. Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’
+### 15. Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’
 
-[Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’
 
 ---
 
-### 10. The ‘60 Minutes’ Purge
-
-[The ‘60 Minutes’ Purge](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> The ‘60 Minutes’ Purge
-
----
-
-### 11. CBS News Fires Scott Pelley of ‘60 Minutes’
-
-[CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> CBS News Fires Scott Pelley of ‘60 Minutes’
-
----
-
-### 12. The Underworld Market to Remove the Recording Indicator Light on Meta Glasses
-
-[The Underworld Market to Remove the Recording Indicator Light on Meta Glasses](https://www.youtube.com/watch?v=EaJSPeJmqis) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> The Underworld Market to Remove the Recording Indicator Light on Meta Glasses
-
----
-
-### 13. Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year
-
-[Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year](https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year
-
----
-
-### 14. Apple, the Anti-‘Metaverse’ VR Company
-
-[Apple, the Anti-‘Metaverse’ VR Company](https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple, the Anti-‘Metaverse’ VR Company
-
----
-
-### 15. The Metaverse Was Snake Oil for Isolation
-
-[The Metaverse Was Snake Oil for Isolation](https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Metaverse Was Snake Oil for Isolation
-
----
-
-*生成于 2026-06-04 12:36 | 扫描 83 源 → 获取 2478 篇 → 精选 15 篇*
+*生成于 2026-06-05 12:29 | 扫描 81 源 → 获取 2448 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
