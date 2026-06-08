@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-07
+# 📰 AI 博客每日精选 — 2026-06-08
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **micropython-wasm 0.1a2**
+🥇 **datasette-agent-edit 0.1a0**
 
-[micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> micropython-wasm 0.1a2
+> datasette-agent-edit 0.1a0
 
-🥈 **Running Python code in a sandbox with MicroPython and WASM**
+🥈 **Doing nothing at work**
 
-[Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) — seangoedecke.com · 13 小时前 · 📝 其他
 
-> Running Python code in a sandbox with MicroPython and WASM
+> Doing nothing at work
 
-🥉 **OpenAI Help: Lockdown Mode**
+🥉 **Working with product managers**
 
-[OpenAI Help: Lockdown Mode](https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Working with product managers](https://seangoedecke.com/working-with-product-managers/) — seangoedecke.com · 13 小时前 · 📝 其他
 
-> OpenAI Help: Lockdown Mode
+> Working with product managers
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2463 篇 → 30 篇 | 48h | **15 篇** |
+| 83/92 | 2481 篇 → 28 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. micropython-wasm 0.1a2
+### 1. datasette-agent-edit 0.1a0
 
-[micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
 
-> micropython-wasm 0.1a2
-
----
-
-### 2. Running Python code in a sandbox with MicroPython and WASM
-
-[Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Running Python code in a sandbox with MicroPython and WASM
+> datasette-agent-edit 0.1a0
 
 ---
 
-### 3. OpenAI Help: Lockdown Mode
+### 2. Doing nothing at work
 
-[OpenAI Help: Lockdown Mode](https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
 
-> OpenAI Help: Lockdown Mode
-
----
-
-### 4. I tested every IP KVM in my Homelab
-
-[I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> I tested every IP KVM in my Homelab
+> Doing nothing at work
 
 ---
 
-### 5. Halide Mark III
+### 3. Working with product managers
 
-[Halide Mark III](https://www.lux.camera/halide-mark-iii/) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Working with product managers](https://seangoedecke.com/working-with-product-managers/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
+
+> Working with product managers
+
+---
+
+### 4. Mux — Video for Developers
+
+[Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Mux — Video for Developers
+
+---
+
+### 5. ★ SwiftUI Only Makes It Easy to Develop Bad Apps
+
+[★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> ★ SwiftUI Only Makes It Easy to Develop Bad Apps
+
+---
+
+### 6. Alberto Romero on Apple’s AI Spending
+
+[Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Alberto Romero on Apple’s AI Spending
+
+---
+
+### 7. Halide Mark III
+
+[Halide Mark III](https://www.lux.camera/halide-mark-iii/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Halide Mark III
 
 ---
 
-### 6. 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show
+### 8. 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show
 
-[60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show](https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show](https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show
 
 ---
 
-### 7. Trump Lawyer Argues Trump Can Tear Down Statue of Liberty
+### 9. Trump Lawyer Argues Trump Can Tear Down Statue of Liberty
 
-[Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Trump Lawyer Argues Trump Can Tear Down Statue of Liberty
 
 ---
 
-### 8. Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links
+### 10. A new era for software testing
 
-[Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links](https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links
-
----
-
-### 9. Elon Musk’s X Is a Freak Show
-
-[Elon Musk’s X Is a Freak Show](https://www.natesilver.net/p/social-media-has-become-a-freak-show) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Elon Musk’s X Is a Freak Show
-
----
-
-### 10. Checking in on Perplexity
-
-[Checking in on Perplexity](https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Checking in on Perplexity
-
----
-
-### 11. A new era for software testing
-
-[A new era for software testing](http://antirez.com/news/168) — **antirez.com** · 1 小时前 · ⭐ 15/30
+[A new era for software testing](http://antirez.com/news/168) — **antirez.com** · 1 天前 · ⭐ 15/30
 
 > A new era for software testing
 
 ---
 
-### 12. Why all the PRs?
+### 11. Arp 297:
 
-[Why all the PRs?](https://idiallo.com/blog/why-all-the-prs) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Arp 297:](https://maurycyz.com/astro/arp297/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
 
-> Why all the PRs?
+> Arp 297:
 
 ---
 
-### 13. Pluralistic: Criticizing the everything machine (06 Jun 2026)
+### 12. Pluralistic: Criticizing the everything machine (06 Jun 2026)
 
-[Pluralistic: Criticizing the everything machine (06 Jun 2026)](https://pluralistic.net/2026/06/06/applied-counterescatology/) — **pluralistic.net** · 17 小时前 · ⭐ 15/30
+[Pluralistic: Criticizing the everything machine (06 Jun 2026)](https://pluralistic.net/2026/06/06/applied-counterescatology/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Criticizing the everything machine (06 Jun 2026)
 
 ---
 
-### 14. Pluralistic: Refining humanity (05 Jun 2026)
+### 13. How many consecutive hyphens can you have in a domain name?
 
-[Pluralistic: Refining humanity (05 Jun 2026)](https://pluralistic.net/2026/06/05/defining-humanity/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[How many consecutive hyphens can you have in a domain name?](https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
 
-> Pluralistic: Refining humanity (05 Jun 2026)
-
----
-
-### 15. There's still no point in gigabit broadband
-
-[There's still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> There's still no point in gigabit broadband
+> How many consecutive hyphens can you have in a domain name?
 
 ---
 
-*生成于 2026-06-07 11:41 | 扫描 82 源 → 获取 2463 篇 → 精选 15 篇*
+### 14. Giving your Go apps Tigris superpowers
+
+[Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — **xeiaso.net** · -604 分钟前 · ⭐ 15/30
+
+> Giving your Go apps Tigris superpowers
+
+---
+
+### 15. Powering up a module from the IBM 604: an electronic calculator from 1948
+
+[Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/feeds/3379514160039863191/comments/default) — **righto.com** · 20 小时前 · ⭐ 15/30
+
+> Powering up a module from the IBM 604: an electronic calculator from 1948
+
+---
+
+*生成于 2026-06-08 13:56 | 扫描 83 源 → 获取 2481 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
