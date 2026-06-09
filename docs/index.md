@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-08
+# 📰 AI 博客每日精选 — 2026-06-09
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette-agent-edit 0.1a0**
+🥇 **Siri AI at WWDC 2026**
 
-[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+
+> Siri AI at WWDC 2026
+
+🥈 **datasette-agent-edit 0.1a0**
+
+[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > datasette-agent-edit 0.1a0
 
-🥈 **Doing nothing at work**
+🥉 **[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration**
 
-[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) — seangoedecke.com · 13 小时前 · 📝 其他
+[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — daringfireball.net · 8 小时前 · 📝 其他
 
-> Doing nothing at work
-
-🥉 **Working with product managers**
-
-[Working with product managers](https://seangoedecke.com/working-with-product-managers/) — seangoedecke.com · 13 小时前 · 📝 其他
-
-> Working with product managers
+> [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2481 篇 → 28 篇 | 48h | **15 篇** |
+| 80/92 | 2415 篇 → 26 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette-agent-edit 0.1a0
+### 1. Siri AI at WWDC 2026
 
-[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Siri AI at WWDC 2026
+
+---
+
+### 2. datasette-agent-edit 0.1a0
+
+[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-agent-edit 0.1a0
 
 ---
 
-### 2. Doing nothing at work
+### 3. [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
 
-[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
+[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
 
-> Doing nothing at work
-
----
-
-### 3. Working with product managers
-
-[Working with product managers](https://seangoedecke.com/working-with-product-managers/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
-
-> Working with product managers
+> [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
 
 ---
 
-### 4. Mux — Video for Developers
+### 4. From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
 
-[Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+
+> From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
+
+---
+
+### 5. Mux — Video for Developers
+
+[Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Mux — Video for Developers
 
 ---
 
-### 5. ★ SwiftUI Only Makes It Easy to Develop Bad Apps
+### 6. ★ SwiftUI Only Makes It Easy to Develop Bad Apps
 
-[★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ SwiftUI Only Makes It Easy to Develop Bad Apps
 
 ---
 
-### 6. Alberto Romero on Apple’s AI Spending
+### 7. Alberto Romero on Apple’s AI Spending
 
-[Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Alberto Romero on Apple’s AI Spending
 
 ---
 
-### 7. Halide Mark III
+### 8. ppclp.ai announces 100x Productivity Gains
 
-[Halide Mark III](https://www.lux.camera/halide-mark-iii/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[ppclp.ai announces 100x Productivity Gains](https://idiallo.com/blog/100x-productivity-gain) — **idiallo.com** · 16 小时前 · ⭐ 15/30
 
-> Halide Mark III
-
----
-
-### 8. 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show
-
-[60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show](https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show
+> ppclp.ai announces 100x Productivity Gains
 
 ---
 
-### 9. Trump Lawyer Argues Trump Can Tear Down Statue of Liberty
+### 9. Giving your Go apps Tigris superpowers
 
-[Trump Lawyer Argues Trump Can Tear Down Statue of Liberty](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Trump Lawyer Argues Trump Can Tear Down Statue of Liberty
-
----
-
-### 10. A new era for software testing
-
-[A new era for software testing](http://antirez.com/news/168) — **antirez.com** · 1 天前 · ⭐ 15/30
-
-> A new era for software testing
-
----
-
-### 11. Arp 297:
-
-[Arp 297:](https://maurycyz.com/astro/arp297/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
-
-> Arp 297:
-
----
-
-### 12. Pluralistic: Criticizing the everything machine (06 Jun 2026)
-
-[Pluralistic: Criticizing the everything machine (06 Jun 2026)](https://pluralistic.net/2026/06/06/applied-counterescatology/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Criticizing the everything machine (06 Jun 2026)
-
----
-
-### 13. How many consecutive hyphens can you have in a domain name?
-
-[How many consecutive hyphens can you have in a domain name?](https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
-
-> How many consecutive hyphens can you have in a domain name?
-
----
-
-### 14. Giving your Go apps Tigris superpowers
-
-[Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — **xeiaso.net** · -604 分钟前 · ⭐ 15/30
+[Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — **xeiaso.net** · 12 小时前 · ⭐ 15/30
 
 > Giving your Go apps Tigris superpowers
 
 ---
 
-### 15. Powering up a module from the IBM 604: an electronic calculator from 1948
+### 10. Rotation revisited: Shuffling more than three blocks, and other small notes
 
-[Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/feeds/3379514160039863191/comments/default) — **righto.com** · 20 小时前 · ⭐ 15/30
+[Rotation revisited: Shuffling more than three blocks, and other small notes](https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407) — **devblogs.microsoft.com/oldnewthing** · 22 小时前 · ⭐ 15/30
+
+> Rotation revisited: Shuffling more than three blocks, and other small notes
+
+---
+
+### 11. Powering up a module from the IBM 604: an electronic calculator from 1948
+
+[Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/feeds/3379514160039863191/comments/default) — **righto.com** · 1 天前 · ⭐ 15/30
 
 > Powering up a module from the IBM 604: an electronic calculator from 1948
 
 ---
 
-*生成于 2026-06-08 13:56 | 扫描 83 源 → 获取 2481 篇 → 精选 15 篇*
+### 12. Aitken acceleration before Aitken
+
+[Aitken acceleration before Aitken](https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+
+> Aitken acceleration before Aitken
+
+---
+
+### 13. The Laplace limit
+
+[The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+
+> The Laplace limit
+
+---
+
+### 14. A crank formula for π
+
+[A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+
+> A crank formula for π
+
+---
+
+### 15. Forms of Open Source Government
+
+[Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html) — **nesbitt.io** · 2 小时前 · ⭐ 15/30
+
+> Forms of Open Source Government
+
+---
+
+*生成于 2026-06-09 12:29 | 扫描 80 源 → 获取 2415 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
