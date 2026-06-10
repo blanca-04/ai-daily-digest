@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-09
+# 📰 AI 博客每日精选 — 2026-06-10
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Siri AI at WWDC 2026**
+🥇 **If Claude Fable stops helping you, you'll never know**
 
-[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Siri AI at WWDC 2026
+> If Claude Fable stops helping you, you'll never know
 
-🥈 **datasette-agent-edit 0.1a0**
+🥈 **Initial impressions of Claude Fable 5**
 
-[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> datasette-agent-edit 0.1a0
+> Initial impressions of Claude Fable 5
 
-🥉 **[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration**
+🥉 **llm 0.32a3**
 
-[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — daringfireball.net · 8 小时前 · 📝 其他
+[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
+> llm 0.32a3
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2415 篇 → 26 篇 | 48h | **15 篇** |
+| 82/92 | 2452 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Siri AI at WWDC 2026
+### 1. If Claude Fable stops helping you, you'll never know
 
-[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> If Claude Fable stops helping you, you'll never know
+
+---
+
+### 2. Initial impressions of Claude Fable 5
+
+[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Initial impressions of Claude Fable 5
+
+---
+
+### 3. llm 0.32a3
+
+[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> llm 0.32a3
+
+---
+
+### 4. Setting a custom price for a model in AgentsView
+
+[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Setting a custom price for a model in AgentsView
+
+---
+
+### 5. Quoting Andrej Karpathy
+
+[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Andrej Karpathy
+
+---
+
+### 6. Siri AI at WWDC 2026
+
+[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Siri AI at WWDC 2026
 
 ---
 
-### 2. datasette-agent-edit 0.1a0
+### 7. A Record-Breaking Patch Tuesday for June 2026
 
-[datasette-agent-edit 0.1a0](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — **krebsonsecurity.com** · 14 小时前 · ⭐ 15/30
 
-> datasette-agent-edit 0.1a0
+> A Record-Breaking Patch Tuesday for June 2026
 
 ---
 
-### 3. [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
+### 8. Apple OS 27: The Small Things
 
-[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
+[Apple OS 27: The Small Things](https://blog.oneberri.com/posts/wwdc26-the-small-things) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Apple OS 27: The Small Things
+
+---
+
+### 9. The Talk Show Live From WWDC: Tonight, In-Person and Streaming
+
+[The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> The Talk Show Live From WWDC: Tonight, In-Person and Streaming
+
+---
+
+### 10. Apple WWDC 2026 Keynote
+
+[Apple WWDC 2026 Keynote](https://www.youtube.com/watch?v=hF8swzNR1-o) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Apple WWDC 2026 Keynote
+
+---
+
+### 11. Apple’s WWDC AI Demos Were Real and in Real Time
+
+[Apple’s WWDC AI Demos Were Real and in Real Time](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Apple’s WWDC AI Demos Were Real and in Real Time
+
+---
+
+### 12. Apple Introduces Siri AI
+
+[Apple Introduces Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Apple Introduces Siri AI
+
+---
+
+### 13. Apple’s WWDC Announcement of the New Apple Intelligence System
+
+[Apple’s WWDC Announcement of the New Apple Intelligence System](https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Apple’s WWDC Announcement of the New Apple Intelligence System
+
+---
+
+### 14. [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
+
+[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
 
 ---
 
-### 4. From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
+### 15. From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
 
-[From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
 
 ---
 
-### 5. Mux — Video for Developers
-
-[Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Mux — Video for Developers
-
----
-
-### 6. ★ SwiftUI Only Makes It Easy to Develop Bad Apps
-
-[★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ SwiftUI Only Makes It Easy to Develop Bad Apps
-
----
-
-### 7. Alberto Romero on Apple’s AI Spending
-
-[Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Alberto Romero on Apple’s AI Spending
-
----
-
-### 8. ppclp.ai announces 100x Productivity Gains
-
-[ppclp.ai announces 100x Productivity Gains](https://idiallo.com/blog/100x-productivity-gain) — **idiallo.com** · 16 小时前 · ⭐ 15/30
-
-> ppclp.ai announces 100x Productivity Gains
-
----
-
-### 9. Giving your Go apps Tigris superpowers
-
-[Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — **xeiaso.net** · 12 小时前 · ⭐ 15/30
-
-> Giving your Go apps Tigris superpowers
-
----
-
-### 10. Rotation revisited: Shuffling more than three blocks, and other small notes
-
-[Rotation revisited: Shuffling more than three blocks, and other small notes](https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407) — **devblogs.microsoft.com/oldnewthing** · 22 小时前 · ⭐ 15/30
-
-> Rotation revisited: Shuffling more than three blocks, and other small notes
-
----
-
-### 11. Powering up a module from the IBM 604: an electronic calculator from 1948
-
-[Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/feeds/3379514160039863191/comments/default) — **righto.com** · 1 天前 · ⭐ 15/30
-
-> Powering up a module from the IBM 604: an electronic calculator from 1948
-
----
-
-### 12. Aitken acceleration before Aitken
-
-[Aitken acceleration before Aitken](https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Aitken acceleration before Aitken
-
----
-
-### 13. The Laplace limit
-
-[The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> The Laplace limit
-
----
-
-### 14. A crank formula for π
-
-[A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> A crank formula for π
-
----
-
-### 15. Forms of Open Source Government
-
-[Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html) — **nesbitt.io** · 2 小时前 · ⭐ 15/30
-
-> Forms of Open Source Government
-
----
-
-*生成于 2026-06-09 12:29 | 扫描 80 源 → 获取 2415 篇 → 精选 15 篇*
+*生成于 2026-06-10 12:48 | 扫描 82 源 → 获取 2452 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
