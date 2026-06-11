@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-10
+# 📰 AI 博客每日精选 — 2026-06-11
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **If Claude Fable stops helping you, you'll never know**
+🥇 **Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude**
 
-[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> If Claude Fable stops helping you, you'll never know
+> Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
 
-🥈 **Initial impressions of Claude Fable 5**
+🥈 **datasette-agent 0.2a0**
 
-[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Initial impressions of Claude Fable 5
+> datasette-agent 0.2a0
 
-🥉 **llm 0.32a3**
+🥉 **DiffusionGemma**
 
-[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> llm 0.32a3
+> DiffusionGemma
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2452 篇 → 35 篇 | 48h | **15 篇** |
+| 82/92 | 2466 篇 → 37 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. If Claude Fable stops helping you, you'll never know
+### 1. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
 
-[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+
+---
+
+### 2. datasette-agent 0.2a0
+
+[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> datasette-agent 0.2a0
+
+---
+
+### 3. DiffusionGemma
+
+[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> DiffusionGemma
+
+---
+
+### 4. Quoting Jeremy Howard
+
+[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> Quoting Jeremy Howard
+
+---
+
+### 5. If Claude Fable stops helping you, you'll never know
+
+[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > If Claude Fable stops helping you, you'll never know
 
 ---
 
-### 2. Initial impressions of Claude Fable 5
+### 6. Initial impressions of Claude Fable 5
 
-[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Initial impressions of Claude Fable 5
 
 ---
 
-### 3. llm 0.32a3
+### 7. llm 0.32a3
 
-[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm 0.32a3
 
 ---
 
-### 4. Setting a custom price for a model in AgentsView
+### 8. Setting a custom price for a model in AgentsView
 
-[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Setting a custom price for a model in AgentsView
 
 ---
 
-### 5. Quoting Andrej Karpathy
+### 9. Quoting Andrej Karpathy
 
-[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Andrej Karpathy
 
 ---
 
-### 6. Siri AI at WWDC 2026
+### 10. Who Runs the Ransomware Group ‘The Gentlemen?’
 
-[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — **krebsonsecurity.com** · 23 小时前 · ⭐ 15/30
 
-> Siri AI at WWDC 2026
+> Who Runs the Ransomware Group ‘The Gentlemen?’
 
 ---
 
-### 7. A Record-Breaking Patch Tuesday for June 2026
+### 11. A Record-Breaking Patch Tuesday for June 2026
 
-[A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — **krebsonsecurity.com** · 14 小时前 · ⭐ 15/30
+[A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > A Record-Breaking Patch Tuesday for June 2026
 
 ---
 
-### 8. Apple OS 27: The Small Things
+### 12. Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
 
-[Apple OS 27: The Small Things](https://blog.oneberri.com/posts/wwdc26-the-small-things) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
+
+---
+
+### 13. ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
+
+[★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
+
+---
+
+### 14. Apple OS 27: The Small Things
+
+[Apple OS 27: The Small Things](https://blog.oneberri.com/posts/wwdc26-the-small-things) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple OS 27: The Small Things
 
 ---
 
-### 9. The Talk Show Live From WWDC: Tonight, In-Person and Streaming
+### 15. The Talk Show Live From WWDC: Tonight, In-Person and Streaming
 
-[The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Talk Show Live From WWDC: Tonight, In-Person and Streaming
 
 ---
 
-### 10. Apple WWDC 2026 Keynote
-
-[Apple WWDC 2026 Keynote](https://www.youtube.com/watch?v=hF8swzNR1-o) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Apple WWDC 2026 Keynote
-
----
-
-### 11. Apple’s WWDC AI Demos Were Real and in Real Time
-
-[Apple’s WWDC AI Demos Were Real and in Real Time](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Apple’s WWDC AI Demos Were Real and in Real Time
-
----
-
-### 12. Apple Introduces Siri AI
-
-[Apple Introduces Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Apple Introduces Siri AI
-
----
-
-### 13. Apple’s WWDC Announcement of the New Apple Intelligence System
-
-[Apple’s WWDC Announcement of the New Apple Intelligence System](https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> Apple’s WWDC Announcement of the New Apple Intelligence System
-
----
-
-### 14. [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
-
-[[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration
-
----
-
-### 15. From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
-
-[From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition
-
----
-
-*生成于 2026-06-10 12:48 | 扫描 82 源 → 获取 2452 篇 → 精选 15 篇*
+*生成于 2026-06-11 13:47 | 扫描 82 源 → 获取 2466 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
