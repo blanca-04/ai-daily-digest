@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-11
+# 📰 AI 博客每日精选 — 2026-06-12
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude**
+🥇 **Claude Fable is relentlessly proactive**
 
-[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+> Claude Fable is relentlessly proactive
 
-🥈 **datasette-agent 0.2a0**
+🥈 **datasette 1.0a33**
 
-[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
 
-> datasette-agent 0.2a0
+> datasette 1.0a33
 
-🥉 **DiffusionGemma**
+🥉 **asyncinject 0.7**
 
-[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+[asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
-> DiffusionGemma
+> asyncinject 0.7
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2466 篇 → 37 篇 | 48h | **15 篇** |
+| 82/92 | 2453 篇 → 31 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+### 1. Claude Fable is relentlessly proactive
 
-[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Claude Fable is relentlessly proactive
+
+---
+
+### 2. datasette 1.0a33
+
+[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> datasette 1.0a33
+
+---
+
+### 3. asyncinject 0.7
+
+[asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> asyncinject 0.7
+
+---
+
+### 4. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+
+[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
 
 ---
 
-### 2. datasette-agent 0.2a0
+### 5. datasette-agent 0.2a0
 
-[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-agent 0.2a0
 
 ---
 
-### 3. DiffusionGemma
+### 6. DiffusionGemma
 
-[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > DiffusionGemma
 
 ---
 
-### 4. Quoting Jeremy Howard
+### 7. Quoting Jeremy Howard
 
-[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Jeremy Howard
 
 ---
 
-### 5. If Claude Fable stops helping you, you'll never know
+### 8. Who Runs the Ransomware Group ‘The Gentlemen?’
 
-[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> If Claude Fable stops helping you, you'll never know
-
----
-
-### 6. Initial impressions of Claude Fable 5
-
-[Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Initial impressions of Claude Fable 5
-
----
-
-### 7. llm 0.32a3
-
-[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> llm 0.32a3
-
----
-
-### 8. Setting a custom price for a model in AgentsView
-
-[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Setting a custom price for a model in AgentsView
-
----
-
-### 9. Quoting Andrej Karpathy
-
-[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Andrej Karpathy
-
----
-
-### 10. Who Runs the Ransomware Group ‘The Gentlemen?’
-
-[Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — **krebsonsecurity.com** · 23 小时前 · ⭐ 15/30
+[Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Who Runs the Ransomware Group ‘The Gentlemen?’
 
 ---
 
-### 11. A Record-Breaking Patch Tuesday for June 2026
+### 9. Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’
 
-[A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> A Record-Breaking Patch Tuesday for June 2026
+> Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’
 
 ---
 
-### 12. Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
+### 10. Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film
 
-[Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film
+
+---
+
+### 11. Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
+
+[Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
 
 ---
 
-### 13. ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
+### 12. ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
 
-[★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
 
 ---
 
-### 14. Apple OS 27: The Small Things
+### 13. I can never fully embrace LLMs for code
 
-[Apple OS 27: The Small Things](https://blog.oneberri.com/posts/wwdc26-the-small-things) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[I can never fully embrace LLMs for code](https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) — **idiallo.com** · 47 分钟前 · ⭐ 15/30
 
-> Apple OS 27: The Small Things
-
----
-
-### 15. The Talk Show Live From WWDC: Tonight, In-Person and Streaming
-
-[The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Talk Show Live From WWDC: Tonight, In-Person and Streaming
+> I can never fully embrace LLMs for code
 
 ---
 
-*生成于 2026-06-11 13:47 | 扫描 82 源 → 获取 2466 篇 → 精选 15 篇*
+### 14. Please, use a link!
+
+[Please, use a link!](https://idiallo.com/blog/use-a-link-please) — **idiallo.com** · 1 天前 · ⭐ 15/30
+
+> Please, use a link!
+
+---
+
+### 15. Pluralistic: The world has moved on (11 Jun 2026)
+
+[Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) — **pluralistic.net** · 22 小时前 · ⭐ 15/30
+
+> Pluralistic: The world has moved on (11 Jun 2026)
+
+---
+
+*生成于 2026-06-12 12:47 | 扫描 82 源 → 获取 2453 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
