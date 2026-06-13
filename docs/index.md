@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-12
+# 📰 AI 博客每日精选 — 2026-06-13
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Claude Fable is relentlessly proactive**
+🥇 **Statement on the US government directive to suspend access to Fable 5 and Mythos 5**
 
-[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Claude Fable is relentlessly proactive
+> Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 
-🥈 **datasette 1.0a33**
+🥈 **OpenAI WebRTC Audio Session, now with document context**
 
-[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+[OpenAI WebRTC Audio Session, now with document context](https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> datasette 1.0a33
+> OpenAI WebRTC Audio Session, now with document context
 
-🥉 **asyncinject 0.7**
+🥉 **Quoting Andrew Singleton**
 
-[asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> asyncinject 0.7
+> Quoting Andrew Singleton
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2453 篇 → 31 篇 | 48h | **15 篇** |
+| 82/92 | 2466 篇 → 25 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Claude Fable is relentlessly proactive
+### 1. Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 
-[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Statement on the US government directive to suspend access to Fable 5 and Mythos 5
+
+---
+
+### 2. OpenAI WebRTC Audio Session, now with document context
+
+[OpenAI WebRTC Audio Session, now with document context](https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> OpenAI WebRTC Audio Session, now with document context
+
+---
+
+### 3. Quoting Andrew Singleton
+
+[Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Andrew Singleton
+
+---
+
+### 4. Claude Fable is relentlessly proactive
+
+[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Claude Fable is relentlessly proactive
 
 ---
 
-### 2. datasette 1.0a33
+### 5. datasette 1.0a33
 
-[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a33
 
 ---
 
-### 3. asyncinject 0.7
+### 6. You can finally power on a Mac remotely
 
-[asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[You can finally power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) — **jeffgeerling.com** · 21 小时前 · ⭐ 15/30
 
-> asyncinject 0.7
-
----
-
-### 4. Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
-
-[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude
+> You can finally power on a Mac remotely
 
 ---
 
-### 5. datasette-agent 0.2a0
+### 7. ★ The Talk Show: Live From WWDC 2026
 
-[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[★ The Talk Show: Live From WWDC 2026](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> datasette-agent 0.2a0
-
----
-
-### 6. DiffusionGemma
-
-[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> DiffusionGemma
+> ★ The Talk Show: Live From WWDC 2026
 
 ---
 
-### 7. Quoting Jeremy Howard
+### 8. The WWDC 2026 Keynote and State of the Union on YouTube
 
-[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The WWDC 2026 Keynote and State of the Union on YouTube](https://www.youtube.com/watch?v=hF8swzNR1-o) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Quoting Jeremy Howard
-
----
-
-### 8. Who Runs the Ransomware Group ‘The Gentlemen?’
-
-[Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> Who Runs the Ransomware Group ‘The Gentlemen?’
+> The WWDC 2026 Keynote and State of the Union on YouTube
 
 ---
 
-### 9. Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’
+### 9. The European Commission Response to Siri AI and the DMA
 
-[Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[The European Commission Response to Siri AI and the DMA](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> The European Commission Response to Siri AI and the DMA
+
+---
+
+### 10. Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’
+
+[Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’
 
 ---
 
-### 10. Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film
+### 11. Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film
 
-[Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film
 
 ---
 
-### 11. Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
+### 12. I can never fully embrace LLMs for code
 
-[Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage
-
----
-
-### 12. ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
-
-[★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items
-
----
-
-### 13. I can never fully embrace LLMs for code
-
-[I can never fully embrace LLMs for code](https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) — **idiallo.com** · 47 分钟前 · ⭐ 15/30
+[I can never fully embrace LLMs for code](https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) — **idiallo.com** · 23 小时前 · ⭐ 15/30
 
 > I can never fully embrace LLMs for code
 
 ---
 
-### 14. Please, use a link!
+### 13. Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)
 
-[Please, use a link!](https://idiallo.com/blog/use-a-link-please) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/) — **pluralistic.net** · 14 小时前 · ⭐ 15/30
 
-> Please, use a link!
+> Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)
 
 ---
 
-### 15. Pluralistic: The world has moved on (11 Jun 2026)
+### 14. Pluralistic: The world has moved on (11 Jun 2026)
 
-[Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) — **pluralistic.net** · 22 小时前 · ⭐ 15/30
+[Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: The world has moved on (11 Jun 2026)
 
 ---
 
-*生成于 2026-06-12 12:47 | 扫描 82 源 → 获取 2453 篇 → 精选 15 篇*
+### 15. Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★
+
+[Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★
+
+---
+
+*生成于 2026-06-13 11:45 | 扫描 82 源 → 获取 2466 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
