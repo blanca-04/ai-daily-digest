@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-15
+# 📰 AI 博客每日精选 — 2026-06-16
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **"They screwed us": Personality clashes sent Anthropic's models offline**
+🥇 **The Fable 5 Export Controls Harm US Cyber Defense**
 
-["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — simonwillison.net · 37 分钟前 · 📝 其他
+[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
 
-> "They screwed us": Personality clashes sent Anthropic's models offline
+> The Fable 5 Export Controls Harm US Cyber Defense
 
-🥈 **Quoting Julia Evans**
+🥈 **Quoting Matteo Wong, The Atlantic**
 
-[Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Quoting Julia Evans
+> Quoting Matteo Wong, The Atlantic
 
-🥉 **Why AI hasn’t replaced software engineers, and won’t**
+🥉 **Cloudflare CAPTCHA on at least one ampersand**
 
-[Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Why AI hasn’t replaced software engineers, and won’t
+> Cloudflare CAPTCHA on at least one ampersand
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2445 篇 → 21 篇 | 48h | **15 篇** |
+| 80/92 | 2429 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. "They screwed us": Personality clashes sent Anthropic's models offline
+### 1. The Fable 5 Export Controls Harm US Cyber Defense
 
-["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — **simonwillison.net** · 37 分钟前 · ⭐ 15/30
+[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+
+> The Fable 5 Export Controls Harm US Cyber Defense
+
+---
+
+### 2. Quoting Matteo Wong, The Atlantic
+
+[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Quoting Matteo Wong, The Atlantic
+
+---
+
+### 3. Cloudflare CAPTCHA on at least one ampersand
+
+[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Cloudflare CAPTCHA on at least one ampersand
+
+---
+
+### 4. datasette-agent 0.3a0
+
+[datasette-agent 0.3a0](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> datasette-agent 0.3a0
+
+---
+
+### 5. "They screwed us": Personality clashes sent Anthropic's models offline
+
+["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
 
 > "They screwed us": Personality clashes sent Anthropic's models offline
 
 ---
 
-### 2. Quoting Julia Evans
+### 6. Quoting Julia Evans
 
-[Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Julia Evans
 
 ---
 
-### 3. Why AI hasn’t replaced software engineers, and won’t
+### 7. Why AI hasn’t replaced software engineers, and won’t
 
-[Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Why AI hasn’t replaced software engineers, and won’t
 
 ---
 
-### 4. Publishing WASM wheels to PyPI for use with Pyodide
+### 8. [Sponsor] Mux — Video for Developers
 
-[Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Publishing WASM wheels to PyPI for use with Pyodide
-
----
-
-### 5. luau-wasm 0.1a0
-
-[luau-wasm 0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> luau-wasm 0.1a0
+> [Sponsor] Mux — Video for Developers
 
 ---
 
-### 6. Mapping SQLite result columns back to their source `table.column`
+### 9. The Washington Post on the EU’s DMA Folly
 
-[Mapping SQLite result columns back to their source `table.column`](https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Mapping SQLite result columns back to their source `table.column`
-
----
-
-### 7. AI GPUs probably live longer than three years
-
-[AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/) — **seangoedecke.com** · 15 小时前 · ⭐ 15/30
-
-> AI GPUs probably live longer than three years
+> The Washington Post on the EU’s DMA Folly
 
 ---
 
-### 8. Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center
+### 10. The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
 
-[Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
 
-> Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center
-
----
-
-### 9. Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers
-
-[Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers](https://developer.apple.com/private-cloud-compute/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers
+> The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
 
 ---
 
-### 10. U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds
+### 11. WorkOS Launches Auth.md — an Open Protocol for Agent Registration
 
-[U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
 
-> U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds
-
----
-
-### 11. Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)
-
-[Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)
+> WorkOS Launches Auth.md — an Open Protocol for Agent Registration
 
 ---
 
-### 12. The adder at the heart of Intel's 8087 floating-point chip
+### 12. ‘Anthropic’s Safety Superpower’
 
-[The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/feeds/3050107772739337632/comments/default) — **righto.com** · 1 天前 · ⭐ 15/30
+[‘Anthropic’s Safety Superpower’](https://stratechery.com/2026/anthropics-safety-superpower/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
 
-> The adder at the heart of Intel's 8087 floating-point chip
-
----
-
-### 13. RSA munitions T-shirt
-
-[RSA munitions T-shirt](https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> RSA munitions T-shirt
+> ‘Anthropic’s Safety Superpower’
 
 ---
 
-### 14. GIF’s June 1987 debut
+### 13. Pluralistic: AI and amateurism (15 Jun 2026)
 
-[GIF’s June 1987 debut](https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gifs-june-1987-debut) — **dfarq.homeip.net** · 4 小时前 · ⭐ 15/30
+[Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) — **pluralistic.net** · 23 小时前 · ⭐ 15/30
 
-> GIF’s June 1987 debut
-
----
-
-### 15. Plugins case study: Pluggy
-
-[Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/) — **eli.thegreenplace.net** · 1 天前 · ⭐ 15/30
-
-> Plugins case study: Pluggy
+> Pluralistic: AI and amateurism (15 Jun 2026)
 
 ---
 
-*生成于 2026-06-15 15:35 | 扫描 80 源 → 获取 2445 篇 → 精选 15 篇*
+### 14. Two Way TV - product photos of 1997's hottest gadget
+
+[Two Way TV - product photos of 1997's hottest gadget](https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
+
+> Two Way TV - product photos of 1997's hottest gadget
+
+---
+
+### 15. [RSS Club] What happens to old posts?
+
+[[RSS Club] What happens to old posts?](https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> [RSS Club] What happens to old posts?
+
+---
+
+*生成于 2026-06-16 14:50 | 扫描 80 源 → 获取 2429 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
