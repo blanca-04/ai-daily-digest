@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-16
+# 📰 AI 博客每日精选 — 2026-06-17
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **The Fable 5 Export Controls Harm US Cyber Defense**
+🥇 **<click-to-play> — a still that plays**
 
-[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
+[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
 
-> The Fable 5 Export Controls Harm US Cyber Defense
+> <click-to-play> — a still that plays
 
-🥈 **Quoting Matteo Wong, The Atlantic**
+🥈 **NetNewsWire Status**
 
-[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
 
-> Quoting Matteo Wong, The Atlantic
+> NetNewsWire Status
 
-🥉 **Cloudflare CAPTCHA on at least one ampersand**
+🥉 **datasette 1.0a34**
 
-[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Cloudflare CAPTCHA on at least one ampersand
+> datasette 1.0a34
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2429 篇 → 35 篇 | 48h | **15 篇** |
+| 82/92 | 2473 篇 → 41 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. The Fable 5 Export Controls Harm US Cyber Defense
+### 1. <click-to-play> — a still that plays
 
-[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+
+> <click-to-play> — a still that plays
+
+---
+
+### 2. NetNewsWire Status
+
+[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+
+> NetNewsWire Status
+
+---
+
+### 3. datasette 1.0a34
+
+[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> datasette 1.0a34
+
+---
+
+### 4. datasette-tailscale 0.1a0
+
+[datasette-tailscale 0.1a0](https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> datasette-tailscale 0.1a0
+
+---
+
+### 5. Quoting Georgi Gerganov
+
+[Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Quoting Georgi Gerganov
+
+---
+
+### 6. The Fable 5 Export Controls Harm US Cyber Defense
+
+[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The Fable 5 Export Controls Harm US Cyber Defense
 
 ---
 
-### 2. Quoting Matteo Wong, The Atlantic
+### 7. Quoting Matteo Wong, The Atlantic
 
-[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Matteo Wong, The Atlantic
 
 ---
 
-### 3. Cloudflare CAPTCHA on at least one ampersand
+### 8. Cloudflare CAPTCHA on at least one ampersand
 
-[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Cloudflare CAPTCHA on at least one ampersand
 
 ---
 
-### 4. datasette-agent 0.3a0
+### 9. datasette-agent 0.3a0
 
-[datasette-agent 0.3a0](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[datasette-agent 0.3a0](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-agent 0.3a0
 
 ---
 
-### 5. "They screwed us": Personality clashes sent Anthropic's models offline
+### 10. "They screwed us": Personality clashes sent Anthropic's models offline
 
-["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > "They screwed us": Personality clashes sent Anthropic's models offline
 
 ---
 
-### 6. Quoting Julia Evans
+### 11. Checking In on the iOS Continental Fun-Gap Drift
 
-[Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Quoting Julia Evans
-
----
-
-### 7. Why AI hasn’t replaced software engineers, and won’t
-
-[Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Why AI hasn’t replaced software engineers, and won’t
+> Checking In on the iOS Continental Fun-Gap Drift
 
 ---
 
-### 8. [Sponsor] Mux — Video for Developers
+### 12. New in the App Store: Personalized Recommendations
 
-[[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> New in the App Store: Personalized Recommendations
+
+---
+
+### 13. [Sponsor] Mux — Video for Developers
+
+[[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] Mux — Video for Developers
 
 ---
 
-### 9. The Washington Post on the EU’s DMA Folly
+### 14. The Washington Post on the EU’s DMA Folly
 
-[The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Washington Post on the EU’s DMA Folly
 
 ---
 
-### 10. The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
+### 15. The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
 
-[The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
 
 ---
 
-### 11. WorkOS Launches Auth.md — an Open Protocol for Agent Registration
-
-[WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> WorkOS Launches Auth.md — an Open Protocol for Agent Registration
-
----
-
-### 12. ‘Anthropic’s Safety Superpower’
-
-[‘Anthropic’s Safety Superpower’](https://stratechery.com/2026/anthropics-safety-superpower/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
-
-> ‘Anthropic’s Safety Superpower’
-
----
-
-### 13. Pluralistic: AI and amateurism (15 Jun 2026)
-
-[Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) — **pluralistic.net** · 23 小时前 · ⭐ 15/30
-
-> Pluralistic: AI and amateurism (15 Jun 2026)
-
----
-
-### 14. Two Way TV - product photos of 1997's hottest gadget
-
-[Two Way TV - product photos of 1997's hottest gadget](https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
-
-> Two Way TV - product photos of 1997's hottest gadget
-
----
-
-### 15. [RSS Club] What happens to old posts?
-
-[[RSS Club] What happens to old posts?](https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> [RSS Club] What happens to old posts?
-
----
-
-*生成于 2026-06-16 14:50 | 扫描 80 源 → 获取 2429 篇 → 精选 15 篇*
+*生成于 2026-06-17 13:35 | 扫描 82 源 → 获取 2473 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
