@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-17
+# 📰 AI 博客每日精选 — 2026-06-18
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **<click-to-play> — a still that plays**
+🥇 **GLM-5.2 is probably the most powerful text-only open weights LLM**
 
-[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
+[GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+
+> GLM-5.2 is probably the most powerful text-only open weights LLM
+
+🥈 **Quoting Charity Majors**
+
+[Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
+
+> Quoting Charity Majors
+
+🥉 **<click-to-play> — a still that plays**
+
+[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > <click-to-play> — a still that plays
-
-🥈 **NetNewsWire Status**
-
-[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — simonwillison.net · 9 小时前 · 📝 其他
-
-> NetNewsWire Status
-
-🥉 **datasette 1.0a34**
-
-[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
-
-> datasette 1.0a34
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2473 篇 → 41 篇 | 48h | **15 篇** |
+| 82/92 | 2460 篇 → 34 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. <click-to-play> — a still that plays
+### 1. GLM-5.2 is probably the most powerful text-only open weights LLM
 
-[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+[GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> GLM-5.2 is probably the most powerful text-only open weights LLM
+
+---
+
+### 2. Quoting Charity Majors
+
+[Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Quoting Charity Majors
+
+---
+
+### 3. <click-to-play> — a still that plays
+
+[<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > <click-to-play> — a still that plays
 
 ---
 
-### 2. NetNewsWire Status
+### 4. NetNewsWire Status
 
-[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — **simonwillison.net** · 9 小时前 · ⭐ 15/30
+[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > NetNewsWire Status
 
 ---
 
-### 3. datasette 1.0a34
+### 5. datasette 1.0a34
 
-[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a34
 
 ---
 
-### 4. datasette-tailscale 0.1a0
+### 6. datasette-tailscale 0.1a0
 
-[datasette-tailscale 0.1a0](https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[datasette-tailscale 0.1a0](https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-tailscale 0.1a0
 
 ---
 
-### 5. Quoting Georgi Gerganov
+### 7. Quoting Georgi Gerganov
 
-[Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Georgi Gerganov
 
 ---
 
-### 6. The Fable 5 Export Controls Harm US Cyber Defense
+### 8. Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly
 
-[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> The Fable 5 Export Controls Harm US Cyber Defense
-
----
-
-### 7. Quoting Matteo Wong, The Atlantic
-
-[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Matteo Wong, The Atlantic
+> Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly
 
 ---
 
-### 8. Cloudflare CAPTCHA on at least one ampersand
+### 9. Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots
 
-[Cloudflare CAPTCHA on at least one ampersand](https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Cloudflare CAPTCHA on at least one ampersand
-
----
-
-### 9. datasette-agent 0.3a0
-
-[datasette-agent 0.3a0](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-agent 0.3a0
+> Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots
 
 ---
 
-### 10. "They screwed us": Personality clashes sent Anthropic's models offline
+### 10. Yours Truly on MacBreak Weekly: Is the New Siri AI Good?
 
-["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Yours Truly on MacBreak Weekly: Is the New Siri AI Good?](https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
 
-> "They screwed us": Personality clashes sent Anthropic's models offline
+> Yours Truly on MacBreak Weekly: Is the New Siri AI Good?
 
 ---
 
-### 11. Checking In on the iOS Continental Fun-Gap Drift
+### 11. Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’
 
-[Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’](https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’
+
+---
+
+### 12. Checking In on the iOS Continental Fun-Gap Drift
+
+[Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Checking In on the iOS Continental Fun-Gap Drift
 
 ---
 
-### 12. New in the App Store: Personalized Recommendations
+### 13. New in the App Store: Personalized Recommendations
 
-[New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > New in the App Store: Personalized Recommendations
 
 ---
 
-### 13. [Sponsor] Mux — Video for Developers
+### 14. Debugging on Prod
 
-[[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Debugging on Prod](https://idiallo.com/blog/debugging-on-prod) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> [Sponsor] Mux — Video for Developers
-
----
-
-### 14. The Washington Post on the EU’s DMA Folly
-
-[The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Washington Post on the EU’s DMA Folly
+> Debugging on Prod
 
 ---
 
-### 15. The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
+### 15. Pluralistic: The (real) dead economy theory (17 Jun 2026)
 
-[The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: The (real) dead economy theory (17 Jun 2026)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/) — **pluralistic.net** · 18 小时前 · ⭐ 15/30
 
-> The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA
+> Pluralistic: The (real) dead economy theory (17 Jun 2026)
 
 ---
 
-*生成于 2026-06-17 13:35 | 扫描 82 源 → 获取 2473 篇 → 精选 15 篇*
+*生成于 2026-06-18 12:44 | 扫描 82 源 → 获取 2460 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
