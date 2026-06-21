@@ -2,7 +2,7 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-20
+# 📰 AI 博客每日精选 — 2026-06-21
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
@@ -10,21 +10,21 @@ title: AI Daily Digest
 
 🥇 **Quoting Sean Lynch**
 
-[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting Sean Lynch
 
-🥈 **Datasette Apps: Host custom HTML applications inside Datasette**
+🥈 **Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer**
 
-[Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — daringfireball.net · 1 天前 · 📝 其他
 
-> Datasette Apps: Host custom HTML applications inside Datasette
+> Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
 
-🥉 **datasette-acl 0.6a0**
+🥉 **‘What’s the Deal With Old Guys and Giant Glasses?’**
 
-[datasette-acl 0.6a0](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — daringfireball.net · 1 天前 · 📝 其他
 
-> datasette-acl 0.6a0
+> ‘What’s the Deal With Old Guys and Giant Glasses?’
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 79/92 | 2423 篇 → 33 篇 | 48h | **15 篇** |
+| 82/92 | 2475 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -48,124 +48,124 @@ pie showData
 
 ### 1. Quoting Sean Lynch
 
-[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Sean Lynch
 
 ---
 
-### 2. Datasette Apps: Host custom HTML applications inside Datasette
+### 2. Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
 
-[Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Datasette Apps: Host custom HTML applications inside Datasette
-
----
-
-### 3. datasette-acl 0.6a0
-
-[datasette-acl 0.6a0](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-acl 0.6a0
-
----
-
-### 4. ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm
-
-[‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm
-
----
-
-### 5. Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
-
-[Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
 
 ---
 
-### 6. ‘What’s the Deal With Old Guys and Giant Glasses?’
+### 3. ‘What’s the Deal With Old Guys and Giant Glasses?’
 
-[‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘What’s the Deal With Old Guys and Giant Glasses?’
 
 ---
 
-### 7. Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro
+### 4. Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro
 
-[Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro
 
 ---
 
-### 8. Fox to Buy Roku Streaming Service in $25 Billion Deal
+### 5. Fox to Buy Roku Streaming Service in $25 Billion Deal
 
-[Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Fox to Buy Roku Streaming Service in $25 Billion Deal
 
 ---
 
-### 9. Snap Launches Ad Campaign for Specs Starring Michael Caine
+### 6. Snap Launches Ad Campaign for Specs Starring Michael Caine
 
-[Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Snap Launches Ad Campaign for Specs Starring Michael Caine
 
 ---
 
-### 10. Jerry Seinfeld Tries Out Snap’s Specs
+### 7. Jerry Seinfeld Tries Out Snap’s Specs
 
-[Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Jerry Seinfeld Tries Out Snap’s Specs
 
 ---
 
-### 11. Domino’s Admitted Their Pizza Tasted Like Cardboard
+### 8. Domino’s Admitted Their Pizza Tasted Like Cardboard
 
-[Domino’s Admitted Their Pizza Tasted Like Cardboard](https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Domino’s Admitted Their Pizza Tasted Like Cardboard](https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Domino’s Admitted Their Pizza Tasted Like Cardboard
 
 ---
 
-### 12. Verizon, Formerly Menace Mobile
+### 9. I know Kung-fu
 
-[Verizon, Formerly Menace Mobile](https://www.youtube.com/watch?v=lzmntndEXWo) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> Verizon, Formerly Menace Mobile
-
----
-
-### 13. Cotypist – Smart Autocomplete Utility for Mac
-
-[Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Cotypist – Smart Autocomplete Utility for Mac
+> I know Kung-fu
 
 ---
 
-### 14. New Domain for Sign In With Apple and iCloud+ Hide My Email
+### 10. Glassblowing #3: A better thermionic diode
 
-[New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Glassblowing #3: A better thermionic diode](https://maurycyz.com/projects/glass/3/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
 
-> New Domain for Sign In With Apple and iCloud+ Hide My Email
-
----
-
-### 15. NetNewsWire Status
-
-[NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> NetNewsWire Status
+> Glassblowing #3: A better thermionic diode
 
 ---
 
-*生成于 2026-06-20 11:50 | 扫描 79 源 → 获取 2423 篇 → 精选 15 篇*
+### 11. Pluralistic: How the Epstein Class recruits (20 Jun 2026)
+
+[Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — **pluralistic.net** · 19 小时前 · ⭐ 15/30
+
+> Pluralistic: How the Epstein Class recruits (20 Jun 2026)
+
+---
+
+### 12. Pluralistic: The Big Con (19 Jun 2026)
+
+[Pluralistic: The Big Con (19 Jun 2026)](https://pluralistic.net/2026/06/19/too-big-to-fact-check/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+
+> Pluralistic: The Big Con (19 Jun 2026)
+
+---
+
+### 13. Which Copyleft Licence is Suitable for an SVG?
+
+[Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> Which Copyleft Licence is Suitable for an SVG?
+
+---
+
+### 14. What does it mean when the bottom bit of my HMODULE is set?
+
+[What does it mean when the bottom bit of my HMODULE is set?](https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+
+> What does it mean when the bottom bit of my HMODULE is set?
+
+---
+
+### 15. All pieces on a 6 by 5 board
+
+[All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+
+> All pieces on a 6 by 5 board
+
+---
+
+*生成于 2026-06-21 12:04 | 扫描 82 源 → 获取 2475 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
