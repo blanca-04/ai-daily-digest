@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-21
+# 📰 AI 博客每日精选 — 2026-06-22
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Sean Lynch**
+🥇 **sqlite-utils 4.0rc1 adds migrations and nested transactions**
 
-[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Quoting Sean Lynch
+> sqlite-utils 4.0rc1 adds migrations and nested transactions
 
-🥈 **Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer**
+🥈 **sqlite-utils 4.0rc1**
 
-[Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — daringfireball.net · 1 天前 · 📝 其他
+[sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
+> sqlite-utils 4.0rc1
 
-🥉 **‘What’s the Deal With Old Guys and Giant Glasses?’**
+🥉 **Temporary Cloudflare Accounts for AI agents**
 
-[‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — daringfireball.net · 1 天前 · 📝 其他
+[Temporary Cloudflare Accounts for AI agents](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> ‘What’s the Deal With Old Guys and Giant Glasses?’
+> Temporary Cloudflare Accounts for AI agents
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2475 篇 → 22 篇 | 48h | **15 篇** |
+| 80/92 | 2437 篇 → 16 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Sean Lynch
+### 1. sqlite-utils 4.0rc1 adds migrations and nested transactions
 
-[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
 
-> Quoting Sean Lynch
-
----
-
-### 2. Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
-
-[Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer
+> sqlite-utils 4.0rc1 adds migrations and nested transactions
 
 ---
 
-### 3. ‘What’s the Deal With Old Guys and Giant Glasses?’
+### 2. sqlite-utils 4.0rc1
 
-[‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
 
-> ‘What’s the Deal With Old Guys and Giant Glasses?’
-
----
-
-### 4. Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro
-
-[Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro
+> sqlite-utils 4.0rc1
 
 ---
 
-### 5. Fox to Buy Roku Streaming Service in $25 Billion Deal
+### 3. Temporary Cloudflare Accounts for AI agents
 
-[Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Temporary Cloudflare Accounts for AI agents](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
 
-> Fox to Buy Roku Streaming Service in $25 Billion Deal
-
----
-
-### 6. Snap Launches Ad Campaign for Specs Starring Michael Caine
-
-[Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Snap Launches Ad Campaign for Specs Starring Michael Caine
+> Temporary Cloudflare Accounts for AI agents
 
 ---
 
-### 7. Jerry Seinfeld Tries Out Snap’s Specs
+### 4. Before and After: MacOS 27 Golden Gate Beta 1’s App Icons
 
-[Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Before and After: MacOS 27 Golden Gate Beta 1’s App Icons](https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Jerry Seinfeld Tries Out Snap’s Specs
-
----
-
-### 8. Domino’s Admitted Their Pizza Tasted Like Cardboard
-
-[Domino’s Admitted Their Pizza Tasted Like Cardboard](https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Domino’s Admitted Their Pizza Tasted Like Cardboard
+> Before and After: MacOS 27 Golden Gate Beta 1’s App Icons
 
 ---
 
-### 9. I know Kung-fu
+### 5. Mux — Video for Developers
 
-[I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu) — **idiallo.com** · 1 天前 · ⭐ 15/30
+[Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> I know Kung-fu
-
----
-
-### 10. Glassblowing #3: A better thermionic diode
-
-[Glassblowing #3: A better thermionic diode](https://maurycyz.com/projects/glass/3/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
-
-> Glassblowing #3: A better thermionic diode
+> Mux — Video for Developers
 
 ---
 
-### 11. Pluralistic: How the Epstein Class recruits (20 Jun 2026)
+### 6. Everything you say CAN and WILL be used against you
 
-[Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — **pluralistic.net** · 19 小时前 · ⭐ 15/30
+[Everything you say CAN and WILL be used against you](https://idiallo.com/blog/the-right-to-remain-silent) — **idiallo.com** · 8 小时前 · ⭐ 15/30
+
+> Everything you say CAN and WILL be used against you
+
+---
+
+### 7. Happy Father's Day.
+
+[Happy Father's Day.](https://idiallo.com/byte-size/happy-fathers-day-2026) — **idiallo.com** · 12 小时前 · ⭐ 15/30
+
+> Happy Father's Day.
+
+---
+
+### 8. Pluralistic: How the Epstein Class recruits (20 Jun 2026)
+
+[Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: How the Epstein Class recruits (20 Jun 2026)
 
 ---
 
-### 12. Pluralistic: The Big Con (19 Jun 2026)
+### 9. Cybersecurity for the paranoid business traveller
 
-[Pluralistic: The Big Con (19 Jun 2026)](https://pluralistic.net/2026/06/19/too-big-to-fact-check/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[Cybersecurity for the paranoid business traveller](https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
 
-> Pluralistic: The Big Con (19 Jun 2026)
-
----
-
-### 13. Which Copyleft Licence is Suitable for an SVG?
-
-[Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Which Copyleft Licence is Suitable for an SVG?
+> Cybersecurity for the paranoid business traveller
 
 ---
 
-### 14. What does it mean when the bottom bit of my HMODULE is set?
+### 10. Pledging Another $400,000 to the Zig Software Foundation
 
-[What does it mean when the bottom bit of my HMODULE is set?](https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+[Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026) — **mitchellh.com** · 1 天前 · ⭐ 15/30
 
-> What does it mean when the bottom bit of my HMODULE is set?
+> Pledging Another $400,000 to the Zig Software Foundation
 
 ---
 
-### 15. All pieces on a 6 by 5 board
+### 11. Queens on a prime order board
 
-[All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+[Queens on a prime order board](https://www.johndcook.com/blog/2026/06/21/queens-prime/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+
+> Queens on a prime order board
+
+---
+
+### 12. All pieces on a 6 by 5 board
+
+[All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) — **johndcook.com** · 1 天前 · ⭐ 15/30
 
 > All pieces on a 6 by 5 board
 
 ---
 
-*生成于 2026-06-21 12:04 | 扫描 82 源 → 获取 2475 篇 → 精选 15 篇*
+### 13. On Vulgar Materialism
+
+[On Vulgar Materialism](https://borretti.me/article/on-vulgar-materialism) — **borretti.me** · 1 天前 · ⭐ 15/30
+
+> On Vulgar Materialism
+
+---
+
+### 14. The doom justifies the valuation
+
+[The doom justifies the valuation](https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html) — **geohot.github.io** · 1 天前 · ⭐ 15/30
+
+> The doom justifies the valuation
+
+---
+
+### 15. AMD Athlon: AMD’s game changing CPU from 1999
+
+[AMD Athlon: AMD’s game changing CPU from 1999](https://dfarq.homeip.net/amd-athlon-amds-game-changing-cpu-from-1999/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=amd-athlon-amds-game-changing-cpu-from-1999) — **dfarq.homeip.net** · 4 小时前 · ⭐ 15/30
+
+> AMD Athlon: AMD’s game changing CPU from 1999
+
+---
+
+*生成于 2026-06-22 15:12 | 扫描 80 源 → 获取 2437 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
