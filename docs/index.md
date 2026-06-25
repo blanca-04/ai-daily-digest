@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-24
+# 📰 AI 博客每日精选 — 2026-06-25
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette 1.0a35**
+🥇 **simonw/browser-compat-db**
 
-[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+
+> simonw/browser-compat-db
+
+🥈 **Quoting Tom MacWright**
+
+[Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+
+> Quoting Tom MacWright
+
+🥉 **datasette 1.0a35**
+
+[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > datasette 1.0a35
-
-🥈 **OPFS + Pyodide test harness**
-
-[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
-
-> OPFS + Pyodide test harness
-
-🥉 **Prompt Injection as Role Confusion**
-
-[Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Prompt Injection as Role Confusion
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2453 篇 → 32 篇 | 48h | **15 篇** |
+| 80/92 | 2441 篇 → 26 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette 1.0a35
+### 1. simonw/browser-compat-db
 
-[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> simonw/browser-compat-db
+
+---
+
+### 2. Quoting Tom MacWright
+
+[Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Tom MacWright
+
+---
+
+### 3. datasette 1.0a35
+
+[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a35
 
 ---
 
-### 2. OPFS + Pyodide test harness
+### 4. OPFS + Pyodide test harness
 
-[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > OPFS + Pyodide test harness
 
 ---
 
-### 3. Prompt Injection as Role Confusion
+### 5. Framework's 10G Ethernet module exposes USB-C's complexity
 
-[Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — **jeffgeerling.com** · 22 小时前 · ⭐ 15/30
 
-> Prompt Injection as Role Confusion
-
----
-
-### 4. Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code
-
-[Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code
+> Framework's 10G Ethernet module exposes USB-C's complexity
 
 ---
 
-### 5. Scattered Spider Hackers Plead Guilty on Day 1 of Trial
+### 6. Scattered Spider Hackers Plead Guilty on Day 1 of Trial
 
-[Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) — **krebsonsecurity.com** · 19 小时前 · ⭐ 15/30
+[Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Scattered Spider Hackers Plead Guilty on Day 1 of Trial
 
 ---
 
-### 6. The Talk Show: ‘Perp Walk for Selfies’
+### 7. WebKit Always Enables the Copy Menu Item in Every App
 
-[The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+
+> WebKit Always Enables the Copy Menu Item in Every App
+
+---
+
+### 8. WebKit in Safari 27 Beta
+
+[WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> WebKit in Safari 27 Beta
+
+---
+
+### 9. [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.
+
+[[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.
+
+---
+
+### 10. Designed in California: An Apple History Podcast
+
+[Designed in California: An Apple History Podcast](https://designed.fm/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Designed in California: An Apple History Podcast
+
+---
+
+### 11. The Talk Show: ‘Perp Walk for Selfies’
+
+[The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Talk Show: ‘Perp Walk for Selfies’
 
 ---
 
-### 7. Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’
+### 12. Pluralistic: Jailbreaking isn't theft (25 Jun 2026)
 
-[Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’](https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Jailbreaking isn't theft (25 Jun 2026)](https://pluralistic.net/2026/06/25/thieve-different/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
 
-> Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’
-
----
-
-### 8. Apple Is Going to Raise Device Prices — but When?
-
-[Apple Is Going to Raise Device Prices — but When?](https://x.com/markgurman/status/2067741507273289766) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Is Going to Raise Device Prices — but When?
+> Pluralistic: Jailbreaking isn't theft (25 Jun 2026)
 
 ---
 
-### 9. Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera
+### 13. Auth0 PHP - manually authenticating JWT idTokens
 
-[Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera](https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&amp;leadSource=uverify%20wall) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera
-
----
-
-### 10. Criterion Collection: The Complete Kubrick
-
-[Criterion Collection: The Complete Kubrick](https://www.criterion.com/boxsets/9000-the-complete-kubrick) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Criterion Collection: The Complete Kubrick
-
----
-
-### 11. Dickover of the Week: The Observer
-
-[Dickover of the Week: The Observer](https://bvsveera.net/observer-dickover/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Dickover of the Week: The Observer
-
----
-
-### 12. Arp 293: More interacting galaxies
-
-[Arp 293: More interacting galaxies](https://maurycyz.com/astro/arp293/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
-
-> Arp 293: More interacting galaxies
-
----
-
-### 13. Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)
-
-[Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)](https://pluralistic.net/2026/06/23/destroy-the-village/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)
-
----
-
-### 14. Pluralistic: Good politics (22 Jun 2026)
-
-[Pluralistic: Good politics (22 Jun 2026)](https://pluralistic.net/2026/06/22/8-for-what-we-will/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Good politics (22 Jun 2026)
-
----
-
-### 15. Auth0 PHP - manually authenticating JWT idTokens
-
-[Auth0 PHP - manually authenticating JWT idTokens](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) — **shkspr.mobi** · 38 分钟前 · ⭐ 15/30
+[Auth0 PHP - manually authenticating JWT idTokens](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > Auth0 PHP - manually authenticating JWT idTokens
 
 ---
 
-*生成于 2026-06-24 12:12 | 扫描 81 源 → 获取 2453 篇 → 精选 15 篇*
+### 14. "No way to prevent this" say users of only language where this regularly happens
+
+["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
+
+> "No way to prevent this" say users of only language where this regularly happens
+
+---
+
+### 15. Microspeak elaborated: Isn’t escrow just a release candidate by another name?
+
+[Microspeak elaborated: Isn’t escrow just a release candidate by another name?](https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+
+> Microspeak elaborated: Isn’t escrow just a release candidate by another name?
+
+---
+
+*生成于 2026-06-25 12:10 | 扫描 80 源 → 获取 2441 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
