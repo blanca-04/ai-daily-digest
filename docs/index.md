@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-25
+# 📰 AI 博客每日精选 — 2026-06-26
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **simonw/browser-compat-db**
+🥇 **AI and Liability**
 
-[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+
+> AI and Liability
+
+🥈 **datasette-export-database 0.3a2**
+
+[datasette-export-database 0.3a2](https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+
+> datasette-export-database 0.3a2
+
+🥉 **simonw/browser-compat-db**
+
+[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > simonw/browser-compat-db
-
-🥈 **Quoting Tom MacWright**
-
-[Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
-
-> Quoting Tom MacWright
-
-🥉 **datasette 1.0a35**
-
-[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> datasette 1.0a35
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2441 篇 → 26 篇 | 48h | **15 篇** |
+| 79/92 | 2426 篇 → 31 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. simonw/browser-compat-db
+### 1. AI and Liability
 
-[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> AI and Liability
+
+---
+
+### 2. datasette-export-database 0.3a2
+
+[datasette-export-database 0.3a2](https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> datasette-export-database 0.3a2
+
+---
+
+### 3. simonw/browser-compat-db
+
+[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > simonw/browser-compat-db
 
 ---
 
-### 2. Quoting Tom MacWright
+### 4. Quoting Tom MacWright
 
-[Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Tom MacWright
 
 ---
 
-### 3. datasette 1.0a35
+### 5. Quickly apply LUTs (color grading) with ffmpeg
 
-[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Quickly apply LUTs (color grading) with ffmpeg](https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/) — **jeffgeerling.com** · 9 小时前 · ⭐ 15/30
 
-> datasette 1.0a35
-
----
-
-### 4. OPFS + Pyodide test harness
-
-[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> OPFS + Pyodide test harness
+> Quickly apply LUTs (color grading) with ffmpeg
 
 ---
 
-### 5. Framework's 10G Ethernet module exposes USB-C's complexity
+### 6. Framework's 10G Ethernet module exposes USB-C's complexity
 
-[Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — **jeffgeerling.com** · 22 小时前 · ⭐ 15/30
+[Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > Framework's 10G Ethernet module exposes USB-C's complexity
 
 ---
 
-### 6. Scattered Spider Hackers Plead Guilty on Day 1 of Trial
+### 7. Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)
 
-[Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Scattered Spider Hackers Plead Guilty on Day 1 of Trial
+> Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)
 
 ---
 
-### 7. WebKit Always Enables the Copy Menu Item in Every App
+### 8. ★ Spensive Thoughts
 
-[WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[★ Spensive Thoughts](https://daringfireball.net/2026/06/spensive_thoughts) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> ★ Spensive Thoughts
+
+---
+
+### 9. Om Malik, 1966-2026
+
+[Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Om Malik, 1966-2026
+
+---
+
+### 10. Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods
+
+[Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods
+
+---
+
+### 11. WebKit Always Enables the Copy Menu Item in Every App
+
+[WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > WebKit Always Enables the Copy Menu Item in Every App
 
 ---
 
-### 8. WebKit in Safari 27 Beta
+### 12. WebKit in Safari 27 Beta
 
-[WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > WebKit in Safari 27 Beta
 
 ---
 
-### 9. [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.
+### 13. [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.
 
-[[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.
 
 ---
 
-### 10. Designed in California: An Apple History Podcast
+### 14. Designed in California: An Apple History Podcast
 
-[Designed in California: An Apple History Podcast](https://designed.fm/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[Designed in California: An Apple History Podcast](https://designed.fm/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Designed in California: An Apple History Podcast
 
 ---
 
-### 11. The Talk Show: ‘Perp Walk for Selfies’
+### 15. Pluralistic: Jailbreaking isn't theft (25 Jun 2026)
 
-[The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> The Talk Show: ‘Perp Walk for Selfies’
-
----
-
-### 12. Pluralistic: Jailbreaking isn't theft (25 Jun 2026)
-
-[Pluralistic: Jailbreaking isn't theft (25 Jun 2026)](https://pluralistic.net/2026/06/25/thieve-different/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
+[Pluralistic: Jailbreaking isn't theft (25 Jun 2026)](https://pluralistic.net/2026/06/25/thieve-different/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Jailbreaking isn't theft (25 Jun 2026)
 
 ---
 
-### 13. Auth0 PHP - manually authenticating JWT idTokens
-
-[Auth0 PHP - manually authenticating JWT idTokens](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Auth0 PHP - manually authenticating JWT idTokens
-
----
-
-### 14. "No way to prevent this" say users of only language where this regularly happens
-
-["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
-
-> "No way to prevent this" say users of only language where this regularly happens
-
----
-
-### 15. Microspeak elaborated: Isn’t escrow just a release candidate by another name?
-
-[Microspeak elaborated: Isn’t escrow just a release candidate by another name?](https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
-
-> Microspeak elaborated: Isn’t escrow just a release candidate by another name?
-
----
-
-*生成于 2026-06-25 12:10 | 扫描 80 源 → 获取 2441 篇 → 精选 15 篇*
+*生成于 2026-06-26 12:06 | 扫描 79 源 → 获取 2426 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
