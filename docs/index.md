@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-06-29
+# 📰 AI 博客每日精选 — 2026-06-30
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Jon Udell**
+🥇 **HTML table extractor**
 
-[Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Quoting Jon Udell
+> HTML table extractor
 
-🥈 **Hack Your Summer**
+🥈 **Count the number of Safari tabs**
 
-[Hack Your Summer](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+[Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> Hack Your Summer
+> Count the number of Safari tabs
 
-🥉 **Auth.md — an Open Protocol for Agent Registration From WorkOS**
+🥉 **Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding**
 
-[Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — daringfireball.net · 12 小时前 · 📝 其他
+[Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
 
-> Auth.md — an Open Protocol for Agent Registration From WorkOS
+> Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2460 篇 → 29 篇 | 48h | **15 篇** |
+| 82/92 | 2469 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Jon Udell
+### 1. HTML table extractor
 
-[Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> HTML table extractor
+
+---
+
+### 2. Count the number of Safari tabs
+
+[Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Count the number of Safari tabs
+
+---
+
+### 3. Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding
+
+[Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding
+
+---
+
+### 4. Quoting Jon Udell
+
+[Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Jon Udell
 
 ---
 
-### 2. Hack Your Summer
+### 5. Hack Your Summer
 
-[Hack Your Summer](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Hack Your Summer](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Hack Your Summer
 
 ---
 
-### 3. Auth.md — an Open Protocol for Agent Registration From WorkOS
+### 6. Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos
 
-[Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos](https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
+
+> Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos
+
+---
+
+### 7. [Sponsor] Day One Journal
+
+[[Sponsor] Day One Journal](https://dayoneapp.com/blog/introducing-daily-chat/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> [Sponsor] Day One Journal
+
+---
+
+### 8. Auth.md — an Open Protocol for Agent Registration From WorkOS
+
+[Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Auth.md — an Open Protocol for Agent Registration From WorkOS
 
 ---
 
-### 4. Daniel Agee: ‘Remembering Om’
+### 9. Daniel Agee: ‘Remembering Om’
 
-[Daniel Agee: ‘Remembering Om’](https://glass.photo/highlights/remembering-om) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Daniel Agee: ‘Remembering Om’](https://glass.photo/highlights/remembering-om) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Daniel Agee: ‘Remembering Om’
 
 ---
 
-### 5. Matt Mullenweg: ‘All Roads Lead to Om’
+### 10. Matt Mullenweg: ‘All Roads Lead to Om’
 
-[Matt Mullenweg: ‘All Roads Lead to Om’](https://ma.tt/2026/06/om-forever/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Matt Mullenweg: ‘All Roads Lead to Om’](https://ma.tt/2026/06/om-forever/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Matt Mullenweg: ‘All Roads Lead to Om’
 
 ---
 
-### 6. The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’
+### 11. The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’
 
-[The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’](https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’
 
 ---
 
-### 7. PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports
+### 12. PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports
 
-[PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports
 
 ---
 
-### 8. ★ Bernie Sanders: Ideologue and Economic Ignoramus
+### 13. The Dating App Plot Device
 
-[★ Bernie Sanders: Ideologue and Economic Ignoramus](https://daringfireball.net/2026/06/bernie_sanders_ideologue) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[The Dating App Plot Device](https://idiallo.com/blog/dating-plot-device) — **idiallo.com** · 5 小时前 · ⭐ 15/30
 
-> ★ Bernie Sanders: Ideologue and Economic Ignoramus
-
----
-
-### 9. Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself
-
-[Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself
+> The Dating App Plot Device
 
 ---
 
-### 10. Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022
+### 14. I turned my prologue into a short video
 
-[Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[I turned my prologue into a short video](https://idiallo.com/byte-size/my-prologue-to-short-video) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
-> Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022
-
----
-
-### 11. Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup
-
-[Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup](https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup
+> I turned my prologue into a short video
 
 ---
 
-### 12. FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT
+### 15. Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)
 
-[FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT](https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)](https://pluralistic.net/2026/06/30/serenissima/) — **pluralistic.net** · 40 分钟前 · ⭐ 15/30
 
-> FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT
-
----
-
-### 13. Grok Is a Generative Porno App
-
-[Grok Is a Generative Porno App](https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Grok Is a Generative Porno App
+> Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)
 
 ---
 
-### 14. OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models
-
-[OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models](https://openai.com/index/previewing-gpt-5-6-sol/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models
-
----
-
-### 15. White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down
-
-[White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down
-
----
-
-*生成于 2026-06-29 13:57 | 扫描 81 源 → 获取 2460 篇 → 精选 15 篇*
+*生成于 2026-06-30 12:03 | 扫描 82 源 → 获取 2469 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
