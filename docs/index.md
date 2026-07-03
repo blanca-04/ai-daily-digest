@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-02
+# 📰 AI 博客每日精选 — 2026-07-03
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Anthropic**
+🥇 **llm-coding-agent 0.1a0**
 
-[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Quoting Anthropic
+> llm-coding-agent 0.1a0
 
-🥈 **Nano Banana 2 Lite**
+🥈 **Using DSPy to evaluate and improve Datasette Agent's SQL system prompts**
 
-[Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
 
-> Nano Banana 2 Lite
+> Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
 
-🥉 **What's new in Claude Sonnet 5**
+🥉 **Understand to participate**
 
-[What's new in Claude Sonnet 5](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
 
-> What's new in Claude Sonnet 5
+> Understand to participate
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2471 篇 → 41 篇 | 48h | **15 篇** |
+| 81/92 | 2464 篇 → 34 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Anthropic
+### 1. llm-coding-agent 0.1a0
 
-[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
 
-> Quoting Anthropic
-
----
-
-### 2. Nano Banana 2 Lite
-
-[Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Nano Banana 2 Lite
+> llm-coding-agent 0.1a0
 
 ---
 
-### 3. What's new in Claude Sonnet 5
+### 2. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
 
-[What's new in Claude Sonnet 5](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
 
-> What's new in Claude Sonnet 5
-
----
-
-### 4. The AI Compass
-
-[The AI Compass](https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> The AI Compass
+> Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
 
 ---
 
-### 5. Have your agent record video demos of its work with shot-scraper video
+### 3. Understand to participate
 
-[Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
 
-> Have your agent record video demos of its work with shot-scraper video
-
----
-
-### 6. shot-scraper 1.10
-
-[shot-scraper 1.10](https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> shot-scraper 1.10
+> Understand to participate
 
 ---
 
-### 7. Text AI watermarks will always be trivial to remove
+### 4. Text AI watermarks will always be trivial to remove
 
-[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — **seangoedecke.com** · 12 小时前 · ⭐ 15/30
+[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Text AI watermarks will always be trivial to remove
 
 ---
 
-### 8. ★ A Tale of Two Modems
+### 5. FBI Seizes NetNut Proxy Platform, Popa Botnet
 
-[★ A Tale of Two Modems](https://daringfireball.net/2026/07/a_tale_of_two_modems) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) — **krebsonsecurity.com** · 16 小时前 · ⭐ 15/30
 
-> ★ A Tale of Two Modems
-
----
-
-### 9. PlayStation Plus and Xbox Game Pass Subscriptions
-
-[PlayStation Plus and Xbox Game Pass Subscriptions](https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> PlayStation Plus and Xbox Game Pass Subscriptions
+> FBI Seizes NetNut Proxy Platform, Popa Botnet
 
 ---
 
-### 10. Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms
+### 6. April Report From Ookla: ‘A Return to mmWave 5G’
 
-[Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms
-
----
-
-### 11. The Talk Show: ‘Taking Drugs to Get Fat’
-
-[The Talk Show: ‘Taking Drugs to Get Fat’](https://daringfireball.net/thetalkshow/2026/06/30/ep-451) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> The Talk Show: ‘Taking Drugs to Get Fat’
+> April Report From Ookla: ‘A Return to mmWave 5G’
 
 ---
 
-### 12. 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses
+### 7. Introducing the Safari MCP Server for Web Developers
 
-[404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses
-
----
-
-### 13. Gnome
-
-[Gnome](https://lexfriedman.com/gnome/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Gnome
+> Introducing the Safari MCP Server for Web Developers
 
 ---
 
-### 14. Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’
+### 8. EveryMac Turns 30
 
-[Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’](https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[EveryMac Turns 30](https://everymac.com/whatsnew/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’
-
----
-
-### 15. Supreme Court Upholds Birthright Citizenship in 6-3 Decision
-
-[Supreme Court Upholds Birthright Citizenship in 6-3 Decision](https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Supreme Court Upholds Birthright Citizenship in 6-3 Decision
+> EveryMac Turns 30
 
 ---
 
-*生成于 2026-07-02 12:00 | 扫描 81 源 → 获取 2471 篇 → 精选 15 篇*
+### 9. I Repeat Myself (5G vs. LTE Edition)
+
+[I Repeat Myself (5G vs. LTE Edition)](https://daringfireball.net/linked/2022/03/23/5g-battery-life) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> I Repeat Myself (5G vs. LTE Edition)
+
+---
+
+### 10. Truth Social Is Still Just Trump’s Blog
+
+[Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Truth Social Is Still Just Trump’s Blog
+
+---
+
+### 11. ‘A Perfect Reflection of Trump’s Washington’
+
+[‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> ‘A Perfect Reflection of Trump’s Washington’
+
+---
+
+### 12. Claude Fable and Kayfabe
+
+[Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Claude Fable and Kayfabe
+
+---
+
+### 13. ‘Why Is Meta Destroying Its Engineering Organization?’
+
+[‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> ‘Why Is Meta Destroying Its Engineering Organization?’
+
+---
+
+### 14. MG Siegler Got Banned From WhatsApp for No Reason
+
+[MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> MG Siegler Got Banned From WhatsApp for No Reason
+
+---
+
+### 15. Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access
+
+[Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access
+
+---
+
+*生成于 2026-07-03 11:59 | 扫描 81 源 → 获取 2464 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
