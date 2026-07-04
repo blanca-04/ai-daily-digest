@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-03
+# 📰 AI 博客每日精选 — 2026-07-04
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **llm-coding-agent 0.1a0**
+🥇 **Open Source AI Gap Map**
 
-[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> llm-coding-agent 0.1a0
+> Open Source AI Gap Map
 
-🥈 **Using DSPy to evaluate and improve Datasette Agent's SQL system prompts**
+🥈 **Quoting Josh W. Comeau**
 
-[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+[Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+> Quoting Josh W. Comeau
 
-🥉 **Understand to participate**
+🥉 **Fable's judgement**
 
-[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
+[Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Understand to participate
+> Fable's judgement
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2464 篇 → 34 篇 | 48h | **15 篇** |
+| 82/92 | 2476 篇 → 31 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. llm-coding-agent 0.1a0
+### 1. Open Source AI Gap Map
 
-[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Open Source AI Gap Map
+
+---
+
+### 2. Quoting Josh W. Comeau
+
+[Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Quoting Josh W. Comeau
+
+---
+
+### 3. Fable's judgement
+
+[Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Fable's judgement
+
+---
+
+### 4. June 2026 newsletter
+
+[June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> June 2026 newsletter
+
+---
+
+### 5. llm-coding-agent 0.1a0
+
+[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-coding-agent 0.1a0
 
 ---
 
-### 2. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
+### 6. Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
 
-[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Using DSPy to evaluate and improve Datasette Agent's SQL system prompts
 
 ---
 
-### 3. Understand to participate
+### 7. Understand to participate
 
-[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Understand to participate
 
 ---
 
-### 4. Text AI watermarks will always be trivial to remove
+### 8. FBI Seizes NetNut Proxy Platform, Popa Botnet
 
-[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Text AI watermarks will always be trivial to remove
-
----
-
-### 5. FBI Seizes NetNut Proxy Platform, Popa Botnet
-
-[FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) — **krebsonsecurity.com** · 16 小时前 · ⭐ 15/30
+[FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > FBI Seizes NetNut Proxy Platform, Popa Botnet
 
 ---
 
-### 6. April Report From Ookla: ‘A Return to mmWave 5G’
+### 9. ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job
 
-[April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[★ Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+
+> ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job
+
+---
+
+### 10. April Report From Ookla: ‘A Return to mmWave 5G’
+
+[April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > April Report From Ookla: ‘A Return to mmWave 5G’
 
 ---
 
-### 7. Introducing the Safari MCP Server for Web Developers
+### 11. Introducing the Safari MCP Server for Web Developers
 
-[Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Introducing the Safari MCP Server for Web Developers
 
 ---
 
-### 8. EveryMac Turns 30
+### 12. EveryMac Turns 30
 
-[EveryMac Turns 30](https://everymac.com/whatsnew/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[EveryMac Turns 30](https://everymac.com/whatsnew/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > EveryMac Turns 30
 
 ---
 
-### 9. I Repeat Myself (5G vs. LTE Edition)
+### 13. I Repeat Myself (5G vs. LTE Edition)
 
-[I Repeat Myself (5G vs. LTE Edition)](https://daringfireball.net/linked/2022/03/23/5g-battery-life) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[I Repeat Myself (5G vs. LTE Edition)](https://daringfireball.net/linked/2022/03/23/5g-battery-life) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > I Repeat Myself (5G vs. LTE Edition)
 
 ---
 
-### 10. Truth Social Is Still Just Trump’s Blog
+### 14. Truth Social Is Still Just Trump’s Blog
 
-[Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Truth Social Is Still Just Trump’s Blog
 
 ---
 
-### 11. ‘A Perfect Reflection of Trump’s Washington’
+### 15. ‘A Perfect Reflection of Trump’s Washington’
 
-[‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘A Perfect Reflection of Trump’s Washington’
 
 ---
 
-### 12. Claude Fable and Kayfabe
-
-[Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> Claude Fable and Kayfabe
-
----
-
-### 13. ‘Why Is Meta Destroying Its Engineering Organization?’
-
-[‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
-
-> ‘Why Is Meta Destroying Its Engineering Organization?’
-
----
-
-### 14. MG Siegler Got Banned From WhatsApp for No Reason
-
-[MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> MG Siegler Got Banned From WhatsApp for No Reason
-
----
-
-### 15. Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access
-
-[Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access
-
----
-
-*生成于 2026-07-03 11:59 | 扫描 81 源 → 获取 2464 篇 → 精选 15 篇*
+*生成于 2026-07-04 11:15 | 扫描 82 源 → 获取 2476 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
