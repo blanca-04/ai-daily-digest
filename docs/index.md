@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-08
+# 📰 AI 博客每日精选 — 2026-07-09
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **sqlite-utils 4.0, now with database schema migrations**
+🥇 **Rewriting Bun in Rust**
 
-[sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> sqlite-utils 4.0, now with database schema migrations
+> Rewriting Bun in Rust
 
-🥈 **sqlite-migrate 0.2**
+🥈 **Introducing GPT‑Live**
 
-[sqlite-migrate 0.2](https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
+[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
 
-> sqlite-migrate 0.2
+> Introducing GPT‑Live
 
-🥉 **github-code Web Component**
+🥉 **Quoting Kenton Varda**
 
-[github-code Web Component](https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
+[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> github-code Web Component
+> Quoting Kenton Varda
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2486 篇 → 29 篇 | 48h | **15 篇** |
+| 82/92 | 2486 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. sqlite-utils 4.0, now with database schema migrations
+### 1. Rewriting Bun in Rust
 
-[sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Rewriting Bun in Rust
+
+---
+
+### 2. Introducing GPT‑Live
+
+[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Introducing GPT‑Live
+
+---
+
+### 3. Quoting Kenton Varda
+
+[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Quoting Kenton Varda
+
+---
+
+### 4. sqlite-utils 4.0, now with database schema migrations
+
+[sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > sqlite-utils 4.0, now with database schema migrations
 
 ---
 
-### 2. sqlite-migrate 0.2
+### 5. sqlite-migrate 0.2
 
-[sqlite-migrate 0.2](https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[sqlite-migrate 0.2](https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > sqlite-migrate 0.2
 
 ---
 
-### 3. github-code Web Component
+### 6. github-code Web Component
 
-[github-code Web Component](https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[github-code Web Component](https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > github-code Web Component
 
 ---
 
-### 4. sqlite-utils 4.0
+### 7. sqlite-utils 4.0
 
-[sqlite-utils 4.0](https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[sqlite-utils 4.0](https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > sqlite-utils 4.0
 
 ---
 
-### 5. sqlite-utils 4.0rc4
+### 8. The Special Value Pi 4 was extremely short-lived
 
-[sqlite-utils 4.0rc4](https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — **jeffgeerling.com** · 22 小时前 · ⭐ 15/30
 
-> sqlite-utils 4.0rc4
-
----
-
-### 6. tencent/Hy3
-
-[tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> tencent/Hy3
+> The Special Value Pi 4 was extremely short-lived
 
 ---
 
-### 7. Blog about things you don't understand yet
+### 9. Felons, Fraudsters Flog Offensive Cybersecurity Startup
 
-[Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — **krebsonsecurity.com** · 23 小时前 · ⭐ 15/30
 
-> Blog about things you don't understand yet
-
----
-
-### 8. OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices
-
-[OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices
+> Felons, Fraudsters Flog Offensive Cybersecurity Startup
 
 ---
 
-### 9. ★ Apple Should Eliminate the App Icon ‘Squircle Jail’
+### 10. ★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander
 
-[★ Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
 
-> ★ Apple Should Eliminate the App Icon ‘Squircle Jail’
-
----
-
-### 10. Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes
-
-[Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes](https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes
+> ★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander
 
 ---
 
-### 11. Backblaze Versus Dropbox
+### 11. ‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973
 
-[Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973](https://www.rfc-editor.org/info/rfc439/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Backblaze Versus Dropbox
-
----
-
-### 12. Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’
-
-[Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’
+> ‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973
 
 ---
 
-### 13. ATP Member Special: Mac-Assed Mac Apps
+### 12. Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store
 
-[ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store](https://tyler.io/2026/07/05/escape-from-squircle-jail/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> ATP Member Special: Mac-Assed Mac Apps
-
----
-
-### 14. Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired
-
-[Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired](https://maestral.app/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired
+> Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store
 
 ---
 
-### 15. Jason Snell Ends His Column, and 28-Year Run, at Macworld
+### 13. ‘Searching for SmarterChild’ Kickstarter
 
-[Jason Snell Ends His Column, and 28-Year Run, at Macworld](https://www.macworld.com/article/3175482) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[‘Searching for SmarterChild’ Kickstarter](https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Jason Snell Ends His Column, and 28-Year Run, at Macworld
+> ‘Searching for SmarterChild’ Kickstarter
 
 ---
 
-*生成于 2026-07-08 11:40 | 扫描 82 源 → 获取 2486 篇 → 精选 15 篇*
+### 14. My Conversation With ELIZA
+
+[My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> My Conversation With ELIZA
+
+---
+
+### 15. The ELIZA Archaeology Project
+
+[The ELIZA Archaeology Project](https://findingeliza.org/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> The ELIZA Archaeology Project
+
+---
+
+*生成于 2026-07-09 12:24 | 扫描 82 源 → 获取 2486 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
