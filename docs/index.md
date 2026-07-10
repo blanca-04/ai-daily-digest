@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-09
+# 📰 AI 博客每日精选 — 2026-07-10
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Rewriting Bun in Rust**
+🥇 **Quoting OpenAI**
 
-[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Rewriting Bun in Rust
+> Quoting OpenAI
 
-🥈 **Introducing GPT‑Live**
+🥈 **The new GPT-5.6 family: Luna, Terra, Sol**
 
-[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — simonwillison.net · 13 小时前 · 📝 其他
+[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Introducing GPT‑Live
+> The new GPT-5.6 family: Luna, Terra, Sol
 
-🥉 **Quoting Kenton Varda**
+🥉 **Introducing Muse Spark 1.1**
 
-[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
 
-> Quoting Kenton Varda
+> Introducing Muse Spark 1.1
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2486 篇 → 35 篇 | 48h | **15 篇** |
+| 81/92 | 2429 篇 → 40 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Rewriting Bun in Rust
+### 1. Quoting OpenAI
 
-[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Quoting OpenAI
+
+---
+
+### 2. The new GPT-5.6 family: Luna, Terra, Sol
+
+[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> The new GPT-5.6 family: Luna, Terra, Sol
+
+---
+
+### 3. Introducing Muse Spark 1.1
+
+[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Introducing Muse Spark 1.1
+
+---
+
+### 4. llm-meta-ai 0.1
+
+[llm-meta-ai 0.1](https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> llm-meta-ai 0.1
+
+---
+
+### 5. llm 0.31.1
+
+[llm 0.31.1](https://simonwillison.net/2026/Jul/9/llm/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> llm 0.31.1
+
+---
+
+### 6. Rewriting Bun in Rust
+
+[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Rewriting Bun in Rust
 
 ---
 
-### 2. Introducing GPT‑Live
+### 7. Introducing GPT‑Live
 
-[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Introducing GPT‑Live
 
 ---
 
-### 3. Quoting Kenton Varda
+### 8. Quoting Kenton Varda
 
-[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Kenton Varda
 
 ---
 
-### 4. sqlite-utils 4.0, now with database schema migrations
+### 9. The Special Value Pi 4 was extremely short-lived
 
-[sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> sqlite-utils 4.0, now with database schema migrations
-
----
-
-### 5. sqlite-migrate 0.2
-
-[sqlite-migrate 0.2](https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> sqlite-migrate 0.2
-
----
-
-### 6. github-code Web Component
-
-[github-code Web Component](https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> github-code Web Component
-
----
-
-### 7. sqlite-utils 4.0
-
-[sqlite-utils 4.0](https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> sqlite-utils 4.0
-
----
-
-### 8. The Special Value Pi 4 was extremely short-lived
-
-[The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — **jeffgeerling.com** · 22 小时前 · ⭐ 15/30
+[The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > The Special Value Pi 4 was extremely short-lived
 
 ---
 
-### 9. Felons, Fraudsters Flog Offensive Cybersecurity Startup
+### 10. Felons, Fraudsters Flog Offensive Cybersecurity Startup
 
-[Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — **krebsonsecurity.com** · 23 小时前 · ⭐ 15/30
+[Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Felons, Fraudsters Flog Offensive Cybersecurity Startup
 
 ---
 
-### 10. ★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander
+### 11. Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI
 
-[★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> ★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander
-
----
-
-### 11. ‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973
-
-[‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973](https://www.rfc-editor.org/info/rfc439/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
-
-> ‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973
+> Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI
 
 ---
 
-### 12. Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store
+### 12. Today’s the Day OpenAI Fucked Up the ChatGPT Mac App
 
-[Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store](https://tyler.io/2026/07/05/escape-from-squircle-jail/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Today’s the Day OpenAI Fucked Up the ChatGPT Mac App](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store
-
----
-
-### 13. ‘Searching for SmarterChild’ Kickstarter
-
-[‘Searching for SmarterChild’ Kickstarter](https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> ‘Searching for SmarterChild’ Kickstarter
+> Today’s the Day OpenAI Fucked Up the ChatGPT Mac App
 
 ---
 
-### 14. My Conversation With ELIZA
+### 13. Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher
 
-[My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> My Conversation With ELIZA
-
----
-
-### 15. The ELIZA Archaeology Project
-
-[The ELIZA Archaeology Project](https://findingeliza.org/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> The ELIZA Archaeology Project
+> Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher
 
 ---
 
-*生成于 2026-07-09 12:24 | 扫描 82 源 → 获取 2486 篇 → 精选 15 篇*
+### 14. ★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope
+
+[★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> ★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope
+
+---
+
+### 15. Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI
+
+[Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI
+
+---
+
+*生成于 2026-07-10 12:17 | 扫描 81 源 → 获取 2429 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
