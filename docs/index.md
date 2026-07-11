@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-10
+# 📰 AI 博客每日精选 — 2026-07-11
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting OpenAI**
+🥇 **Quoting Nilay Patel**
 
-[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+
+> Quoting Nilay Patel
+
+🥈 **Quoting OpenAI**
+
+[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting OpenAI
 
-🥈 **The new GPT-5.6 family: Luna, Terra, Sol**
+🥉 **The new GPT-5.6 family: Luna, Terra, Sol**
 
-[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > The new GPT-5.6 family: Luna, Terra, Sol
-
-🥉 **Introducing Muse Spark 1.1**
-
-[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — simonwillison.net · 19 小时前 · 📝 其他
-
-> Introducing Muse Spark 1.1
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2429 篇 → 40 篇 | 48h | **15 篇** |
+| 82/92 | 2486 篇 → 36 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting OpenAI
+### 1. Quoting Nilay Patel
 
-[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Nilay Patel
+
+---
+
+### 2. Quoting OpenAI
+
+[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting OpenAI
 
 ---
 
-### 2. The new GPT-5.6 family: Luna, Terra, Sol
+### 3. The new GPT-5.6 family: Luna, Terra, Sol
 
-[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The new GPT-5.6 family: Luna, Terra, Sol
 
 ---
 
-### 3. Introducing Muse Spark 1.1
+### 4. Introducing Muse Spark 1.1
 
-[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Introducing Muse Spark 1.1
 
 ---
 
-### 4. llm-meta-ai 0.1
+### 5. llm-meta-ai 0.1
 
-[llm-meta-ai 0.1](https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[llm-meta-ai 0.1](https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-meta-ai 0.1
 
 ---
 
-### 5. llm 0.31.1
+### 6. llm 0.31.1
 
-[llm 0.31.1](https://simonwillison.net/2026/Jul/9/llm/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[llm 0.31.1](https://simonwillison.net/2026/Jul/9/llm/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm 0.31.1
 
 ---
 
-### 6. Rewriting Bun in Rust
+### 7. QuadRF can spot drones and see WiFi through my wall
 
-[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> Rewriting Bun in Rust
-
----
-
-### 7. Introducing GPT‑Live
-
-[Introducing GPT‑Live](https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Introducing GPT‑Live
+> QuadRF can spot drones and see WiFi through my wall
 
 ---
 
-### 8. Quoting Kenton Varda
+### 8. In defense of not understanding your codebase
 
-[Quoting Kenton Varda](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Quoting Kenton Varda
-
----
-
-### 9. The Special Value Pi 4 was extremely short-lived
-
-[The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> The Special Value Pi 4 was extremely short-lived
+> In defense of not understanding your codebase
 
 ---
 
-### 10. Felons, Fraudsters Flog Offensive Cybersecurity Startup
+### 9. John Ternus Calls Sam Altman
 
-[Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[John Ternus Calls Sam Altman](https://www.youtube.com/watch?v=ClASuxd8jQY) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
 
-> Felons, Fraudsters Flog Offensive Cybersecurity Startup
-
----
-
-### 11. Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI
-
-[Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI
+> John Ternus Calls Sam Altman
 
 ---
 
-### 12. Today’s the Day OpenAI Fucked Up the ChatGPT Mac App
+### 10. ‘No Interest’
 
-[Today’s the Day OpenAI Fucked Up the ChatGPT Mac App](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[‘No Interest’](https://x.com/drewpusateri/status/2075708238650089981) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
 
-> Today’s the Day OpenAI Fucked Up the ChatGPT Mac App
-
----
-
-### 13. Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher
-
-[Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
-
-> Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher
+> ‘No Interest’
 
 ---
 
-### 14. ★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope
+### 11. Ice Cold
 
-[★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Ice Cold](https://www.threads.com/@alexheath/post/DaoI2jaEioX) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
 
-> ★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope
-
----
-
-### 15. Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI
-
-[Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI
+> Ice Cold
 
 ---
 
-*生成于 2026-07-10 12:17 | 扫描 81 源 → 获取 2429 篇 → 精选 15 篇*
+### 12. Ryanair Literally Sucks
+
+[Ryanair Literally Sucks](https://apnews.com/article/greece-germany-ryanair-passenger-457c424f541152af1becdb387c90cfdd) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
+
+> Ryanair Literally Sucks
+
+---
+
+### 13. Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo
+
+[Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo](https://futurism.com/artificial-intelligence/trump-airport-logo-ai) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
+
+> Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo
+
+---
+
+### 14. Mac OS 9’s Finder Had a ‘View as Buttons’ Mode
+
+[Mac OS 9’s Finder Had a ‘View as Buttons’ Mode](https://www.cryan.com/blog/20240502.jsp) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
+
+> Mac OS 9’s Finder Had a ‘View as Buttons’ Mode
+
+---
+
+### 15. Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs
+
+[Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — **daringfireball.net** · 8 小时前 · ⭐ 15/30
+
+> Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs
+
+---
+
+*生成于 2026-07-11 10:51 | 扫描 82 源 → 获取 2486 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
