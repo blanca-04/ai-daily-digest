@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-15
+# 📰 AI 博客每日精选 — 2026-07-16
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting GitHub Changelog**
+🥇 **Mermaid to Unicode box art (grok-mermaid)**
 
-[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> Quoting GitHub Changelog
+> Mermaid to Unicode box art (grok-mermaid)
 
-🥈 **simonw/pedalican**
+🥈 **xai-org/grok-build, now open source**
 
-[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> simonw/pedalican
+> xai-org/grok-build, now open source
 
-🥉 **lobste.rs is now running on SQLite**
+🥉 **How I tricked Claude into leaking your deepest, darkest secrets**
 
-[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
+[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
 
-> lobste.rs is now running on SQLite
+> How I tricked Claude into leaking your deepest, darkest secrets
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2434 篇 → 29 篇 | 48h | **15 篇** |
+| 81/92 | 2456 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting GitHub Changelog
+### 1. Mermaid to Unicode box art (grok-mermaid)
 
-[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Mermaid to Unicode box art (grok-mermaid)
+
+---
+
+### 2. xai-org/grok-build, now open source
+
+[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> xai-org/grok-build, now open source
+
+---
+
+### 3. How I tricked Claude into leaking your deepest, darkest secrets
+
+[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> How I tricked Claude into leaking your deepest, darkest secrets
+
+---
+
+### 4. Quoting GitHub Changelog
+
+[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting GitHub Changelog
 
 ---
 
-### 2. simonw/pedalican
+### 5. simonw/pedalican
 
-[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > simonw/pedalican
 
 ---
 
-### 3. lobste.rs is now running on SQLite
+### 6. lobste.rs is now running on SQLite
 
-[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > lobste.rs is now running on SQLite
 
 ---
 
-### 4. Quoting Armin Ronacher
+### 7. Quoting Armin Ronacher
 
-[Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Armin Ronacher
 
 ---
 
-### 5. datasette 1.0a37
+### 8. datasette 1.0a37
 
-[datasette 1.0a37](https://simonwillison.net/2026/Jul/14/datasette/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[datasette 1.0a37](https://simonwillison.net/2026/Jul/14/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a37
 
 ---
 
-### 6. Using uvx in GitHub Actions in a cache-friendly way
-
-[Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Using uvx in GitHub Actions in a cache-friendly way
-
----
-
-### 7. DOOMQL
-
-[DOOMQL](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> DOOMQL
-
----
-
-### 8. datasette code-frequency chart on GitHub
-
-[datasette code-frequency chart on GitHub](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette code-frequency chart on GitHub
-
----
-
 ### 9. Microsoft Patches a Record 570 Security Flaws
 
-[Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) — **krebsonsecurity.com** · 15 小时前 · ⭐ 15/30
+[Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Microsoft Patches a Record 570 Security Flaws
 
 ---
 
-### 10. Lessons Learned from CISA’s Recent GitHub Leak
+### 10. Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’
 
-[Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Lessons Learned from CISA’s Recent GitHub Leak
-
----
-
-### 11. [Sponsor] Paper
-
-[[Sponsor] Paper](https://paper.design/?utm_source=df) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> [Sponsor] Paper
+> Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’
 
 ---
 
-### 12. Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?
+### 11. Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’
 
-[Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?](https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’](https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?
-
----
-
-### 13. Control the ideas, not the code
-
-[Control the ideas, not the code](http://antirez.com/news/169) — **antirez.com** · 1 天前 · ⭐ 15/30
-
-> Control the ideas, not the code
+> Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’
 
 ---
 
-### 14. They Prefer the App
+### 12. Apple Updates Advertising Services Policy With New Rules for Ads in Maps
 
-[They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — **idiallo.com** · 12 小时前 · ⭐ 15/30
+[Apple Updates Advertising Services Policy With New Rules for Ads in Maps](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Apple Updates Advertising Services Policy With New Rules for Ads in Maps
+
+---
+
+### 13. Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba
+
+[Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba](https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba
+
+---
+
+### 14. Deleting Systems You Don't Understand
+
+[Deleting Systems You Don't Understand](https://idiallo.com/blog/deleting-systems-you-dont-understand) — **idiallo.com** · 4 小时前 · ⭐ 15/30
+
+> Deleting Systems You Don't Understand
+
+---
+
+### 15. They Prefer the App
+
+[They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
 > They Prefer the App
 
 ---
 
-### 15. Pluralistic: Gerontocracy's failure mode (14 Jul 2026)
-
-[Pluralistic: Gerontocracy's failure mode (14 Jul 2026)](https://pluralistic.net/2026/07/14/designated-survivor/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Gerontocracy's failure mode (14 Jul 2026)
-
----
-
-*生成于 2026-07-15 11:19 | 扫描 80 源 → 获取 2434 篇 → 精选 15 篇*
+*生成于 2026-07-16 11:24 | 扫描 81 源 → 获取 2456 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
