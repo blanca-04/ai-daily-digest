@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-16
+# 📰 AI 博客每日精选 — 2026-07-17
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Mermaid to Unicode box art (grok-mermaid)**
+🥇 **Spot birds not golf**
 
-[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — simonwillison.net · 8 小时前 · 📝 其他
 
-> Mermaid to Unicode box art (grok-mermaid)
+> Spot birds not golf
 
-🥈 **xai-org/grok-build, now open source**
+🥈 **Firefox in WebAssembly**
 
-[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> xai-org/grok-build, now open source
+> Firefox in WebAssembly
 
-🥉 **How I tricked Claude into leaking your deepest, darkest secrets**
+🥉 **Kimi K3, and what we can still learn from the pelican benchmark**
 
-[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+[Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> How I tricked Claude into leaking your deepest, darkest secrets
+> Kimi K3, and what we can still learn from the pelican benchmark
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2456 篇 → 27 篇 | 48h | **15 篇** |
+| 84/92 | 2522 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Mermaid to Unicode box art (grok-mermaid)
+### 1. Spot birds not golf
 
-[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — **simonwillison.net** · 8 小时前 · ⭐ 15/30
+
+> Spot birds not golf
+
+---
+
+### 2. Firefox in WebAssembly
+
+[Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Firefox in WebAssembly
+
+---
+
+### 3. Kimi K3, and what we can still learn from the pelican benchmark
+
+[Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Kimi K3, and what we can still learn from the pelican benchmark
+
+---
+
+### 4. Quoting Thibault Sottiaux
+
+[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Thibault Sottiaux
+
+---
+
+### 5. Inkling: Our open-weights model
+
+[Inkling: Our open-weights model](https://simonwillison.net/2026/Jul/16/inkling/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Inkling: Our open-weights model
+
+---
+
+### 6. Mermaid to ASCII art (mermaid-ascii)
+
+[Mermaid to ASCII art (mermaid-ascii)](https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Mermaid to ASCII art (mermaid-ascii)
+
+---
+
+### 7. Quoting Linus Torvalds
+
+[Quoting Linus Torvalds](https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Quoting Linus Torvalds
+
+---
+
+### 8. Mermaid to Unicode box art (grok-mermaid)
+
+[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Mermaid to Unicode box art (grok-mermaid)
 
 ---
 
-### 2. xai-org/grok-build, now open source
+### 9. xai-org/grok-build, now open source
 
-[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > xai-org/grok-build, now open source
 
 ---
 
-### 3. How I tricked Claude into leaking your deepest, darkest secrets
+### 10. How I tricked Claude into leaking your deepest, darkest secrets
 
-[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > How I tricked Claude into leaking your deepest, darkest secrets
 
 ---
 
-### 4. Quoting GitHub Changelog
+### 11. European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules
 
-[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules](https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> Quoting GitHub Changelog
-
----
-
-### 5. simonw/pedalican
-
-[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> simonw/pedalican
+> European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules
 
 ---
 
-### 6. lobste.rs is now running on SQLite
+### 12. Quiche Browser Now Defaults to No-AI Web Search Results
 
-[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Quiche Browser Now Defaults to No-AI Web Search Results](https://mastodon.social/@quicheindustries/116918456229212087) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
 
-> lobste.rs is now running on SQLite
-
----
-
-### 7. Quoting Armin Ronacher
-
-[Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Armin Ronacher
+> Quiche Browser Now Defaults to No-AI Web Search Results
 
 ---
 
-### 8. datasette 1.0a37
+### 13. Dithering: ‘Apple Sues OpenAI’
 
-[datasette 1.0a37](https://simonwillison.net/2026/Jul/14/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Dithering: ‘Apple Sues OpenAI’](https://dithering.passport.online/member/episode/apple-sues-open-ai) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> datasette 1.0a37
-
----
-
-### 9. Microsoft Patches a Record 570 Security Flaws
-
-[Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> Microsoft Patches a Record 570 Security Flaws
+> Dithering: ‘Apple Sues OpenAI’
 
 ---
 
-### 10. Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’
+### 14. OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit
 
-[Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit](https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’
-
----
-
-### 11. Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’
-
-[Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’](https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’
+> OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit
 
 ---
 
-### 12. Apple Updates Advertising Services Policy With New Rules for Ads in Maps
+### 15. Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February
 
-[Apple Updates Advertising Services Policy With New Rules for Ads in Maps](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Apple Updates Advertising Services Policy With New Rules for Ads in Maps
-
----
-
-### 13. Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba
-
-[Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba](https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
-
-> Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba
+> Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February
 
 ---
 
-### 14. Deleting Systems You Don't Understand
-
-[Deleting Systems You Don't Understand](https://idiallo.com/blog/deleting-systems-you-dont-understand) — **idiallo.com** · 4 小时前 · ⭐ 15/30
-
-> Deleting Systems You Don't Understand
-
----
-
-### 15. They Prefer the App
-
-[They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> They Prefer the App
-
----
-
-*生成于 2026-07-16 11:24 | 扫描 81 源 → 获取 2456 篇 → 精选 15 篇*
+*生成于 2026-07-17 11:12 | 扫描 84 源 → 获取 2522 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
