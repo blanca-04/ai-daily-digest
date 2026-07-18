@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-17
+# 📰 AI 博客每日精选 — 2026-07-18
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Spot birds not golf**
+🥇 **Claude make Fable 5 permanent**
 
-[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — simonwillison.net · 8 小时前 · 📝 其他
+[Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) — simonwillison.net · 4 小时前 · 📝 其他
 
-> Spot birds not golf
+> Claude make Fable 5 permanent
 
-🥈 **Firefox in WebAssembly**
+🥈 **nascheme/quixote**
 
-[Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything) — simonwillison.net · 5 小时前 · 📝 其他
 
-> Firefox in WebAssembly
+> nascheme/quixote
 
-🥉 **Kimi K3, and what we can still learn from the pelican benchmark**
+🥉 **Quoting Kimi K3**
 
-[Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
 
-> Kimi K3, and what we can still learn from the pelican benchmark
+> Quoting Kimi K3
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2522 篇 → 35 篇 | 48h | **15 篇** |
+| 83/92 | 2504 篇 → 48 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Spot birds not golf
+### 1. Claude make Fable 5 permanent
 
-[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — **simonwillison.net** · 8 小时前 · ⭐ 15/30
+[Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) — **simonwillison.net** · 4 小时前 · ⭐ 15/30
+
+> Claude make Fable 5 permanent
+
+---
+
+### 2. nascheme/quixote
+
+[nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything) — **simonwillison.net** · 5 小时前 · ⭐ 15/30
+
+> nascheme/quixote
+
+---
+
+### 3. Quoting Kimi K3
+
+[Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Quoting Kimi K3
+
+---
+
+### 4. LLM cliché highlighter
+
+[LLM cliché highlighter](https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> LLM cliché highlighter
+
+---
+
+### 5. Spot birds not golf
+
+[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Spot birds not golf
 
 ---
 
-### 2. Firefox in WebAssembly
+### 6. Firefox in WebAssembly
 
-[Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Firefox in WebAssembly
 
 ---
 
-### 3. Kimi K3, and what we can still learn from the pelican benchmark
+### 7. Kimi K3, and what we can still learn from the pelican benchmark
 
-[Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Kimi K3, and what we can still learn from the pelican benchmark
 
 ---
 
-### 4. Quoting Thibault Sottiaux
+### 8. Quoting Thibault Sottiaux
 
-[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Thibault Sottiaux
 
 ---
 
-### 5. Inkling: Our open-weights model
+### 9. Inkling: Our open-weights model
 
-[Inkling: Our open-weights model](https://simonwillison.net/2026/Jul/16/inkling/#atom-everything) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Inkling: Our open-weights model](https://simonwillison.net/2026/Jul/16/inkling/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Inkling: Our open-weights model
 
 ---
 
-### 6. Mermaid to ASCII art (mermaid-ascii)
+### 10. Mermaid to ASCII art (mermaid-ascii)
 
-[Mermaid to ASCII art (mermaid-ascii)](https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Mermaid to ASCII art (mermaid-ascii)](https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Mermaid to ASCII art (mermaid-ascii)
 
 ---
 
-### 7. Quoting Linus Torvalds
+### 11. Quoting Linus Torvalds
 
-[Quoting Linus Torvalds](https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[Quoting Linus Torvalds](https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Linus Torvalds
 
 ---
 
-### 8. Mermaid to Unicode box art (grok-mermaid)
+### 12. Overtraining as the path to human-like AI
 
-[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Mermaid to Unicode box art (grok-mermaid)
-
----
-
-### 9. xai-org/grok-build, now open source
-
-[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> xai-org/grok-build, now open source
+> Overtraining as the path to human-like AI
 
 ---
 
-### 10. How I tricked Claude into leaking your deepest, darkest secrets
+### 13. Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors
 
-[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
 
-> How I tricked Claude into leaking your deepest, darkest secrets
-
----
-
-### 11. European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules
-
-[European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules](https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
-
-> European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules
+> Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors
 
 ---
 
-### 12. Quiche Browser Now Defaults to No-AI Web Search Results
+### 14. Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine
 
-[Quiche Browser Now Defaults to No-AI Web Search Results](https://mastodon.social/@quicheindustries/116918456229212087) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Quiche Browser Now Defaults to No-AI Web Search Results
-
----
-
-### 13. Dithering: ‘Apple Sues OpenAI’
-
-[Dithering: ‘Apple Sues OpenAI’](https://dithering.passport.online/member/episode/apple-sues-open-ai) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> Dithering: ‘Apple Sues OpenAI’
+> Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine
 
 ---
 
-### 14. OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit
+### 15. Roblox Set to Introduce AI Game-Building Feature, Including on iOS
 
-[OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit](https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Roblox Set to Introduce AI Game-Building Feature, Including on iOS](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit
-
----
-
-### 15. Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February
-
-[Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February
+> Roblox Set to Introduce AI Game-Building Feature, Including on iOS
 
 ---
 
-*生成于 2026-07-17 11:12 | 扫描 84 源 → 获取 2522 篇 → 精选 15 篇*
+*生成于 2026-07-18 10:54 | 扫描 83 源 → 获取 2504 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
