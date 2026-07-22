@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-21
+# 📰 AI 博客每日精选 — 2026-07-22
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Reverse-engineering is cheap now**
+🥇 **Nativ: Run AI models locally on your Mac**
 
-[Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) — simonwillison.net · 21 小时前 · 📝 其他
+
+> Nativ: Run AI models locally on your Mac
+
+🥈 **A Fireside Chat with Cat and Thariq from the Claude Code team**
+
+[A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything) — simonwillison.net · 22 小时前 · 📝 其他
+
+> A Fireside Chat with Cat and Thariq from the Claude Code team
+
+🥉 **Reverse-engineering is cheap now**
+
+[Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > Reverse-engineering is cheap now
-
-🥈 **Who’s Afraid of Chinese Models?**
-
-[Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) — simonwillison.net · 18 小时前 · 📝 其他
-
-> Who’s Afraid of Chinese Models?
-
-🥉 **Quoting Sam Altman**
-
-[Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Quoting Sam Altman
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 80/92 | 2453 篇 → 23 篇 | 48h | **15 篇** |
+| 84/92 | 2526 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Reverse-engineering is cheap now
+### 1. Nativ: Run AI models locally on your Mac
 
-[Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Nativ: Run AI models locally on your Mac
+
+---
+
+### 2. A Fireside Chat with Cat and Thariq from the Claude Code team
+
+[A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> A Fireside Chat with Cat and Thariq from the Claude Code team
+
+---
+
+### 3. Reverse-engineering is cheap now
+
+[Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Reverse-engineering is cheap now
 
 ---
 
-### 2. Who’s Afraid of Chinese Models?
+### 4. Who’s Afraid of Chinese Models?
 
-[Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Who’s Afraid of Chinese Models?
 
 ---
 
-### 3. Quoting Sam Altman
+### 5. LG to Ban Residential Proxies from Smart TV Apps
 
-[Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) — **krebsonsecurity.com** · 10 小时前 · ⭐ 15/30
 
-> Quoting Sam Altman
+> LG to Ban Residential Proxies from Smart TV Apps
 
 ---
 
-### 4. [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent
+### 6. ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’
 
-[[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’
+
+---
+
+### 7. [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent
+
+[[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent
 
 ---
 
-### 5. ‘Who’s Afraid of Chinese Models?’
+### 8. ‘Who’s Afraid of Chinese Models?’
 
-[‘Who’s Afraid of Chinese Models?’](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[‘Who’s Afraid of Chinese Models?’](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘Who’s Afraid of Chinese Models?’
 
 ---
 
-### 6. Paper
+### 9. Expensive Is Just a Brand Now
 
-[Paper](https://paper.design/?utm_source=df) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Paper
-
----
-
-### 7. 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil
-
-[9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil](https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil
-
----
-
-### 8. Expensive Is Just a Brand Now
-
-[Expensive Is Just a Brand Now](https://idiallo.com/blog/expensive-is-just-branding) — **idiallo.com** · 12 小时前 · ⭐ 15/30
+[Expensive Is Just a Brand Now](https://idiallo.com/blog/expensive-is-just-branding) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
 > Expensive Is Just a Brand Now
 
 ---
 
-### 9. Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers
+### 10. Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)
 
-[Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers](https://pluralistic.net/2026/07/21/dickovers/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
+[Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)](https://pluralistic.net/2026/07/22/table-flipper/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
+
+> Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)
+
+---
+
+### 11. Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers
+
+[Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers](https://pluralistic.net/2026/07/21/dickovers/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers
 
 ---
 
-### 10. Public Transport - Don't Make Me Think!
+### 12. Scattered thoughts on social geolocation
 
-[Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Scattered thoughts on social geolocation](https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) — **shkspr.mobi** · 6 分钟前 · ⭐ 15/30
 
-> Public Transport - Don't Make Me Think!
+> Scattered thoughts on social geolocation
 
 ---
 
-### 11. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1
+### 13. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2
 
-[Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1](https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545) — **devblogs.microsoft.com/oldnewthing** · 21 小时前 · ⭐ 15/30
+[Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2](https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550) — **devblogs.microsoft.com/oldnewthing** · 21 小时前 · ⭐ 15/30
+
+> Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2
+
+---
+
+### 14. Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1
+
+[Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1](https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
 
 > Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1
 
 ---
 
-### 12. Volume to Area ratio for Regular Solids
+### 15. Forensic accounting in Python
 
-[Volume to Area ratio for Regular Solids](https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/) — **johndcook.com** · 21 小时前 · ⭐ 15/30
+[Forensic accounting in Python](https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/) — **johndcook.com** · 20 小时前 · ⭐ 15/30
 
-> Volume to Area ratio for Regular Solids
-
----
-
-### 13. Solving a chess puzzle with Grok 4.5
-
-[Solving a chess puzzle with Grok 4.5](https://www.johndcook.com/blog/2026/07/20/grok-chess/) — **johndcook.com** · 21 小时前 · ⭐ 15/30
-
-> Solving a chess puzzle with Grok 4.5
+> Forensic accounting in Python
 
 ---
 
-### 14. Fitting a regular expression to a list of words
-
-[Fitting a regular expression to a list of words](https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Fitting a regular expression to a list of words
-
----
-
-### 15. Sum of low squares
-
-[Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Sum of low squares
-
----
-
-*生成于 2026-07-21 11:40 | 扫描 80 源 → 获取 2453 篇 → 精选 15 篇*
+*生成于 2026-07-22 11:40 | 扫描 84 源 → 获取 2526 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
