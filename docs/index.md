@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-24
+# 📰 AI 博客每日精选 — 2026-07-25
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **The first known runaway AI agent - or a very bad marketing stunt?**
+🥇 **Quoting Boris Cherny**
 
-[The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+
+> Quoting Boris Cherny
+
+🥈 **Introducing Claude Opus 5**
+
+[Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+
+> Introducing Claude Opus 5
+
+🥉 **The first known runaway AI agent - or a very bad marketing stunt?**
+
+[The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
 
 > The first known runaway AI agent - or a very bad marketing stunt?
-
-🥈 **Quoting Seth Larson**
-
-[Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Quoting Seth Larson
-
-🥉 **Quoting Thomas Ptacek**
-
-[Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
-
-> Quoting Thomas Ptacek
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2512 篇 → 31 篇 | 48h | **15 篇** |
+| 81/92 | 2472 篇 → 35 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. The first known runaway AI agent - or a very bad marketing stunt?
+### 1. Quoting Boris Cherny
 
-[The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Quoting Boris Cherny
+
+---
+
+### 2. Introducing Claude Opus 5
+
+[Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Introducing Claude Opus 5
+
+---
+
+### 3. The first known runaway AI agent - or a very bad marketing stunt?
+
+[The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The first known runaway AI agent - or a very bad marketing stunt?
 
 ---
 
-### 2. Quoting Seth Larson
+### 4. Adding a backup Internet WAN on my OPNsense Router
 
-[Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Adding a backup Internet WAN on my OPNsense Router](https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
-> Quoting Seth Larson
-
----
-
-### 3. Quoting Thomas Ptacek
-
-[Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Thomas Ptacek
+> Adding a backup Internet WAN on my OPNsense Router
 
 ---
 
-### 4. OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened
+### 5. ★ Regarding Ad Blockers and Daring Fireball
 
-[OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened
-
----
-
-### 5. Are AI labs pelicanmaxxing?
-
-[Are AI labs pelicanmaxxing?](https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Are AI labs pelicanmaxxing?
+> ★ Regarding Ad Blockers and Daring Fireball
 
 ---
 
-### 6. Orchestrions
+### 6. Coiner of ‘Enshittification’ Endorses ‘Dickover’
 
-[Orchestrions](https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Coiner of ‘Enshittification’ Endorses ‘Dickover’](https://pluralistic.net/2026/07/21/dickovers/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Orchestrions
-
----
-
-### 7. Open Sauce and GPS time were my summer AI Antiseptics
-
-[Open Sauce and GPS time were my summer AI Antiseptics](https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Open Sauce and GPS time were my summer AI Antiseptics
+> Coiner of ‘Enshittification’ Endorses ‘Dickover’
 
 ---
 
-### 8. Powerful AIs might escape containment by releasing themselves as open-weight models
+### 7. Dickover of the Week: Tomtoc
 
-[Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Powerful AIs might escape containment by releasing themselves as open-weight models
+> Dickover of the Week: Tomtoc
 
 ---
 
-### 9. Bond Movie Filming Locations Map
+### 8. Sixers Sign LeBron James
 
-[Bond Movie Filming Locations Map](https://department-m.agency/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Sixers Sign LeBron James](https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Sixers Sign LeBron James
+
+---
+
+### 9. The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’
+
+[The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’](https://daringfireball.net/thetalkshow/2026/07/23/ep-452) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’
+
+---
+
+### 10. Bond Movie Filming Locations Map
+
+[Bond Movie Filming Locations Map](https://department-m.agency/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Bond Movie Filming Locations Map
 
 ---
 
-### 10. ★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them
+### 11. ★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them
 
-[★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them](https://daringfireball.net/2026/07/ads_on_apple_news_suck) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them](https://daringfireball.net/2026/07/ads_on_apple_news_suck) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them
 
 ---
 
-### 11. John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2
+### 12. John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2
 
-[John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2](https://www.youtube.com/watch?v=uY2WF_sPecI) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2](https://www.youtube.com/watch?v=uY2WF_sPecI) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2
 
 ---
 
-### 12. John Dvorak Drops Dead at 80
+### 13. John Dvorak Drops Dead at 80
 
-[John Dvorak Drops Dead at 80](https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[John Dvorak Drops Dead at 80](https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > John Dvorak Drops Dead at 80
 
 ---
 
-### 13. Flighty New Connection Assistant Feature
+### 14. Flighty New Connection Assistant Feature
 
-[Flighty New Connection Assistant Feature](https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Flighty New Connection Assistant Feature](https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Flighty New Connection Assistant Feature
 
 ---
 
-### 14. Not just development, distribution of software may change as well
+### 15. Index 01 Is In Mass Production!
 
-[Not just development, distribution of software may change as well](http://antirez.com/news/170) — **antirez.com** · 1 天前 · ⭐ 15/30
+[Index 01 Is In Mass Production!](https://repebble.com/blog/index-01-is-in-mass-production) — **ericmigi.com** · 1 天前 · ⭐ 15/30
 
-> Not just development, distribution of software may change as well
-
----
-
-### 15. Have you read it?
-
-[Have you read it?](https://idiallo.com/byte-size/have-you-read-your-own-article) — **idiallo.com** · 3 小时前 · ⭐ 15/30
-
-> Have you read it?
+> Index 01 Is In Mass Production!
 
 ---
 
-*生成于 2026-07-24 11:29 | 扫描 83 源 → 获取 2512 篇 → 精选 15 篇*
+*生成于 2026-07-25 11:00 | 扫描 81 源 → 获取 2472 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
