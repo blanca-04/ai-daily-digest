@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-07-30
+# 📰 AI 博客每日精选 — 2026-07-31
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting D. Richard Hipp**
+🥇 **Advancing the price-performance frontier with GPT‑5.6**
 
-[Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Quoting D. Richard Hipp
+> Advancing the price-performance frontier with GPT‑5.6
 
-🥈 **AI Worming through Word**
+🥈 **Investigating three real-world incidents in our cybersecurity evaluations**
 
-[AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+[Investigating three real-world incidents in our cybersecurity evaluations](https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> AI Worming through Word
+> Investigating three real-world incidents in our cybersecurity evaluations
 
-🥉 **Quoting Matthew Green**
+🥉 **llm 0.32rc2**
 
-[Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — simonwillison.net · 17 小时前 · 📝 其他
+[llm 0.32rc2](https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Quoting Matthew Green
+> llm 0.32rc2
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2516 篇 → 32 篇 | 48h | **15 篇** |
+| 82/92 | 2505 篇 → 41 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting D. Richard Hipp
+### 1. Advancing the price-performance frontier with GPT‑5.6
 
-[Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> Advancing the price-performance frontier with GPT‑5.6
+
+---
+
+### 2. Investigating three real-world incidents in our cybersecurity evaluations
+
+[Investigating three real-world incidents in our cybersecurity evaluations](https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Investigating three real-world incidents in our cybersecurity evaluations
+
+---
+
+### 3. llm 0.32rc2
+
+[llm 0.32rc2](https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> llm 0.32rc2
+
+---
+
+### 4. Quoting Bruce Schneier
+
+[Quoting Bruce Schneier](https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Bruce Schneier
+
+---
+
+### 5. llm-chat-completions-server 0.1a0
+
+[llm-chat-completions-server 0.1a0](https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> llm-chat-completions-server 0.1a0
+
+---
+
+### 6. llm 0.32rc1
+
+[llm 0.32rc1](https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> llm 0.32rc1
+
+---
+
+### 7. Quoting D. Richard Hipp
+
+[Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting D. Richard Hipp
 
 ---
 
-### 2. AI Worming through Word
+### 8. AI Worming through Word
 
-[AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > AI Worming through Word
 
 ---
 
-### 3. Quoting Matthew Green
+### 9. Quoting Matthew Green
 
-[Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Matthew Green
 
 ---
 
-### 4. Adding a custom MCP server to Claude and ChatGPT
+### 10. AI models need moral support to make discoveries
 
-[Adding a custom MCP server to Claude and ChatGPT](https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[AI models need moral support to make discoveries](https://seangoedecke.com/ai-models-need-moral-support/) — **seangoedecke.com** · 11 小时前 · ⭐ 15/30
 
-> Adding a custom MCP server to Claude and ChatGPT
-
----
-
-### 5. Discovering cryptographic weaknesses with Claude
-
-[Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Discovering cryptographic weaknesses with Claude
+> AI models need moral support to make discoveries
 
 ---
 
-### 6. Quoting Akshat Bubna
+### 11. Read This Before You Buy That TV Streaming Stick
 
-[Quoting Akshat Bubna](https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — **krebsonsecurity.com** · 19 小时前 · ⭐ 15/30
 
-> Quoting Akshat Bubna
-
----
-
-### 7. uv 0.12.0
-
-[uv 0.12.0](https://simonwillison.net/2026/Jul/28/uv/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> uv 0.12.0
+> Read This Before You Buy That TV Streaming Stick
 
 ---
 
-### 8. Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident
+### 12. Mark Zuckerberg: ‘The AI Future Is for Everyone’
 
-[Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Mark Zuckerberg: ‘The AI Future Is for Everyone’](https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident
-
----
-
-### 9. You don't have to be smart if you can think clearly
-
-[You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> You don't have to be smart if you can think clearly
+> Mark Zuckerberg: ‘The AI Future Is for Everyone’
 
 ---
 
-### 10. Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program
+### 13. Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More
 
-[Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program](https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More](https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program
-
----
-
-### 11. Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest
-
-[Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
-
-> Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest
+> Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More
 
 ---
 
-### 12. Pastebot 3
+### 14. Rogue Amoeba: Unobtrusive Update Notifications
 
-[Pastebot 3](https://tapbots.com/pastebot/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Rogue Amoeba: Unobtrusive Update Notifications](https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Pastebot 3
-
----
-
-### 13. Count Those Underscores
-
-[Count Those Underscores](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> Count Those Underscores
+> Rogue Amoeba: Unobtrusive Update Notifications
 
 ---
 
-### 14. ‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’
+### 15. Looking for the Catch in Apple Upgrade
 
-[‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[Looking for the Catch in Apple Upgrade](https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> ‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’
-
----
-
-### 15. Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’
-
-[Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’
+> Looking for the Catch in Apple Upgrade
 
 ---
 
-*生成于 2026-07-30 11:44 | 扫描 83 源 → 获取 2516 篇 → 精选 15 篇*
+*生成于 2026-07-31 11:50 | 扫描 82 源 → 获取 2505 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
