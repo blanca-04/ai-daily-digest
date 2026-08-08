@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-07
+# 📰 AI 博客每日精选 — 2026-08-08
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette 1.0a38**
+🥇 **Quoting John Gruber**
 
-[datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> datasette 1.0a38
+> Quoting John Gruber
 
-🥈 **datasette 0.65.3**
+🥈 **Now we have a timeline of the OpenAI accidental attack against Hugging Face**
 
-[datasette 0.65.3](https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
 
-> datasette 0.65.3
+> Now we have a timeline of the OpenAI accidental attack against Hugging Face
 
-🥉 **Simon Willison on Technical Blogging**
+🥉 **Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)**
 
-[Simon Willison on Technical Blogging](https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything) — simonwillison.net · 16 小时前 · 📝 其他
+[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Simon Willison on Technical Blogging
+> Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2493 篇 → 47 篇 | 48h | **15 篇** |
+| 81/92 | 2485 篇 → 46 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette 1.0a38
+### 1. Quoting John Gruber
 
-[datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Quoting John Gruber
+
+---
+
+### 2. Now we have a timeline of the OpenAI accidental attack against Hugging Face
+
+[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Now we have a timeline of the OpenAI accidental attack against Hugging Face
+
+---
+
+### 3. Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)
+
+[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)
+
+---
+
+### 4. The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI
+
+[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI
+
+---
+
+### 5. datasette 1.0a38
+
+[datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 1.0a38
 
 ---
 
-### 2. datasette 0.65.3
+### 6. datasette 0.65.3
 
-[datasette 0.65.3](https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[datasette 0.65.3](https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette 0.65.3
 
 ---
 
-### 3. Simon Willison on Technical Blogging
+### 7. Simon Willison on Technical Blogging
 
-[Simon Willison on Technical Blogging](https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Simon Willison on Technical Blogging](https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Simon Willison on Technical Blogging
 
 ---
 
-### 4. An AI model from Meta also hacked another company during testing
+### 8. I'm excited for Intel after testing the XPS 13
 
-[An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[I'm excited for Intel after testing the XPS 13](https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> An AI model from Meta also hacked another company during testing
-
----
-
-### 5. Introducing Muse Code and Muse Spark 1.2
-
-[Introducing Muse Code and Muse Spark 1.2](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Introducing Muse Code and Muse Spark 1.2
+> I'm excited for Intel after testing the XPS 13
 
 ---
 
-### 6. Third-party cyber evaluations involving OpenAI models
+### 9. Canadian Man Pleads Guilty in Snowflake Extortions
 
-[Third-party cyber evaluations involving OpenAI models](https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Third-party cyber evaluations involving OpenAI models
-
----
-
-### 7. Incident Report: unsanctioned agent behaviour during cyber testing
-
-[Incident Report: unsanctioned agent behaviour during cyber testing](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Incident Report: unsanctioned agent behaviour during cyber testing
-
----
-
-### 8. One-shotting a Raccoon Heist game using Claude Fable 5
-
-[One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> One-shotting a Raccoon Heist game using Claude Fable 5
-
----
-
-### 9. Proxmox officially supports Arm, with some caveats
-
-[Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Proxmox officially supports Arm, with some caveats
-
----
-
-### 10. How to keep thinking
-
-[How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
-
-> How to keep thinking
-
----
-
-### 11. Canadian Man Pleads Guilty in Snowflake Extortions
-
-[Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/) — **krebsonsecurity.com** · 17 小时前 · ⭐ 15/30
+[Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Canadian Man Pleads Guilty in Snowflake Extortions
 
 ---
 
-### 12. Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’
+### 10. Simon Willison on Blogging
 
-[Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&amp;leadSource=article-gifting) — **daringfireball.net** · 10 小时前 · ⭐ 15/30
+[Simon Willison on Blogging](https://writethatblog.substack.com/p/simon-willison-on-technical-blogging) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’
-
----
-
-### 13. OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)
-
-[OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
-
-> OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)
+> Simon Willison on Blogging
 
 ---
 
-### 14. Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’
+### 11. Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release
 
-[Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’](https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release](https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’
-
----
-
-### 15. Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App
-
-[Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App](https://x.com/SnazzyLabs/status/1969247088488624253?s=20) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> Add a Shortcut to Control Center to Open the Current App’s Preferences in the Settings App
+> Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release
 
 ---
 
-*生成于 2026-08-07 10:40 | 扫描 82 源 → 获取 2493 篇 → 精选 15 篇*
+### 12. Some New Data Centers Are Necessary
+
+[Some New Data Centers Are Necessary](https://www.newyorker.com/cartoon/a62045) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+
+> Some New Data Centers Are Necessary
+
+---
+
+### 13. An AI Model From Meta Also Hacked Another Company During Testing
+
+[An AI Model From Meta Also Hacked Another Company During Testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> An AI Model From Meta Also Hacked Another Company During Testing
+
+---
+
+### 14. Meta: Introducing Muse Code and Muse Spark 1.2
+
+[Meta: Introducing Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Meta: Introducing Muse Code and Muse Spark 1.2
+
+---
+
+### 15. App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions
+
+[App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions](https://macaw.social/@mergesort/117055390966724799) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions
+
+---
+
+*生成于 2026-08-08 10:19 | 扫描 81 源 → 获取 2485 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
