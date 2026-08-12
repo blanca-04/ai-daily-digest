@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-11
+# 📰 AI 博客每日精选 — 2026-08-12
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Introducing Muse Glimmer**
+🥇 **There are no lossless transformations of natural-language text**
 
-[Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) — simonwillison.net · 10 小时前 · 📝 其他
+[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Introducing Muse Glimmer
+> There are no lossless transformations of natural-language text
 
-🥈 **Quoting OpenClaw**
+🥈 **Stealing Reasoning Traces from Proprietary LLM APIs**
 
-[Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Quoting OpenClaw
+> Stealing Reasoning Traces from Proprietary LLM APIs
 
-🥉 **Quoting Claude Opus 5 system prompt**
+🥉 **datasette-upload-dbs 0.5a0**
 
-[Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything) — simonwillison.net · 1 天前 · 📝 其他
+[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Quoting Claude Opus 5 system prompt
+> datasette-upload-dbs 0.5a0
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2519 篇 → 36 篇 | 48h | **15 篇** |
+| 79/92 | 2456 篇 → 46 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Introducing Muse Glimmer
+### 1. There are no lossless transformations of natural-language text
 
-[Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> There are no lossless transformations of natural-language text
+
+---
+
+### 2. Stealing Reasoning Traces from Proprietary LLM APIs
+
+[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Stealing Reasoning Traces from Proprietary LLM APIs
+
+---
+
+### 3. datasette-upload-dbs 0.5a0
+
+[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> datasette-upload-dbs 0.5a0
+
+---
+
+### 4. Introducing Muse Glimmer
+
+[Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Introducing Muse Glimmer
 
 ---
 
-### 2. Quoting OpenClaw
+### 5. Microsoft Plugs Nearly 400 Security Holes
 
-[Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) — **krebsonsecurity.com** · 13 小时前 · ⭐ 15/30
 
-> Quoting OpenClaw
-
----
-
-### 3. Quoting Claude Opus 5 system prompt
-
-[Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Claude Opus 5 system prompt
+> Microsoft Plugs Nearly 400 Security Holes
 
 ---
 
-### 4. GitHub Models is now retired
+### 6. The Economist: ‘How to Spot AI Writing’
 
-[GitHub Models is now retired](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The Economist: ‘How to Spot AI Writing’](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> GitHub Models is now retired
-
----
-
-### 5. SQLite compressed text-history prototypes
-
-[SQLite compressed text-history prototypes](https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> SQLite compressed text-history prototypes
+> The Economist: ‘How to Spot AI Writing’
 
 ---
 
-### 6. No, local models will not win
+### 7. Alex Micek on BMW’s iDrive ‘Special Surprises’
 
-[No, local models will not win](https://seangoedecke.com/local-models-will-not-win/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[Alex Micek on BMW’s iDrive ‘Special Surprises’](https://tumbledry.org/2026/08/07/idrive_ads) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> No, local models will not win
-
----
-
-### 7. Advanced AI sycophancy
-
-[Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Advanced AI sycophancy
+> Alex Micek on BMW’s iDrive ‘Special Surprises’
 
 ---
 
-### 8. [Sponsor] Drata
+### 8. BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around
 
-[[Sponsor] Drata](https://drata.com/daring) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around](https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around
+
+---
+
+### 9. Mark Zuckerberg Posts 6,500-Word AI Essay
+
+[Mark Zuckerberg Posts 6,500-Word AI Essay](https://www.meta.com/thefutureisforeveryone/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Mark Zuckerberg Posts 6,500-Word AI Essay
+
+---
+
+### 10. The Talk Show: ‘Getting the Snack Right’
+
+[The Talk Show: ‘Getting the Snack Right’](https://daringfireball.net/thetalkshow/2026/08/10/ep-454) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> The Talk Show: ‘Getting the Snack Right’
+
+---
+
+### 11. Netflix Has Peaked
+
+[Netflix Has Peaked](https://sharptext.net/2026/is-netflix-washed-now/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Netflix Has Peaked
+
+---
+
+### 12. Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content
+
+[Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content
+
+---
+
+### 13. [Sponsor] Drata
+
+[[Sponsor] Drata](https://drata.com/daring) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] Drata
 
 ---
 
-### 9. What’s New in iOS 27 Beta 5
+### 14. What’s New in iOS 27 Beta 5
 
-[What’s New in iOS 27 Beta 5](https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[What’s New in iOS 27 Beta 5](https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > What’s New in iOS 27 Beta 5
 
 ---
 
-### 10. ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro
+### 15. ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro
 
-[‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro](https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro](https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro
 
 ---
 
-### 11. Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story
-
-[Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story](https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
-
-> Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story
-
----
-
-### 12. ‘The Problem With Vibe-Coded Flattery’
-
-[‘The Problem With Vibe-Coded Flattery’](https://tedium.co/2026/08/09/vibe-coding-insincerity/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> ‘The Problem With Vibe-Coded Flattery’
-
----
-
-### 13. The NYT and WSJ on Apple, China, and the RAM Crisis
-
-[The NYT and WSJ on Apple, China, and the RAM Crisis](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
-
-> The NYT and WSJ on Apple, China, and the RAM Crisis
-
----
-
-### 14. WorkOS: Connect Your Agents to Your API
-
-[WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> WorkOS: Connect Your Agents to Your API
-
----
-
-### 15. Failing after Success
-
-[Failing after Success](https://idiallo.com/blog/failing-after-success) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> Failing after Success
-
----
-
-*生成于 2026-08-11 10:39 | 扫描 83 源 → 获取 2519 篇 → 精选 15 篇*
+*生成于 2026-08-12 10:49 | 扫描 79 源 → 获取 2456 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
