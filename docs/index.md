@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-12
+# 📰 AI 博客每日精选 — 2026-08-13
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **There are no lossless transformations of natural-language text**
+🥇 **DeepSeek V4 Pro 0813 (on OpenRouter)**
 
-[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — simonwillison.net · 11 小时前 · 📝 其他
+[DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) — simonwillison.net · 10 小时前 · 📝 其他
 
-> There are no lossless transformations of natural-language text
+> DeepSeek V4 Pro 0813 (on OpenRouter)
 
-🥈 **Stealing Reasoning Traces from Proprietary LLM APIs**
+🥈 **alchemy-utils 0.1a0**
 
-[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — simonwillison.net · 12 小时前 · 📝 其他
+[alchemy-utils 0.1a0](https://simonwillison.net/2026/Aug/12/alchemy-utils/) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Stealing Reasoning Traces from Proprietary LLM APIs
+> alchemy-utils 0.1a0
 
-🥉 **datasette-upload-dbs 0.5a0**
+🥉 **Quoting Florian Herrengt**
 
-[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything) — simonwillison.net · 14 小时前 · 📝 其他
+[Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/) — simonwillison.net · 19 小时前 · 📝 其他
 
-> datasette-upload-dbs 0.5a0
+> Quoting Florian Herrengt
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 79/92 | 2456 篇 → 46 篇 | 48h | **15 篇** |
+| 82/92 | 2509 篇 → 51 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. There are no lossless transformations of natural-language text
+### 1. DeepSeek V4 Pro 0813 (on OpenRouter)
 
-[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> DeepSeek V4 Pro 0813 (on OpenRouter)
+
+---
+
+### 2. alchemy-utils 0.1a0
+
+[alchemy-utils 0.1a0](https://simonwillison.net/2026/Aug/12/alchemy-utils/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> alchemy-utils 0.1a0
+
+---
+
+### 3. Quoting Florian Herrengt
+
+[Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Quoting Florian Herrengt
+
+---
+
+### 4. There are no lossless transformations of natural-language text
+
+[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > There are no lossless transformations of natural-language text
 
 ---
 
-### 2. Stealing Reasoning Traces from Proprietary LLM APIs
+### 5. Stealing Reasoning Traces from Proprietary LLM APIs
 
-[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Stealing Reasoning Traces from Proprietary LLM APIs
 
 ---
 
-### 3. datasette-upload-dbs 0.5a0
+### 6. datasette-upload-dbs 0.5a0
 
-[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-upload-dbs 0.5a0
 
 ---
 
-### 4. Introducing Muse Glimmer
+### 7. Microsoft Plugs Nearly 400 Security Holes
 
-[Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Introducing Muse Glimmer
-
----
-
-### 5. Microsoft Plugs Nearly 400 Security Holes
-
-[Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) — **krebsonsecurity.com** · 13 小时前 · ⭐ 15/30
+[Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Microsoft Plugs Nearly 400 Security Holes
 
 ---
 
-### 6. The Economist: ‘How to Spot AI Writing’
+### 8. Google Design Pisses Its Pants on Twitter/X
 
-[The Economist: ‘How to Spot AI Writing’](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Google Design Pisses Its Pants on Twitter/X](https://x.com/googledesign/status/2087195277094695096) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
 
-> The Economist: ‘How to Spot AI Writing’
-
----
-
-### 7. Alex Micek on BMW’s iDrive ‘Special Surprises’
-
-[Alex Micek on BMW’s iDrive ‘Special Surprises’](https://tumbledry.org/2026/08/07/idrive_ads) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
-
-> Alex Micek on BMW’s iDrive ‘Special Surprises’
+> Google Design Pisses Its Pants on Twitter/X
 
 ---
 
-### 8. BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around
+### 9. Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light
 
-[BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around](https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around
-
----
-
-### 9. Mark Zuckerberg Posts 6,500-Word AI Essay
-
-[Mark Zuckerberg Posts 6,500-Word AI Essay](https://www.meta.com/thefutureisforeveryone/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Mark Zuckerberg Posts 6,500-Word AI Essay
+> Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light
 
 ---
 
-### 10. The Talk Show: ‘Getting the Snack Right’
+### 10. Google Introduces ‘Camera Looks’ With Pixel 11 Phones
 
-[The Talk Show: ‘Getting the Snack Right’](https://daringfireball.net/thetalkshow/2026/08/10/ep-454) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[Google Introduces ‘Camera Looks’ With Pixel 11 Phones](https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> The Talk Show: ‘Getting the Snack Right’
-
----
-
-### 11. Netflix Has Peaked
-
-[Netflix Has Peaked](https://sharptext.net/2026/is-netflix-washed-now/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Netflix Has Peaked
+> Google Introduces ‘Camera Looks’ With Pixel 11 Phones
 
 ---
 
-### 12. Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content
+### 11. TechCrunch on Google’s Pixel 11 Lineup
 
-[Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[TechCrunch on Google’s Pixel 11 Lineup](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content
-
----
-
-### 13. [Sponsor] Drata
-
-[[Sponsor] Drata](https://drata.com/daring) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> [Sponsor] Drata
+> TechCrunch on Google’s Pixel 11 Lineup
 
 ---
 
-### 14. What’s New in iOS 27 Beta 5
+### 12. Hands-On With Google Pixel 11 Pro Fold
 
-[What’s New in iOS 27 Beta 5](https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Hands-On With Google Pixel 11 Pro Fold](https://www.engadget.com/2235294/google-pixel-11-pro-fold-hands-on/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> What’s New in iOS 27 Beta 5
-
----
-
-### 15. ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro
-
-[‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro](https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro
+> Hands-On With Google Pixel 11 Pro Fold
 
 ---
 
-*生成于 2026-08-12 10:49 | 扫描 79 源 → 获取 2456 篇 → 精选 15 篇*
+### 13. Google’s Pixel Watch 5
+
+[Google’s Pixel Watch 5](https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Google’s Pixel Watch 5
+
+---
+
+### 14. Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails
+
+[Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails
+
+---
+
+### 15. App Store Scam of the Week: ‘TabControl Extension’ for Safari
+
+[App Store Scam of the Week: ‘TabControl Extension’ for Safari](https://lapcatsoftware.com/articles/2026/8/4.html) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> App Store Scam of the Week: ‘TabControl Extension’ for Safari
+
+---
+
+*生成于 2026-08-13 10:50 | 扫描 82 源 → 获取 2509 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
