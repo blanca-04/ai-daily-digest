@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-16
+# 📰 AI 博客每日精选 — 2026-08-17
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **CORS Chat**
+🥇 **Markdown SVG upgrades**
 
-[CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) — simonwillison.net · 19 小时前 · 📝 其他
+[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — simonwillison.net · 10 小时前 · 📝 其他
 
-> CORS Chat
+> Markdown SVG upgrades
 
-🥈 **Northern Gannet**
+🥈 **Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things**
 
-[Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) — simonwillison.net · 1 天前 · 📝 其他
+[Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Northern Gannet
+> Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
 
-🥉 **Don't classify. Hallucinate!**
+🥉 **Quoting Dario Amodei**
 
-[Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — simonwillison.net · 19 小时前 · 📝 其他
 
-> Don't classify. Hallucinate!
+> Quoting Dario Amodei
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2520 篇 → 27 篇 | 48h | **15 篇** |
+| 79/92 | 2426 篇 → 21 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. CORS Chat
+### 1. Markdown SVG upgrades
 
-[CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Markdown SVG upgrades
+
+---
+
+### 2. Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
+
+[Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
+
+---
+
+### 3. Quoting Dario Amodei
+
+[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Quoting Dario Amodei
+
+---
+
+### 4. CORS Chat
+
+[CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > CORS Chat
 
 ---
 
-### 2. Northern Gannet
+### 5. The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’
 
-[Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> Northern Gannet
-
----
-
-### 3. Don't classify. Hallucinate!
-
-[Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Don't classify. Hallucinate!
+> The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’
 
 ---
 
-### 4. AI text watermarking is not a big deal
+### 6. ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing
 
-[AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
+[★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
 
-> AI text watermarking is not a big deal
-
----
-
-### 5. Who’s Tracking You? Use This New Service to Find Out
-
-[Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> Who’s Tracking You? Use This New Service to Find Out
+> ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing
 
 ---
 
-### 6. Drata
+### 7. ‘Anthropic’s Weak Watermarks Appease a Weak Law’
 
-[Drata](https://drata.com/daring) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> ‘Anthropic’s Weak Watermarks Appease a Weak Law’
+
+---
+
+### 8. Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM
+
+[Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM
+
+---
+
+### 9. XCancel — An Unofficial Twitter/X Mirror
+
+[XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> XCancel — An Unofficial Twitter/X Mirror
+
+---
+
+### 10. Drata
+
+[Drata](https://drata.com/daring) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Drata
 
 ---
 
-### 7. ★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses
+### 11. Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)
 
-[★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)](https://pluralistic.net/2026/08/17/great-sousas-ghost/) — **pluralistic.net** · 3 小时前 · ⭐ 15/30
 
-> ★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses
-
----
-
-### 8. Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing
-
-[Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing
+> Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)
 
 ---
 
-### 9. Pluralistic: Capital formation (14 Aug 2026)
+### 12. Thoughts on visiting the Edinburgh Fringe as a newbie
 
-[Pluralistic: Capital formation (14 Aug 2026)](https://pluralistic.net/2026/08/14/one-chokable-throat/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) — **shkspr.mobi** · 22 小时前 · ⭐ 15/30
 
-> Pluralistic: Capital formation (14 Aug 2026)
+> Thoughts on visiting the Edinburgh Fringe as a newbie
 
 ---
 
-### 10. Book Review: Slags by Emma Jane Unsworth ★★★⯪☆
+### 13. Book Review: Slags by Emma Jane Unsworth ★★★⯪☆
 
-[Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) — **shkspr.mobi** · 22 小时前 · ⭐ 15/30
+[Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > Book Review: Slags by Emma Jane Unsworth ★★★⯪☆
 
 ---
 
-### 11. Edinburgh Fringe: Target Audience ★★★★★
+### 14. Proportion of 1s in a Hadamard matrix
 
-[Edinburgh Fringe: Target Audience ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/) — **johndcook.com** · 9 小时前 · ⭐ 15/30
 
-> Edinburgh Fringe: Target Audience ★★★★★
-
----
-
-### 12. Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆
-
-[Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆
+> Proportion of 1s in a Hadamard matrix
 
 ---
 
-### 13. Edinburgh Fringe: Waiting for Wonka ★★★⯪☆
+### 15. Probability of correcting errors
 
-[Edinburgh Fringe: Waiting for Wonka ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) — **johndcook.com** · 1 天前 · ⭐ 15/30
 
-> Edinburgh Fringe: Waiting for Wonka ★★★⯪☆
-
----
-
-### 14. Site update: a few posts have been removed
-
-[Site update: a few posts have been removed](https://xeiaso.net/notes/2026/blogposts-removed/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
-
-> Site update: a few posts have been removed
+> Probability of correcting errors
 
 ---
 
-### 15. Forcing an ARM64X executable to run as a specific architecture
-
-[Forcing an ARM64X executable to run as a specific architecture](https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
-
-> Forcing an ARM64X executable to run as a specific architecture
-
----
-
-*生成于 2026-08-16 10:11 | 扫描 83 源 → 获取 2520 篇 → 精选 15 篇*
+*生成于 2026-08-17 10:20 | 扫描 79 源 → 获取 2426 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
