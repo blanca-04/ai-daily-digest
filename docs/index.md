@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-17
+# 📰 AI 博客每日精选 — 2026-08-18
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Markdown SVG upgrades**
+🥇 **Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index**
 
-[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — simonwillison.net · 10 小时前 · 📝 其他
+[Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) — simonwillison.net · 10 小时前 · 📝 其他
+
+> Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index
+
+🥈 **We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility**
+
+[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/) — simonwillison.net · 18 小时前 · 📝 其他
+
+> We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility
+
+🥉 **Markdown SVG upgrades**
+
+[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Markdown SVG upgrades
-
-🥈 **Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things**
-
-[Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — simonwillison.net · 12 小时前 · 📝 其他
-
-> Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
-
-🥉 **Quoting Dario Amodei**
-
-[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — simonwillison.net · 19 小时前 · 📝 其他
-
-> Quoting Dario Amodei
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 79/92 | 2426 篇 → 21 篇 | 48h | **15 篇** |
+| 79/92 | 2427 篇 → 25 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Markdown SVG upgrades
+### 1. Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index
 
-[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+[Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index
+
+---
+
+### 2. We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility
+
+[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility
+
+---
+
+### 3. Markdown SVG upgrades
+
+[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Markdown SVG upgrades
 
 ---
 
-### 2. Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
+### 4. Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
 
-[Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+[Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
 
 ---
 
-### 3. Quoting Dario Amodei
+### 5. Quoting Dario Amodei
 
-[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Dario Amodei
 
 ---
 
-### 4. CORS Chat
+### 6. MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action
 
-[CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action](https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
 
-> CORS Chat
+> MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action
 
 ---
 
-### 5. The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’
+### 7. ★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text
 
-[The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking) — **daringfireball.net** · 9 小时前 · ⭐ 15/30
+
+> ★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text
+
+---
+
+### 8. Apple TV Still Has No Start Date for ‘The Savant’
+
+[Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> Apple TV Still Has No Start Date for ‘The Savant’
+
+---
+
+### 9. No Update Since Early July Regarding Siri AI Coming to the EU, Ever
+
+[No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+
+> No Update Since Early July Regarding Siri AI Coming to the EU, Ever
+
+---
+
+### 10. The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’
+
+[The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’
 
 ---
 
-### 6. ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing
+### 11. ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing
 
-[★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) — **daringfireball.net** · 14 小时前 · ⭐ 15/30
+[★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing
 
 ---
 
-### 7. ‘Anthropic’s Weak Watermarks Appease a Weak Law’
+### 12. ‘Anthropic’s Weak Watermarks Appease a Weak Law’
 
-[‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘Anthropic’s Weak Watermarks Appease a Weak Law’
 
 ---
 
-### 8. Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM
+### 13. Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM
 
-[Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM
 
 ---
 
-### 9. XCancel — An Unofficial Twitter/X Mirror
+### 14. XCancel — An Unofficial Twitter/X Mirror
 
-[XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > XCancel — An Unofficial Twitter/X Mirror
 
 ---
 
-### 10. Drata
+### 15. Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)
 
-[Drata](https://drata.com/daring) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Drata
-
----
-
-### 11. Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)
-
-[Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)](https://pluralistic.net/2026/08/17/great-sousas-ghost/) — **pluralistic.net** · 3 小时前 · ⭐ 15/30
+[Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)](https://pluralistic.net/2026/08/17/great-sousas-ghost/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)
 
 ---
 
-### 12. Thoughts on visiting the Edinburgh Fringe as a newbie
-
-[Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) — **shkspr.mobi** · 22 小时前 · ⭐ 15/30
-
-> Thoughts on visiting the Edinburgh Fringe as a newbie
-
----
-
-### 13. Book Review: Slags by Emma Jane Unsworth ★★★⯪☆
-
-[Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Book Review: Slags by Emma Jane Unsworth ★★★⯪☆
-
----
-
-### 14. Proportion of 1s in a Hadamard matrix
-
-[Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/) — **johndcook.com** · 9 小时前 · ⭐ 15/30
-
-> Proportion of 1s in a Hadamard matrix
-
----
-
-### 15. Probability of correcting errors
-
-[Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Probability of correcting errors
-
----
-
-*生成于 2026-08-17 10:20 | 扫描 79 源 → 获取 2426 篇 → 精选 15 篇*
+*生成于 2026-08-18 10:16 | 扫描 79 源 → 获取 2427 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
