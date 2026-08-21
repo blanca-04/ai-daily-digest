@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-20
+# 📰 AI 博客每日精选 — 2026-08-21
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **smolmachines / smolvm as a sandbox for untrusted Python & JavaScript**
+🥇 **ChatGPT search now uses the site:operator at scale**
 
-[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — simonwillison.net · 11 小时前 · 📝 其他
+[ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) — simonwillison.net · 10 小时前 · 📝 其他
+
+> ChatGPT search now uses the site:operator at scale
+
+🥈 **A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView**
+
+[A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) — simonwillison.net · 18 小时前 · 📝 其他
+
+> A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView
+
+🥉 **smolmachines / smolvm as a sandbox for untrusted Python & JavaScript**
+
+[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — simonwillison.net · 1 天前 · 📝 其他
 
 > smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
-
-🥈 **Quoting Jeremy Morrell**
-
-[Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/) — simonwillison.net · 11 小时前 · 📝 其他
-
-> Quoting Jeremy Morrell
-
-🥉 **Conceptual integrity and counting lines of code**
-
-[Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) — simonwillison.net · 11 小时前 · 📝 其他
-
-> Conceptual integrity and counting lines of code
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2523 篇 → 28 篇 | 48h | **15 篇** |
+| 81/92 | 2491 篇 → 19 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+### 1. ChatGPT search now uses the site:operator at scale
 
-[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) — **simonwillison.net** · 10 小时前 · ⭐ 15/30
+
+> ChatGPT search now uses the site:operator at scale
+
+---
+
+### 2. A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView
+
+[A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView
+
+---
+
+### 3. smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
+
+[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > smolmachines / smolvm as a sandbox for untrusted Python & JavaScript
 
 ---
 
-### 2. Quoting Jeremy Morrell
+### 4. Quoting Jeremy Morrell
 
-[Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Jeremy Morrell
 
 ---
 
-### 3. Conceptual integrity and counting lines of code
+### 5. Conceptual integrity and counting lines of code
 
-[Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+[Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Conceptual integrity and counting lines of code
 
 ---
 
-### 4. Mojo🔥 is now open source
+### 6. Getting the Steam Deck LCD working on a Raspberry Pi
 
-[Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Getting the Steam Deck LCD working on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/) — **jeffgeerling.com** · 20 小时前 · ⭐ 15/30
 
-> Mojo🔥 is now open source
-
----
-
-### 5. Hands-on with Raspberry Pi's CM5 Programming Jig
-
-[Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Hands-on with Raspberry Pi's CM5 Programming Jig
+> Getting the Steam Deck LCD working on a Raspberry Pi
 
 ---
 
-### 6. Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License
+### 7. Readers can't identify watermarked AI text
 
-[Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/) — **seangoedecke.com** · 10 小时前 · ⭐ 15/30
 
-> Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License
-
----
-
-### 7. Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win
-
-[Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win
+> Readers can't identify watermarked AI text
 
 ---
 
-### 8. Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings
+### 8. Pluralistic: The actual epistemic crisis (20 Aug 2026)
 
-[Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/) — **pluralistic.net** · 10 小时前 · ⭐ 15/30
 
-> Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings
-
----
-
-### 9. ‘Dickover’ Makes It Into The Guardian
-
-[‘Dickover’ Makes It Into The Guardian](https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘Dickover’ Makes It Into The Guardian
+> Pluralistic: The actual epistemic crisis (20 Aug 2026)
 
 ---
 
-### 10. OpenAI Pot Complains That Google Kettle Is Black
+### 9. Reducing C++ template bloat by factoring out the type-dependent portions of the function
 
-[OpenAI Pot Complains That Google Kettle Is Black](https://x.com/thsottiaux/status/2083373529081291076?s=12) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Reducing C++ template bloat by factoring out the type-dependent portions of the function](https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629) — **devblogs.microsoft.com/oldnewthing** · 20 小时前 · ⭐ 15/30
 
-> OpenAI Pot Complains That Google Kettle Is Black
-
----
-
-### 11. Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls
-
-[Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls](https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls
+> Reducing C++ template bloat by factoring out the type-dependent portions of the function
 
 ---
 
-### 12. Pluralistic: The ordinariness of evil (19 Aug 2026)
+### 10. On wrapping a callable in a lambda that just calls it with the same parameters
 
-[Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[On wrapping a callable in a lambda that just calls it with the same parameters](https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
 
-> Pluralistic: The ordinariness of evil (19 Aug 2026)
-
----
-
-### 13. Pluralistic: IP can't save you from AI (18 Aug 2026)
-
-[Pluralistic: IP can't save you from AI (18 Aug 2026)](https://pluralistic.net/2026/08/18/enron-corpus/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: IP can't save you from AI (18 Aug 2026)
+> On wrapping a callable in a lambda that just calls it with the same parameters
 
 ---
 
-### 14. Asymmetric Agents
+### 11. AI-generated ASCII diagrams
 
-[Asymmetric Agents](https://shkspr.mobi/blog/2026/08/asymmetric-agents/) — **shkspr.mobi** · 22 小时前 · ⭐ 15/30
+[AI-generated ASCII diagrams](https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/) — **johndcook.com** · 20 小时前 · ⭐ 15/30
 
-> Asymmetric Agents
-
----
-
-### 15. Anubis continues to expose new ways people configure webservers
-
-[Anubis continues to expose new ways people configure webservers](https://xeiaso.net/notes/2026/anubis-csp-worker-hell/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
-
-> Anubis continues to expose new ways people configure webservers
+> AI-generated ASCII diagrams
 
 ---
 
-*生成于 2026-08-20 10:17 | 扫描 83 源 → 获取 2523 篇 → 精选 15 篇*
+### 12. Use the built-in GELU, don't roll your own!
+
+[Use the built-in GELU, don't roll your own!](https://www.gilesthomas.com/2026/08/built-in-gelu) — **gilesthomas.com** · 1 天前 · ⭐ 15/30
+
+> Use the built-in GELU, don't roll your own!
+
+---
+
+### 13. Better Batteries
+
+[Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
+
+> Better Batteries
+
+---
+
+### 14. Issues in the Repo
+
+[Issues in the Repo](https://nesbitt.io/2026/08/20/issues-in-the-repo.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
+
+> Issues in the Repo
+
+---
+
+### 15. Our Servants Will Do That For Us
+
+[Our Servants Will Do That For Us](https://borretti.me/article/our-servants-will-do-that-for-us) — **borretti.me** · 1 天前 · ⭐ 15/30
+
+> Our Servants Will Do That For Us
+
+---
+
+*生成于 2026-08-21 10:17 | 扫描 81 源 → 获取 2491 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
