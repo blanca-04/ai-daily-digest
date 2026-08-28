@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-27
+# 📰 AI 博客每日精选 — 2026-08-28
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Qwen3.8-Flash-Next**
+🥇 **Breaking Claude Code Opus 5 Auto Mode**
 
-[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — simonwillison.net · 20 小时前 · 📝 其他
+[Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) — simonwillison.net · 22 小时前 · 📝 其他
+
+> Breaking Claude Code Opus 5 Auto Mode
+
+🥈 **Qwen3.8-Flash-Next**
+
+[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Qwen3.8-Flash-Next
 
-🥈 **Quoting Paul Dix**
+🥉 **Building a mini Homelab that fits in my carry-on**
 
-[Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/) — simonwillison.net · 1 天前 · 📝 其他
+[Building a mini Homelab that fits in my carry-on](https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/) — jeffgeerling.com · 6 小时前 · 📝 其他
 
-> Quoting Paul Dix
-
-🥉 **EVE Online: The Move to Python 3 Begins!**
-
-[EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) — simonwillison.net · 1 天前 · 📝 其他
-
-> EVE Online: The Move to Python 3 Begins!
+> Building a mini Homelab that fits in my carry-on
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2502 篇 → 32 篇 | 48h | **15 篇** |
+| 83/92 | 2527 篇 → 36 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Qwen3.8-Flash-Next
+### 1. Breaking Claude Code Opus 5 Auto Mode
 
-[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> Breaking Claude Code Opus 5 Auto Mode
+
+---
+
+### 2. Qwen3.8-Flash-Next
+
+[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Qwen3.8-Flash-Next
 
 ---
 
-### 2. Quoting Paul Dix
+### 3. Building a mini Homelab that fits in my carry-on
 
-[Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Building a mini Homelab that fits in my carry-on](https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/) — **jeffgeerling.com** · 6 小时前 · ⭐ 15/30
 
-> Quoting Paul Dix
-
----
-
-### 3. EVE Online: The Move to Python 3 Begins!
-
-[EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> EVE Online: The Move to Python 3 Begins!
+> Building a mini Homelab that fits in my carry-on
 
 ---
 
-### 4. Two Alleged ‘TeamPCP’ Hackers Arrested in Australia
+### 4. Selling out
 
-[Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/) — **krebsonsecurity.com** · 8 小时前 · ⭐ 15/30
+[Selling out](https://seangoedecke.com/selling-out/) — **seangoedecke.com** · 21 小时前 · ⭐ 15/30
+
+> Selling out
+
+---
+
+### 5. Two Alleged ‘TeamPCP’ Hackers Arrested in Australia
+
+[Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
 
 > Two Alleged ‘TeamPCP’ Hackers Arrested in Australia
 
 ---
 
-### 5. ‘How Europe Is Killing Makers and Micro-Entrepreneurs’
+### 6. We Certainly Have Made a Hames Out of This
 
-[‘How Europe Is Killing Makers and Micro-Entrepreneurs’](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) — **daringfireball.net** · 19 分钟前 · ⭐ 15/30
+[We Certainly Have Made a Hames Out of This](https://daringfireball.net/linked/2026/08/28/trump-lake-ontario) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
 
-> ‘How Europe Is Killing Makers and Micro-Entrepreneurs’
-
----
-
-### 6. POSIWID: The Purpose of a System Is What It Does
-
-[POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
-
-> POSIWID: The Purpose of a System Is What It Does
+> We Certainly Have Made a Hames Out of This
 
 ---
 
-### 7. Apple’s Polishing Cloth Is Now Just $9
+### 7. ‘Not Sure How You Own Canada by Deleting Your Own History’
 
-[Apple’s Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[‘Not Sure How You Own Canada by Deleting Your Own History’](https://x.com/MattWalshBlog/status/2093060290371870948) — **daringfireball.net** · 4 小时前 · ⭐ 15/30
 
-> Apple’s Polishing Cloth Is Now Just $9
-
----
-
-### 8. ‘Surprise and Shine’ Apple Event: Wednesday 9 September
-
-[‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘Surprise and Shine’ Apple Event: Wednesday 9 September
+> ‘Not Sure How You Own Canada by Deleting Your Own History’
 
 ---
 
-### 9. XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp
+### 8. From the DF Archive: ‘Golfo Del Gringo Loco’
 
-[XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[From the DF Archive: ‘Golfo Del Gringo Loco’](https://daringfireball.net/2025/02/golfo_del_gringo_loco) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
 
-> XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp
-
----
-
-### 10. Dolly Parton Dies at 80
-
-[Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Dolly Parton Dies at 80
+> From the DF Archive: ‘Golfo Del Gringo Loco’
 
 ---
 
-### 11. Update Regarding the Base Prices of the M5 Max Mac Studio
+### 9. Trump Declares That Lake Ontario Is Now ‘Lake America’
 
-[Update Regarding the Base Prices of the M5 Max Mac Studio](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Trump Declares That Lake Ontario Is Now ‘Lake America’](https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
 
-> Update Regarding the Base Prices of the M5 Max Mac Studio
-
----
-
-### 12. Pluralistic: The age of disinvention (25 Aug 2026)
-
-[Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: The age of disinvention (25 Aug 2026)
+> Trump Declares That Lake Ontario Is Now ‘Lake America’
 
 ---
 
-### 13. Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆
+### 10. U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting
 
-[Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆](https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/) — **shkspr.mobi** · 8 小时前 · ⭐ 15/30
+[U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆
-
----
-
-### 14. Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪
-
-[Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪
+> U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting
 
 ---
 
-### 15. "No way to prevent this" say users of only language where this regularly happens
+### 11. Afterglow — Classic After Dark Screen Savers on Today’s MacOS
 
-["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/) — **xeiaso.net** · 20 小时前 · ⭐ 15/30
+[Afterglow — Classic After Dark Screen Savers on Today’s MacOS](https://morphing.cloud/afterglow/) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
 
-> "No way to prevent this" say users of only language where this regularly happens
+> Afterglow — Classic After Dark Screen Savers on Today’s MacOS
 
 ---
 
-*生成于 2026-08-27 20:02 | 扫描 82 源 → 获取 2502 篇 → 精选 15 篇*
+### 12. The Load-Bearing Vocabulary of Claude
+
+[The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
+
+> The Load-Bearing Vocabulary of Claude
+
+---
+
+### 13. Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund
+
+[Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund
+
+---
+
+### 14. Panic Is Refunding Tariff Fees to Playdate Buyers
+
+[Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Panic Is Refunding Tariff Fees to Playdate Buyers
+
+---
+
+### 15. Ads in Apple Maps Have Now Launched
+
+[Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+
+> Ads in Apple Maps Have Now Launched
+
+---
+
+*生成于 2026-08-28 21:01 | 扫描 83 源 → 获取 2527 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
