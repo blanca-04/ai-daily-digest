@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-08-31
+# 📰 AI 博客每日精选 — 2026-09-01
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Understanding ChatGPT Work**
+🥇 **Introducing wrapture**
 
-[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — simonwillison.net · 17 小时前 · 📝 其他
+[Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/) — simonwillison.net · 14 小时前 · 📝 其他
+
+> Introducing wrapture
+
+🥈 **Quoting Andrew Digby**
+
+[Quoting Andrew Digby](https://simonwillison.net/2026/Aug/31/andrew-digby/) — simonwillison.net · 15 小时前 · 📝 其他
+
+> Quoting Andrew Digby
+
+🥉 **Understanding ChatGPT Work**
+
+[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Understanding ChatGPT Work
-
-🥈 **Introducing Hy4 Preview**
-
-[Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/) — simonwillison.net · 1 天前 · 📝 其他
-
-> Introducing Hy4 Preview
-
-🥉 **Before NTP there were Time and Daytime**
-
-[Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) — jeffgeerling.com · 19 小时前 · 📝 其他
-
-> Before NTP there were Time and Daytime
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2512 篇 → 21 篇 | 48h | **15 篇** |
+| 81/92 | 2489 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,83 +46,83 @@ pie showData
 
 ## 📝 其他
 
-### 1. Understanding ChatGPT Work
+### 1. Introducing wrapture
 
-[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Introducing wrapture
+
+---
+
+### 2. Quoting Andrew Digby
+
+[Quoting Andrew Digby](https://simonwillison.net/2026/Aug/31/andrew-digby/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Quoting Andrew Digby
+
+---
+
+### 3. Understanding ChatGPT Work
+
+[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Understanding ChatGPT Work
 
 ---
 
-### 2. Introducing Hy4 Preview
+### 4. Before NTP there were Time and Daytime
 
-[Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Introducing Hy4 Preview
-
----
-
-### 3. Before NTP there were Time and Daytime
-
-[Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) — **jeffgeerling.com** · 19 小时前 · ⭐ 15/30
+[Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > Before NTP there were Time and Daytime
 
 ---
 
-### 4. You have to beat the models at something
+### 5. [Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token
 
-[You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
 
-> You have to beat the models at something
+> [Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token
 
 ---
 
-### 5. Finalist 4
+### 6. Finalist 4
 
-[Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Finalist 4
 
 ---
 
-### 6. ★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox
+### 7. Here's a good way to present AI videos
 
-[★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox
-
----
-
-### 7. New Pebble Weather App + Software Updates
-
-[New Pebble Weather App + Software Updates](https://repebble.com/blog/new-pebble-weather-app-software-updates) — **ericmigi.com** · 1 天前 · ⭐ 15/30
-
-> New Pebble Weather App + Software Updates
-
----
-
-### 8. Here's a good way to present AI videos
-
-[Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube) — **idiallo.com** · 9 小时前 · ⭐ 15/30
+[Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
 > Here's a good way to present AI videos
 
 ---
 
+### 8. Book Review: ActivityPub by Evan Prodromou ★★★★⯪
+
+[Book Review: ActivityPub by Evan Prodromou ★★★★⯪](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
+
+> Book Review: ActivityPub by Evan Prodromou ★★★★⯪
+
+---
+
 ### 9. Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆
 
-[Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/) — **shkspr.mobi** · 5 小时前 · ⭐ 15/30
+[Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆
 
 ---
 
-### 10. ActivityBot is the recipient of an NLnet grant!
+### 10. AWE does not require PAE, though PAE makes it much more useful
 
-[ActivityBot is the recipient of an NLnet grant!](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[AWE does not require PAE, though PAE makes it much more useful](https://devblogs.microsoft.com/oldnewthing/20260831-00/?p=112660) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
 
-> ActivityBot is the recipient of an NLnet grant!
+> AWE does not require PAE, though PAE makes it much more useful
 
 ---
 
@@ -134,38 +134,38 @@ pie showData
 
 ---
 
-### 12. Cancelation Terminology
+### 12. Patented application of linear algebra
 
-[Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html) — **matklad.github.io** · 17 小时前 · ⭐ 15/30
+[Patented application of linear algebra](https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+
+> Patented application of linear algebra
+
+---
+
+### 13. Cancelation Terminology
+
+[Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
 
 > Cancelation Terminology
 
 ---
 
-### 13. Recreating a 2010 Experiment
+### 14. Notes from August 2026
 
-[Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss) — **xania.org** · 21 小时前 · ⭐ 15/30
+[Notes from August 2026](https://evanhahn.com/notes-from-august-2026/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+
+> Notes from August 2026
+
+---
+
+### 15. Recreating a 2010 Experiment
+
+[Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss) — **xania.org** · 1 天前 · ⭐ 15/30
 
 > Recreating a 2010 Experiment
 
 ---
 
-### 14. The Server Called Paranoia: Defend Autistici/Inventati
-
-[The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) — **micahflee.com** · 1 天前 · ⭐ 15/30
-
-> The Server Called Paranoia: Defend Autistici/Inventati
-
----
-
-### 15. The Rise and Fall of Agent Civilizations
-
-[The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
-
-> The Rise and Fall of Agent Civilizations
-
----
-
-*生成于 2026-08-31 17:16 | 扫描 82 源 → 获取 2512 篇 → 精选 15 篇*
+*生成于 2026-09-01 14:22 | 扫描 81 源 → 获取 2489 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
