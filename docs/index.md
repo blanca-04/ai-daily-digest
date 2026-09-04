@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-03
+# 📰 AI 博客每日精选 — 2026-09-04
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **llm-gemini 0.34**
+🥇 **August newsletter is out**
 
-[llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) — simonwillison.net · 21 小时前 · 📝 其他
+[August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) — simonwillison.net · 7 小时前 · 📝 其他
+
+> August newsletter is out
+
+🥈 **GPT‑6 Astra**
+
+[GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — simonwillison.net · 17 小时前 · 📝 其他
+
+> GPT‑6 Astra
+
+🥉 **llm-gemini 0.34**
+
+[llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) — simonwillison.net · 1 天前 · 📝 其他
 
 > llm-gemini 0.34
-
-🥈 **Claude's new system prompt really doesn't want to reproduce song lyrics**
-
-[Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) — simonwillison.net · 23 小时前 · 📝 其他
-
-> Claude's new system prompt really doesn't want to reproduce song lyrics
-
-🥉 **Quoting Rick Brewster**
-
-[Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) — simonwillison.net · 1 天前 · 📝 其他
-
-> Quoting Rick Brewster
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2520 篇 → 30 篇 | 48h | **15 篇** |
+| 84/92 | 2550 篇 → 24 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. llm-gemini 0.34
+### 1. August newsletter is out
 
-[llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) — **simonwillison.net** · 7 小时前 · ⭐ 15/30
+
+> August newsletter is out
+
+---
+
+### 2. GPT‑6 Astra
+
+[GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> GPT‑6 Astra
+
+---
+
+### 3. llm-gemini 0.34
+
+[llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-gemini 0.34
 
 ---
 
-### 2. Claude's new system prompt really doesn't want to reproduce song lyrics
+### 4. Claude's new system prompt really doesn't want to reproduce song lyrics
 
-[Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+[Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Claude's new system prompt really doesn't want to reproduce song lyrics
 
 ---
 
-### 3. Quoting Rick Brewster
+### 5. Radical responsibility means treating people like tools
 
-[Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Radical responsibility means treating people like tools](https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
 
-> Quoting Rick Brewster
-
----
-
-### 4. Claude Fable 5.1 made me a really nice animated pelican
-
-[Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Claude Fable 5.1 made me a really nice animated pelican
+> Radical responsibility means treating people like tools
 
 ---
 
-### 5. Codex bundles LibreOffice
+### 6. OpenAI Soft-Releases GPT‑6 Astra
 
-[Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[OpenAI Soft-Releases GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
 
-> Codex bundles LibreOffice
-
----
-
-### 6. GeoJSON Map Viewer
-
-[GeoJSON Map Viewer](https://simonwillison.net/2026/Sep/1/geojson/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> GeoJSON Map Viewer
+> OpenAI Soft-Releases GPT‑6 Astra
 
 ---
 
-### 7. Quoting Tarn Adams
+### 7. Phil Schiller Steps Down From Running App Store and Product Events
 
-[Quoting Tarn Adams](https://simonwillison.net/2026/Sep/1/tarn-adams/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Phil Schiller Steps Down From Running App Store and Product Events](https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
 
-> Quoting Tarn Adams
-
----
-
-### 8. datasette-mcp 0.2
-
-[datasette-mcp 0.2](https://simonwillison.net/2026/Sep/1/datasette-mcp/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-mcp 0.2
+> Phil Schiller Steps Down From Running App Store and Product Events
 
 ---
 
-### 9. Python 3.15.0 candidate 2 is here!
+### 8. MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity
 
-[Python 3.15.0 candidate 2 is here!](https://simonwillison.net/2026/Sep/1/python-315-rc-2/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity](https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
 
-> Python 3.15.0 candidate 2 is here!
-
----
-
-### 10. How to protect yourself from workslop
-
-[How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> How to protect yourself from workslop
+> MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity
 
 ---
 
-### 11. FBI Probes Service Selling 153M+ Drivers Licenses
+### 9. iOS 27 Introduces New ‘iPhone Handoff’ Feature
 
-[FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> FBI Probes Service Selling 153M+ Drivers Licenses
-
----
-
-### 12. iOS 27 Introduces New ‘iPhone Handoff’ Feature
-
-[iOS 27 Introduces New ‘iPhone Handoff’ Feature](https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[iOS 27 Introduces New ‘iPhone Handoff’ Feature](https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > iOS 27 Introduces New ‘iPhone Handoff’ Feature
 
 ---
 
-### 13. Tim Cook’s Departure Memo on His Last Day as CEO
+### 10. Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)
 
-[Tim Cook’s Departure Memo on His Last Day as CEO](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)](https://pluralistic.net/2026/09/04/cheating-at-fraud/) — **pluralistic.net** · 4 小时前 · ⭐ 15/30
 
-> Tim Cook’s Departure Memo on His Last Day as CEO
-
----
-
-### 14. Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit
-
-[Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit
+> Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)
 
 ---
 
-### 15. Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)
+### 11. Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)
 
-[Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/) — **pluralistic.net** · 5 小时前 · ⭐ 15/30
+[Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)
 
 ---
 
-*生成于 2026-09-03 13:58 | 扫描 83 源 → 获取 2520 篇 → 精选 15 篇*
+### 12. A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP
+
+[A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP](https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP
+
+---
+
+### 13. The case of the progress callback that never got called when progress happened
+
+[The case of the progress callback that never got called when progress happened](https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672) — **devblogs.microsoft.com/oldnewthing** · 23 小时前 · ⭐ 15/30
+
+> The case of the progress callback that never got called when progress happened
+
+---
+
+### 14. The perils of binding to value types in XAML
+
+[The perils of binding to value types in XAML](https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
+
+> The perils of binding to value types in XAML
+
+---
+
+### 15. Hugging Face Easter Egg
+
+[Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/) — **johndcook.com** · 14 小时前 · ⭐ 15/30
+
+> Hugging Face Easter Egg
+
+---
+
+*生成于 2026-09-04 13:50 | 扫描 84 源 → 获取 2550 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
