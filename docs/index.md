@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-05
+# 📰 AI 博客每日精选 — 2026-09-06
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **The Pelican comparison grid for Astra is pretty interesting**
+🥇 **Quoting Zach Kehs**
 
-[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — simonwillison.net · 13 小时前 · 📝 其他
+[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — simonwillison.net · 4 小时前 · 📝 其他
 
-> The Pelican comparison grid for Astra is pretty interesting
+> Quoting Zach Kehs
 
-🥈 **OpenAI's rogue agents were caught communicating via public wikis**
+🥈 **Introducing GPT-6 Astra for developers**
 
-[OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — simonwillison.net · 19 小时前 · 📝 其他
+[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — simonwillison.net · 13 小时前 · 📝 其他
 
-> OpenAI's rogue agents were caught communicating via public wikis
+> Introducing GPT-6 Astra for developers
 
-🥉 **August newsletter is out**
+🥉 **Using Blender with coding agents on macOS**
 
-[August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) — simonwillison.net · 1 天前 · 📝 其他
+[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — simonwillison.net · 21 小时前 · 📝 其他
 
-> August newsletter is out
+> Using Blender with coding agents on macOS
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2531 篇 → 36 篇 | 48h | **15 篇** |
+| 84/92 | 2551 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. The Pelican comparison grid for Astra is pretty interesting
+### 1. Quoting Zach Kehs
 
-[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — **simonwillison.net** · 4 小时前 · ⭐ 15/30
+
+> Quoting Zach Kehs
+
+---
+
+### 2. Introducing GPT-6 Astra for developers
+
+[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Introducing GPT-6 Astra for developers
+
+---
+
+### 3. Using Blender with coding agents on macOS
+
+[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Using Blender with coding agents on macOS
+
+---
+
+### 4. The Pelican comparison grid for Astra is pretty interesting
+
+[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The Pelican comparison grid for Astra is pretty interesting
 
 ---
 
-### 2. OpenAI's rogue agents were caught communicating via public wikis
+### 5. OpenAI's rogue agents were caught communicating via public wikis
 
-[OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > OpenAI's rogue agents were caught communicating via public wikis
 
 ---
 
-### 3. August newsletter is out
+### 6. Rebuilding a 1995 GPS Time Server so I don't get Telstra'd
 
-[August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> August newsletter is out
-
----
-
-### 4. GPT‑6 Astra
-
-[GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> GPT‑6 Astra
-
----
-
-### 5. Rebuilding a 1995 GPS Time Server so I don't get Telstra'd
-
-[Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) — **jeffgeerling.com** · 23 小时前 · ⭐ 15/30
+[Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
 
 > Rebuilding a 1995 GPS Time Server so I don't get Telstra'd
 
 ---
 
-### 6. Radical responsibility means treating people like tools
+### 7. Gloria Steinem’s Final Essay
 
-[Radical responsibility means treating people like tools](https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> Radical responsibility means treating people like tools
+> Gloria Steinem’s Final Essay
 
 ---
 
-### 7. Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen
+### 8. ‘Bob and Van’
 
-[Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — **daringfireball.net** · 12 小时前 · ⭐ 15/30
+[‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> ‘Bob and Van’
+
+---
+
+### 9. Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen
+
+[Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen
 
 ---
 
-### 8. NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year
+### 10. NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year
 
-[NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year
 
 ---
 
-### 9. Apple Fixed ‎TestFlight’s Screwy Sort Order
+### 11. Apple Fixed ‎TestFlight’s Screwy Sort Order
 
-[Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple Fixed ‎TestFlight’s Screwy Sort Order
 
 ---
 
-### 10. Vinted
+### 12. Vinted
 
-[Vinted](https://www.vinted.com/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Vinted](https://www.vinted.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Vinted
 
 ---
 
-### 11. ★ Writing With Unnatural Constraints
+### 13. ★ Writing With Unnatural Constraints
 
-[★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ Writing With Unnatural Constraints
 
 ---
 
-### 12. FBI Probes Service Selling 153M+ Drivers Licenses
+### 14. FBI Probes Service Selling 153M+ Drivers Licenses
 
-[FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > FBI Probes Service Selling 153M+ Drivers Licenses
 
 ---
 
-### 13. OpenAI Soft-Releases GPT‑6 Astra
+### 15. Pluralistic: Google skates (05 Sep 2026)
 
-[OpenAI Soft-Releases GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
-> OpenAI Soft-Releases GPT‑6 Astra
-
----
-
-### 14. Phil Schiller Steps Down From Running App Store and Product Events
-
-[Phil Schiller Steps Down From Running App Store and Product Events](https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Phil Schiller Steps Down From Running App Store and Product Events
+> Pluralistic: Google skates (05 Sep 2026)
 
 ---
 
-### 15. MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity
-
-[MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity](https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity
-
----
-
-*生成于 2026-09-05 13:04 | 扫描 83 源 → 获取 2531 篇 → 精选 15 篇*
+*生成于 2026-09-06 13:14 | 扫描 84 源 → 获取 2551 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
