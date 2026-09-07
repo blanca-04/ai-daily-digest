@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-06
+# 📰 AI 博客每日精选 — 2026-09-07
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting Zach Kehs**
+🥇 **Research acceleration: The view inside OpenAI**
 
-[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — simonwillison.net · 4 小时前 · 📝 其他
+[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Quoting Zach Kehs
+> Research acceleration: The view inside OpenAI
 
-🥈 **Introducing GPT-6 Astra for developers**
+🥈 **The purpose of DNS is to spread scams**
 
-[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — simonwillison.net · 13 小时前 · 📝 其他
+[The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — simonwillison.net · 1 天前 · 📝 其他
 
-> Introducing GPT-6 Astra for developers
+> The purpose of DNS is to spread scams
 
-🥉 **Using Blender with coding agents on macOS**
+🥉 **There's No Limit to How Bad Code Can Get**
 
-[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — simonwillison.net · 21 小时前 · 📝 其他
+[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/) — simonwillison.net · 1 天前 · 📝 其他
 
-> Using Blender with coding agents on macOS
+> There's No Limit to How Bad Code Can Get
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2551 篇 → 27 篇 | 48h | **15 篇** |
+| 82/92 | 2499 篇 → 24 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting Zach Kehs
+### 1. Research acceleration: The view inside OpenAI
 
-[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — **simonwillison.net** · 4 小时前 · ⭐ 15/30
+[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Research acceleration: The view inside OpenAI
+
+---
+
+### 2. The purpose of DNS is to spread scams
+
+[The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> The purpose of DNS is to spread scams
+
+---
+
+### 3. There's No Limit to How Bad Code Can Get
+
+[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> There's No Limit to How Bad Code Can Get
+
+---
+
+### 4. Quoting Zach Kehs
+
+[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Zach Kehs
 
 ---
 
-### 2. Introducing GPT-6 Astra for developers
+### 5. Introducing GPT-6 Astra for developers
 
-[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Introducing GPT-6 Astra for developers
 
 ---
 
-### 3. Using Blender with coding agents on macOS
+### 6. Using Blender with coding agents on macOS
 
-[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Using Blender with coding agents on macOS
 
 ---
 
-### 4. The Pelican comparison grid for Astra is pretty interesting
+### 7. Meta AI Has a Native Mac App Now, and It Seems Decent
 
-[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> The Pelican comparison grid for Astra is pretty interesting
-
----
-
-### 5. OpenAI's rogue agents were caught communicating via public wikis
-
-[OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> OpenAI's rogue agents were caught communicating via public wikis
+> Meta AI Has a Native Mac App Now, and It Seems Decent
 
 ---
 
-### 6. Rebuilding a 1995 GPS Time Server so I don't get Telstra'd
+### 8. WorkOS: How to Give an Agent a Task Instead of a Token
 
-[Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
+[WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
 
-> Rebuilding a 1995 GPS Time Server so I don't get Telstra'd
+> WorkOS: How to Give an Agent a Task Instead of a Token
 
 ---
 
-### 7. Gloria Steinem’s Final Essay
+### 9. Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’
 
-[Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’
+
+---
+
+### 10. Trump Administration Launches Rip-Off Video Games at Arcade.gov
+
+[Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Trump Administration Launches Rip-Off Video Games at Arcade.gov
+
+---
+
+### 11. Gurman on Schiller’s Departure and Ternus’s Goals for the App Store
+
+[Gurman on Schiller’s Departure and Ternus’s Goals for the App Store](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Gurman on Schiller’s Departure and Ternus’s Goals for the App Store
+
+---
+
+### 12. Dickover of the Week: Slashdot Put One in Their RSS Feed
+
+[Dickover of the Week: Slashdot Put One in Their RSS Feed](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Dickover of the Week: Slashdot Put One in Their RSS Feed
+
+---
+
+### 13. Litterbox: Safari Extension for Viewing X Tweets
+
+[Litterbox: Safari Extension for Viewing X Tweets](https://andadinosaur.com/launch-litterbox) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
+
+> Litterbox: Safari Extension for Viewing X Tweets
+
+---
+
+### 14. Gloria Steinem’s Final Essay
+
+[Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Gloria Steinem’s Final Essay
 
 ---
 
-### 8. ‘Bob and Van’
+### 15. ‘Bob and Van’
 
-[‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘Bob and Van’
 
 ---
 
-### 9. Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen
-
-[Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen
-
----
-
-### 10. NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year
-
-[NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year
-
----
-
-### 11. Apple Fixed ‎TestFlight’s Screwy Sort Order
-
-[Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Fixed ‎TestFlight’s Screwy Sort Order
-
----
-
-### 12. Vinted
-
-[Vinted](https://www.vinted.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Vinted
-
----
-
-### 13. ★ Writing With Unnatural Constraints
-
-[★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ Writing With Unnatural Constraints
-
----
-
-### 14. FBI Probes Service Selling 153M+ Drivers Licenses
-
-[FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> FBI Probes Service Selling 153M+ Drivers Licenses
-
----
-
-### 15. Pluralistic: Google skates (05 Sep 2026)
-
-[Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Google skates (05 Sep 2026)
-
----
-
-*生成于 2026-09-06 13:14 | 扫描 84 源 → 获取 2551 篇 → 精选 15 篇*
+*生成于 2026-09-07 15:21 | 扫描 82 源 → 获取 2499 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
