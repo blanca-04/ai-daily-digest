@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-07
+# 📰 AI 博客每日精选 — 2026-09-08
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Research acceleration: The view inside OpenAI**
+🥇 **llm 0.35**
 
-[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — simonwillison.net · 15 小时前 · 📝 其他
+[llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) — simonwillison.net · 14 小时前 · 📝 其他
 
-> Research acceleration: The view inside OpenAI
+> llm 0.35
 
-🥈 **The purpose of DNS is to spread scams**
+🥈 **Creepy crawlies**
 
-[The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — simonwillison.net · 1 天前 · 📝 其他
+[Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/) — simonwillison.net · 14 小时前 · 📝 其他
 
-> The purpose of DNS is to spread scams
+> Creepy crawlies
 
-🥉 **There's No Limit to How Bad Code Can Get**
+🥉 **Quoting Jakub Pachocki**
 
-[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> There's No Limit to How Bad Code Can Get
+> Quoting Jakub Pachocki
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2499 篇 → 24 篇 | 48h | **15 篇** |
+| 83/92 | 2524 篇 → 31 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,15 +46,55 @@ pie showData
 
 ## 📝 其他
 
-### 1. Research acceleration: The view inside OpenAI
+### 1. llm 0.35
 
-[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> llm 0.35
+
+---
+
+### 2. Creepy crawlies
+
+[Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> Creepy crawlies
+
+---
+
+### 3. Quoting Jakub Pachocki
+
+[Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Quoting Jakub Pachocki
+
+---
+
+### 4. Video compressor
+
+[Video compressor](https://simonwillison.net/2026/Sep/7/video-compressor/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Video compressor
+
+---
+
+### 5. Mercator ↔ Equal Earth
+
+[Mercator ↔ Equal Earth](https://simonwillison.net/2026/Sep/7/equal-earth/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Mercator ↔ Equal Earth
+
+---
+
+### 6. Research acceleration: The view inside OpenAI
+
+[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Research acceleration: The view inside OpenAI
 
 ---
 
-### 2. The purpose of DNS is to spread scams
+### 7. The purpose of DNS is to spread scams
 
 [The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
@@ -62,110 +102,70 @@ pie showData
 
 ---
 
-### 3. There's No Limit to How Bad Code Can Get
+### 8. Automatically detecting AI text in my browser
 
-[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
 
-> There's No Limit to How Bad Code Can Get
-
----
-
-### 4. Quoting Zach Kehs
-
-[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Zach Kehs
+> Automatically detecting AI text in my browser
 
 ---
 
-### 5. Introducing GPT-6 Astra for developers
+### 9. [Sponsor] Glyphs 4
 
-[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[[Sponsor] Glyphs 4](https://glyphsapp.com/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Introducing GPT-6 Astra for developers
-
----
-
-### 6. Using Blender with coding agents on macOS
-
-[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Using Blender with coding agents on macOS
+> [Sponsor] Glyphs 4
 
 ---
 
-### 7. Meta AI Has a Native Mac App Now, and It Seems Decent
+### 10. Trackables 1.5
 
-[Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Trackables 1.5](https://trackables.app/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Trackables 1.5
+
+---
+
+### 11. The Onion’s Exclusive Interview With Larry Ellison
+
+[The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> The Onion’s Exclusive Interview With Larry Ellison
+
+---
+
+### 12. McKinley 1.0
+
+[McKinley 1.0](https://mckinleysymbols.com/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> McKinley 1.0
+
+---
+
+### 13. Matt Birchler’s Folding iPhone Predictions
+
+[Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> Matt Birchler’s Folding iPhone Predictions
+
+---
+
+### 14. ★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map
+
+[★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> ★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map
+
+---
+
+### 15. Meta AI Has a Native Mac App Now, and It Seems Decent
+
+[Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Meta AI Has a Native Mac App Now, and It Seems Decent
 
 ---
 
-### 8. WorkOS: How to Give an Agent a Task Instead of a Token
-
-[WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> WorkOS: How to Give an Agent a Task Instead of a Token
-
----
-
-### 9. Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’
-
-[Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
-
-> Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’
-
----
-
-### 10. Trump Administration Launches Rip-Off Video Games at Arcade.gov
-
-[Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
-
-> Trump Administration Launches Rip-Off Video Games at Arcade.gov
-
----
-
-### 11. Gurman on Schiller’s Departure and Ternus’s Goals for the App Store
-
-[Gurman on Schiller’s Departure and Ternus’s Goals for the App Store](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> Gurman on Schiller’s Departure and Ternus’s Goals for the App Store
-
----
-
-### 12. Dickover of the Week: Slashdot Put One in Their RSS Feed
-
-[Dickover of the Week: Slashdot Put One in Their RSS Feed](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> Dickover of the Week: Slashdot Put One in Their RSS Feed
-
----
-
-### 13. Litterbox: Safari Extension for Viewing X Tweets
-
-[Litterbox: Safari Extension for Viewing X Tweets](https://andadinosaur.com/launch-litterbox) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
-
-> Litterbox: Safari Extension for Viewing X Tweets
-
----
-
-### 14. Gloria Steinem’s Final Essay
-
-[Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Gloria Steinem’s Final Essay
-
----
-
-### 15. ‘Bob and Van’
-
-[‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘Bob and Van’
-
----
-
-*生成于 2026-09-07 15:21 | 扫描 82 源 → 获取 2499 篇 → 精选 15 篇*
+*生成于 2026-09-08 13:57 | 扫描 83 源 → 获取 2524 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
