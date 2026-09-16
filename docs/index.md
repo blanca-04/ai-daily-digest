@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-15
+# 📰 AI 博客每日精选 — 2026-09-16
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **The contagion of fear**
+🥇 **Gemini Live audio**
 
-[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — simonwillison.net · 17 小时前 · 📝 其他
+[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) — simonwillison.net · 15 小时前 · 📝 其他
+
+> Gemini Live audio
+
+🥈 **The contagion of fear**
+
+[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — simonwillison.net · 1 天前 · 📝 其他
 
 > The contagion of fear
 
-🥈 **What blog posts influenced your thinking the most?**
+🥉 **What blog posts influenced your thinking the most?**
 
-[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — simonwillison.net · 18 小时前 · 📝 其他
+[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — simonwillison.net · 1 天前 · 📝 其他
 
 > What blog posts influenced your thinking the most?
-
-🥉 **Quoting Laurie Voss**
-
-[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/) — simonwillison.net · 23 小时前 · 📝 其他
-
-> Quoting Laurie Voss
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2500 篇 → 29 篇 | 48h | **15 篇** |
+| 83/92 | 2525 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. The contagion of fear
+### 1. Gemini Live audio
 
-[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Gemini Live audio
+
+---
+
+### 2. The contagion of fear
+
+[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The contagion of fear
 
 ---
 
-### 2. What blog posts influenced your thinking the most?
+### 3. What blog posts influenced your thinking the most?
 
-[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > What blog posts influenced your thinking the most?
 
 ---
 
-### 3. Quoting Laurie Voss
+### 4. Quoting Laurie Voss
 
-[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Laurie Voss
 
 ---
 
-### 4. commit-rewriter 0.1
+### 5. Jev means structured output is interesting again
 
-[commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Jev means structured output is interesting again](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
 
-> commit-rewriter 0.1
-
----
-
-### 5. shot-scraper 1.12
-
-[shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> shot-scraper 1.12
+> Jev means structured output is interesting again
 
 ---
 
 ### 6. Tell agents the why, not just the how
 
-[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
+[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Tell agents the why, not just the how
 
 ---
 
-### 7. Slow developer experience will bottleneck fast models
+### 7. ‘Apple Reference Image: A New Approach for Verified Photography’
 
-[Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
 
-> Slow developer experience will bottleneck fast models
+> ‘Apple Reference Image: A New Approach for Verified Photography’
 
 ---
 
-### 8. Apple’s 27.0 OS Updates
+### 8. FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’
 
-[Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’
+
+---
+
+### 9. ★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple
+
+[★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> ★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple
+
+---
+
+### 10. [Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It
+
+[[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> [Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It
+
+---
+
+### 11. Apple’s 27.0 OS Updates
+
+[Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple’s 27.0 OS Updates
 
 ---
 
-### 9. Dumpster Fire – Litterbox-Inspired Extension for Firefox
+### 12. Dumpster Fire – Litterbox-Inspired Extension for Firefox
 
-[Dumpster Fire – Litterbox-Inspired Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
+[Dumpster Fire – Litterbox-Inspired Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Dumpster Fire – Litterbox-Inspired Extension for Firefox
 
 ---
 
-### 10. XCancel Shuts Down Again
+### 13. Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)
 
-[XCancel Shuts Down Again](https://xcancel.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)](https://pluralistic.net/2026/09/16/beggar-thy-neighbor/) — **pluralistic.net** · 6 小时前 · ⭐ 15/30
 
-> XCancel Shuts Down Again
-
----
-
-### 11. Glyphs 4
-
-[Glyphs 4](https://glyphsapp.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Glyphs 4
+> Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)
 
 ---
 
-### 12. AI Forces You to Commit to Your Initial Belief
+### 14. Pluralistic: Everybody pees (15 Sep 2026)
 
-[AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> AI Forces You to Commit to Your Initial Belief
-
----
-
-### 13. Pluralistic: Everybody pees (15 Sep 2026)
-
-[Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — **pluralistic.net** · 7 小时前 · ⭐ 15/30
+[Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Everybody pees (15 Sep 2026)
 
 ---
 
-### 14. Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)
+### 15. How to get a DOI for your blog posts
 
-[Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[How to get a DOI for your blog posts](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
 
-> Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)
-
----
-
-### 15. [RSS Club] Sorry for breaking your feed readers!
-
-[[RSS Club] Sorry for breaking your feed readers!](https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
-
-> [RSS Club] Sorry for breaking your feed readers!
+> How to get a DOI for your blog posts
 
 ---
 
-*生成于 2026-09-15 14:31 | 扫描 82 源 → 获取 2500 篇 → 精选 15 篇*
+*生成于 2026-09-16 14:25 | 扫描 83 源 → 获取 2525 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
