@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-18
+# 📰 AI 博客每日精选 — 2026-09-19
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Be alert: targeted attacks on prominent Rustaceans**
+🥇 **Gemini Hacked Three Companies in First Known Breakout by Google’s AI**
 
-[Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) — simonwillison.net · 13 小时前 · 📝 其他
+[Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Be alert: targeted attacks on prominent Rustaceans
+> Gemini Hacked Three Companies in First Known Breakout by Google’s AI
 
-🥈 **How To Write With An LLM**
+🥈 **Note on 18th September 2026**
 
-[How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/) — simonwillison.net · 14 小时前 · 📝 其他
+[Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) — simonwillison.net · 18 小时前 · 📝 其他
 
-> How To Write With An LLM
+> Note on 18th September 2026
 
-🥉 **Self-generated prompt injections in compaction summaries**
+🥉 **Quoting Thariq Shihipar**
 
-[Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/) — simonwillison.net · 16 小时前 · 📝 其他
+[Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/) — simonwillison.net · 18 小时前 · 📝 其他
 
-> Self-generated prompt injections in compaction summaries
+> Quoting Thariq Shihipar
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2525 篇 → 34 篇 | 48h | **15 篇** |
+| 82/92 | 2502 篇 → 37 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Be alert: targeted attacks on prominent Rustaceans
+### 1. Gemini Hacked Three Companies in First Known Breakout by Google’s AI
 
-[Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+[Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Gemini Hacked Three Companies in First Known Breakout by Google’s AI
+
+---
+
+### 2. Note on 18th September 2026
+
+[Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Note on 18th September 2026
+
+---
+
+### 3. Quoting Thariq Shihipar
+
+[Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> Quoting Thariq Shihipar
+
+---
+
+### 4. The Creative Spirit of Who Framed Roger Rabbit
+
+[The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> The Creative Spirit of Who Framed Roger Rabbit
+
+---
+
+### 5. Be alert: targeted attacks on prominent Rustaceans
+
+[Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Be alert: targeted attacks on prominent Rustaceans
 
 ---
 
-### 2. How To Write With An LLM
+### 6. How To Write With An LLM
 
-[How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > How To Write With An LLM
 
 ---
 
-### 3. Self-generated prompt injections in compaction summaries
+### 7. Self-generated prompt injections in compaction summaries
 
-[Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Self-generated prompt injections in compaction summaries
 
 ---
 
-### 4. datasette 1.0a40
+### 8. NTP, an atomic clock, and having a great time at the world's largest VCF
 
-[datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) — **jeffgeerling.com** · 23 小时前 · ⭐ 15/30
 
-> datasette 1.0a40
-
----
-
-### 5. datasette 0.65.5
-
-[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette 0.65.5
+> NTP, an atomic clock, and having a great time at the world's largest VCF
 
 ---
 
-### 6. Claude Cowork and chat are now one Claude
+### 9. Two techniques for working with System One models
 
-[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Claude Cowork and chat are now one Claude
-
----
-
-### 7. Quoting Mustafa Suleyman
-
-[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Mustafa Suleyman
-
----
-
-### 8. Two techniques for working with System One models
-
-[Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
+[Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Two techniques for working with System One models
 
 ---
 
-### 9. Data Broker Radaris Loses Domains in Privacy Fight
+### 10. Just Me or Does This Argument Not Add Up?
 
-[Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
+[Just Me or Does This Argument Not Add Up?](https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Data Broker Radaris Loses Domains in Privacy Fight
-
----
-
-### 10. ★ The iPhones 18 Pro
-
-[★ The iPhones 18 Pro](https://daringfireball.net/2026/09/the_iphones_18_pro) — **daringfireball.net** · 11 小时前 · ⭐ 15/30
-
-> ★ The iPhones 18 Pro
+> Just Me or Does This Argument Not Add Up?
 
 ---
 
-### 11. Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?
+### 11. Will Oremus Is a Duo Doubter
 
-[Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
+[Will Oremus Is a Duo Doubter](https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?
-
----
-
-### 12. Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
-
-[Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps
+> Will Oremus Is a Duo Doubter
 
 ---
 
-### 13. Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?
+### 12. Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo
 
-[Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo](https://developer.apple.com/news/?id=nyuppv9r) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?
-
----
-
-### 14. Woz Launches Merch Store
-
-[Woz Launches Merch Store](https://x.com/stevewoz/status/2100074363605397658) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Woz Launches Merch Store
+> Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo
 
 ---
 
-### 15. Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork
+### 13. Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway
 
-[Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway](https://www.berkshirehathaway.com/news/sep1826.pdf) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
 
-> Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork
+> Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway
 
 ---
 
-*生成于 2026-09-18 13:56 | 扫描 83 源 → 获取 2525 篇 → 精选 15 篇*
+### 14. Trump Says He’s Banning MS NOW, CNN, and Politico From White House
+
+[Trump Says He’s Banning MS NOW, CNN, and Politico From White House](https://truthsocial.com/@realDonaldTrump/posts/117293599348325006) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Trump Says He’s Banning MS NOW, CNN, and Politico From White House
+
+---
+
+### 15. Hollywood Wants the Duo
+
+[Hollywood Wants the Duo](https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-hollywood-following-big-emmys-night-by-showing-off-new-iphone/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Hollywood Wants the Duo
+
+---
+
+*生成于 2026-09-19 13:31 | 扫描 82 源 → 获取 2502 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
