@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-21
+# 📰 AI 博客每日精选 — 2026-09-22
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quoting voxium**
+🥇 **Jev introduces a new shape of LLM - System One, aka Decision Models**
 
-[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — simonwillison.net · 18 小时前 · 📝 其他
+[Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) — simonwillison.net · 15 小时前 · 📝 其他
+
+> Jev introduces a new shape of LLM - System One, aka Decision Models
+
+🥈 **Cloudflare Python Workers are now generally available**
+
+[Cloudflare Python Workers are now generally available](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/) — simonwillison.net · 15 小时前 · 📝 其他
+
+> Cloudflare Python Workers are now generally available
+
+🥉 **Quoting voxium**
+
+[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quoting voxium
-
-🥈 **llm-keys-ui 0.1**
-
-[llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) — simonwillison.net · 20 小时前 · 📝 其他
-
-> llm-keys-ui 0.1
-
-🥉 **datasette-explain 0.2.2**
-
-[datasette-explain 0.2.2](https://simonwillison.net/2026/Sep/20/datasette-explain/) — simonwillison.net · 1 天前 · 📝 其他
-
-> datasette-explain 0.2.2
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2557 篇 → 23 篇 | 48h | **15 篇** |
+| 83/92 | 2527 篇 → 39 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quoting voxium
+### 1. Jev introduces a new shape of LLM - System One, aka Decision Models
 
-[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Jev introduces a new shape of LLM - System One, aka Decision Models
+
+---
+
+### 2. Cloudflare Python Workers are now generally available
+
+[Cloudflare Python Workers are now generally available](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Cloudflare Python Workers are now generally available
+
+---
+
+### 3. Quoting voxium
+
+[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting voxium
 
 ---
 
-### 2. llm-keys-ui 0.1
+### 4. MCP was always a bad idea?
 
-[llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[MCP was always a bad idea?](https://simonwillison.net/2026/Sep/20/hn-49779718/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> MCP was always a bad idea?
+
+---
+
+### 5. llm-keys-ui 0.1
+
+[llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > llm-keys-ui 0.1
 
 ---
 
-### 3. datasette-explain 0.2.2
+### 6. Raspberry Pi locks down Pi 5 RAM upgrades in firmware
 
-[datasette-explain 0.2.2](https://simonwillison.net/2026/Sep/20/datasette-explain/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Raspberry Pi locks down Pi 5 RAM upgrades in firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/) — **jeffgeerling.com** · 21 小时前 · ⭐ 15/30
 
-> datasette-explain 0.2.2
-
----
-
-### 4. datasette-auth-github 1.0
-
-[datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-auth-github 1.0
+> Raspberry Pi locks down Pi 5 RAM upgrades in firmware
 
 ---
 
-### 5. California Sea Lion, Brandt's Cormorant
+### 7. [Sponsor] Mux: Turn Your Video Into Context
 
-[California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[[Sponsor] Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> California Sea Lion, Brandt's Cormorant
-
----
-
-### 6. System One models like Jev can train their own replacements
-
-[System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> System One models like Jev can train their own replacements
+> [Sponsor] Mux: Turn Your Video Into Context
 
 ---
 
-### 7. Grit your teeth and ship it
+### 8. Lex Friedman Brings Back Strategery
 
-[Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Lex Friedman Brings Back Strategery](https://lexontech.org/strategery-is-back-and-im-the-developer) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Grit your teeth and ship it
+> Lex Friedman Brings Back Strategery
 
 ---
 
-### 8. ‘Measuring Nothing (With Great Accuracy)’
+### 9. GM Confirms They’re Still Smoking Crack
 
-[‘Measuring Nothing (With Great Accuracy)’](https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
+[GM Confirms They’re Still Smoking Crack](https://x.com/JoannaStern/status/2102105565195288859) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> GM Confirms They’re Still Smoking Crack
+
+---
+
+### 10. America’s Decline Can Be Measured by the Names of Ballparks and Arenas
+
+[America’s Decline Can Be Measured by the Names of Ballparks and Arenas](https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> America’s Decline Can Be Measured by the Names of Ballparks and Arenas
+
+---
+
+### 11. Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan
+
+[Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan](https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan
+
+---
+
+### 12. Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.
+
+[Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.](https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.
+
+---
+
+### 13. David Pogue: ‘125 Tests of the New AI Siri’
+
+[David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> David Pogue: ‘125 Tests of the New AI Siri’
+
+---
+
+### 14. Matthew Butterick: ‘Big AI to Humanity: Drop Dead’
+
+[Matthew Butterick: ‘Big AI to Humanity: Drop Dead’](https://matthewbutterick.com/chron/drop-dead.html) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Matthew Butterick: ‘Big AI to Humanity: Drop Dead’
+
+---
+
+### 15. ‘Measuring Nothing (With Great Accuracy)’
+
+[‘Measuring Nothing (With Great Accuracy)’](https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
 
 > ‘Measuring Nothing (With Great Accuracy)’
 
 ---
 
-### 9. Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly
-
-[Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly
-
----
-
-### 10. Yours Truly on CNBC’s ‘Squawk on the Street’ Friday
-
-[Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
-
-> Yours Truly on CNBC’s ‘Squawk on the Street’ Friday
-
----
-
-### 11. WorkOS: How SSO Works and the Fastest Way to Add It
-
-[WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> WorkOS: How SSO Works and the Fastest Way to Add It
-
----
-
-### 12. GM Revives CarPlay for 2027 Trucks
-
-[GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> GM Revives CarPlay for 2027 Trucks
-
----
-
-### 13. Marques Brownlee’s iPhone 18 Pro Review
-
-[Marques Brownlee’s iPhone 18 Pro Review](https://www.youtube.com/watch?v=ohqxP8EEumo) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Marques Brownlee’s iPhone 18 Pro Review
-
----
-
-### 14. Tyler Stalman’s iPhone 18 Pro Camera Review
-
-[Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Tyler Stalman’s iPhone 18 Pro Camera Review
-
----
-
-### 15. Pluralistic: The Claude Delusion (21 Sep 2026)
-
-[Pluralistic: The Claude Delusion (21 Sep 2026)](https://pluralistic.net/2026/09/21/sunsetting/) — **pluralistic.net** · 4 小时前 · ⭐ 15/30
-
-> Pluralistic: The Claude Delusion (21 Sep 2026)
-
----
-
-*生成于 2026-09-21 16:03 | 扫描 84 源 → 获取 2557 篇 → 精选 15 篇*
+*生成于 2026-09-22 14:13 | 扫描 83 源 → 获取 2527 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
