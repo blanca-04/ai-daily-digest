@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-09-27
+# 📰 AI 博客每日精选 — 2026-09-28
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Kākāpō Party**
+🥇 **Quoting Muse AI Agent**
 
-[Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — simonwillison.net · 15 小时前 · 📝 其他
+[Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) — simonwillison.net · 13 小时前 · 📝 其他
 
-> Kākāpō Party
+> Quoting Muse AI Agent
 
-🥈 **Quoting John Gruber**
+🥈 **2026 in LLMs (so far)**
 
-[Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) — simonwillison.net · 1 天前 · 📝 其他
+[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) — simonwillison.net · 17 小时前 · 📝 其他
 
-> Quoting John Gruber
+> 2026 in LLMs (so far)
 
-🥉 **I'm starting HomelabFest (in St. Louis, Sep 2027)**
+🥉 **S3 Is the Future, S3 Is the Past**
 
-[I'm starting HomelabFest (in St. Louis, Sep 2027)](https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/) — jeffgeerling.com · 1 天前 · 📝 其他
+[S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/) — simonwillison.net · 18 小时前 · 📝 其他
 
-> I'm starting HomelabFest (in St. Louis, Sep 2027)
+> S3 Is the Future, S3 Is the Past
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2529 篇 → 26 篇 | 48h | **15 篇** |
+| 83/92 | 2535 篇 → 25 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Kākāpō Party
+### 1. Quoting Muse AI Agent
 
-[Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+[Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> Quoting Muse AI Agent
+
+---
+
+### 2. 2026 in LLMs (so far)
+
+[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> 2026 in LLMs (so far)
+
+---
+
+### 3. S3 Is the Future, S3 Is the Past
+
+[S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> S3 Is the Future, S3 Is the Past
+
+---
+
+### 4. Bluesky reply bot checker
+
+[Bluesky reply bot checker](https://simonwillison.net/2026/Sep/27/bluesky-bot-check/) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+
+> Bluesky reply bot checker
+
+---
+
+### 5. Kākāpō Party
+
+[Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Kākāpō Party
 
 ---
 
-### 2. Quoting John Gruber
+### 6. Human-AI partnerships are for alignment, not capability
 
-[Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting John Gruber
-
----
-
-### 3. I'm starting HomelabFest (in St. Louis, Sep 2027)
-
-[I'm starting HomelabFest (in St. Louis, Sep 2027)](https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> I'm starting HomelabFest (in St. Louis, Sep 2027)
-
----
-
-### 4. Human-AI partnerships are for alignment, not capability
-
-[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
+[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Human-AI partnerships are for alignment, not capability
 
 ---
 
-### 5. Advice to a beginning software engineer
+### 7. Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 
-[Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/) — **krebsonsecurity.com** · 2 小时前 · ⭐ 15/30
 
-> Advice to a beginning software engineer
-
----
-
-### 6. U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions
-
-[U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions
+> Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 
 ---
 
-### 7. Reelizer Returns
+### 8. Duo-Man
 
-[Reelizer Returns](https://www.reelizer.com/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Duo-Man](https://x.com/viditb/status/2104103592726765722) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
+
+> Duo-Man
+
+---
+
+### 9. Mux: Turn Your Video Into Context
+
+[Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Mux: Turn Your Video Into Context
+
+---
+
+### 10. Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’
+
+[Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’
+
+---
+
+### 11. Reelizer Returns
+
+[Reelizer Returns](https://www.reelizer.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Reelizer Returns
 
 ---
 
-### 8. Alexandr Wang: ‘Why I’m Building Muse’
+### 12. Alexandr Wang: ‘Why I’m Building Muse’
 
-[Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Alexandr Wang: ‘Why I’m Building Muse’
 
 ---
 
-### 9. Apple’s Other Recent ‘Duo’
+### 13. Apple’s Other Recent ‘Duo’
 
-[Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple’s Other Recent ‘Duo’
 
 ---
 
-### 10. International Standard Paper Sizes
+### 14. International Standard Paper Sizes
 
-[International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > International Standard Paper Sizes
 
 ---
 
-### 11. Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed
+### 15. Edge Is Pretending to Be Chrome
 
-[Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome) — **idiallo.com** · 10 小时前 · ⭐ 15/30
 
-> Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed
-
----
-
-### 12. The Talk Show: ‘I’m Thinking X, Not X’
-
-[The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
-
-> The Talk Show: ‘I’m Thinking X, Not X’
+> Edge Is Pretending to Be Chrome
 
 ---
 
-### 13. Mr. Choyka Is Apparently Doing Well
-
-[Mr. Choyka Is Apparently Doing Well](https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Mr. Choyka Is Apparently Doing Well
-
----
-
-### 14. Stock UI in MacOS 27 Eschews Clarity
-
-[Stock UI in MacOS 27 Eschews Clarity](https://mastodon.design/@thibault/117320401426286497) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Stock UI in MacOS 27 Eschews Clarity
-
----
-
-### 15. Brent Simmons on ‘Stock’ Mac UI
-
-[Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Brent Simmons on ‘Stock’ Mac UI
-
----
-
-*生成于 2026-09-27 14:52 | 扫描 83 源 → 获取 2529 篇 → 精选 15 篇*
+*生成于 2026-09-28 17:51 | 扫描 83 源 → 获取 2535 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
