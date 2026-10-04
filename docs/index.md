@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-03
+# 📰 AI 博客每日精选 — 2026-10-04
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Superpersuasion will look like bribery**
+🥇 **We're going to need default hard budget caps on pretty much everything**
 
-[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) — seangoedecke.com · 14 小时前 · 📝 其他
+[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Superpersuasion will look like bribery
+> We're going to need default hard budget caps on pretty much everything
 
-🥈 **Shipping is the foundation**
+🥈 **September sponsors-only newsletter**
 
-[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/) — seangoedecke.com · 14 小时前 · 📝 其他
+[September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/) — simonwillison.net · 17 小时前 · 📝 其他
 
-> Shipping is the foundation
+> September sponsors-only newsletter
 
-🥉 **Do not build the LLM torture factory**
+🥉 **Rex's Dino Store**
 
-[Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/) — seangoedecke.com · 1 天前 · 📝 其他
+[Rex's Dino Store](https://simonwillison.net/2026/Oct/2/rex-s-dino-store/) — simonwillison.net · 1 天前 · 📝 其他
 
-> Do not build the LLM torture factory
+> Rex's Dino Store
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2314 篇 → 19 篇 | 48h | **15 篇** |
+| 82/92 | 2314 篇 → 24 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Superpersuasion will look like bribery
+### 1. We're going to need default hard budget caps on pretty much everything
 
-[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
+[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> We're going to need default hard budget caps on pretty much everything
+
+---
+
+### 2. September sponsors-only newsletter
+
+[September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> September sponsors-only newsletter
+
+---
+
+### 3. Rex's Dino Store
+
+[Rex's Dino Store](https://simonwillison.net/2026/Oct/2/rex-s-dino-store/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> Rex's Dino Store
+
+---
+
+### 4. Superpersuasion will look like bribery
+
+[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Superpersuasion will look like bribery
 
 ---
 
-### 2. Shipping is the foundation
+### 5. Shipping is the foundation
 
-[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
+[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Shipping is the foundation
 
 ---
 
-### 3. Do not build the LLM torture factory
+### 6. WorkOS
 
-[Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> Do not build the LLM torture factory
+> WorkOS
 
 ---
 
-### 4. ★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok
+### 7. Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement
 
-[★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement
+
+---
+
+### 8. ★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok
+
+[★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok
 
 ---
 
-### 5. Yankees Sweep Boston in Two Games, by Combined Score of 18-2
+### 9. Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it
 
-[Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep) — **idiallo.com** · 12 小时前 · ⭐ 15/30
 
-> Yankees Sweep Boston in Two Games, by Combined Score of 18-2
+> Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it
 
 ---
 
-### 6. Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)
+### 10. Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)
 
-[Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) — **pluralistic.net** · 2 小时前 · ⭐ 15/30
+[Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)
 
 ---
 
-### 7. Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)
+### 11. My Pitch for the New Season of Doctor Who
 
-[Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](https://pluralistic.net/2026/10/01/data-centers/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
+[My Pitch for the New Season of Doctor Who](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
 
-> Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)
-
----
-
-### 8. Gadget Review: Una Watch ★★★★☆
-
-[Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Gadget Review: Una Watch ★★★★☆
+> My Pitch for the New Season of Doctor Who
 
 ---
 
-### 9. Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality
+### 12. Miquel’s pentagon theorem
 
-[Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality) — **gilesthomas.com** · 1 天前 · ⭐ 15/30
+[Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — **johndcook.com** · 2 小时前 · ⭐ 15/30
 
-> Why do OpenAI's GPT-2 weights beat mine?  Part five: data quality
-
----
-
-### 10. The Brain Sandwich
-
-[The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/) — **terriblesoftware.org** · 1 天前 · ⭐ 15/30
-
-> The Brain Sandwich
+> Miquel’s pentagon theorem
 
 ---
 
-### 11. This Week in Package Management: 3 October 2026
+### 13. Topological models of modal logic
 
-[This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html) — **nesbitt.io** · 4 小时前 · ⭐ 15/30
+[Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/) — **johndcook.com** · 2 小时前 · ⭐ 15/30
 
-> This Week in Package Management: 3 October 2026
-
----
-
-### 12. Reading List 2026-10-03
-
-[Reading List 2026-10-03](https://www.construction-physics.com/p/reading-list-2026-10-03) — **construction-physics.com** · 1 小时前 · ⭐ 15/30
-
-> Reading List 2026-10-03
+> Topological models of modal logic
 
 ---
 
-### 13. Si Sheppard – How did a few hundred Spanish soldiers topple two empires?
+### 14. Modal logic and topology
 
-[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard) — **dwarkesh.com** · 1 天前 · ⭐ 15/30
+[Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/) — **johndcook.com** · 2 小时前 · ⭐ 15/30
 
-> Si Sheppard – How did a few hundred Spanish soldiers topple two empires?
-
----
-
-### 14. Premium: How Has AI Changed The Economy?
-
-[Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/) — **wheresyoured.at** · 19 小时前 · ⭐ 15/30
-
-> Premium: How Has AI Changed The Economy?
+> Modal logic and topology
 
 ---
 
-### 15. Cull lumber at Menards
+### 15. Miquel’s pivot theorem
 
-[Cull lumber at Menards](https://dfarq.homeip.net/cull-lumber-at-menards/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cull-lumber-at-menards) — **dfarq.homeip.net** · 3 小时前 · ⭐ 15/30
+[Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/) — **johndcook.com** · 16 小时前 · ⭐ 15/30
 
-> Cull lumber at Menards
+> Miquel’s pivot theorem
 
 ---
 
-*生成于 2026-10-03 14:27 | 扫描 82 源 → 获取 2314 篇 → 精选 15 篇*
+*生成于 2026-10-04 15:01 | 扫描 82 源 → 获取 2314 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
