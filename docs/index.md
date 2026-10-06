@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-05
+# 📰 AI 博客每日精选 — 2026-10-06
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Qwen3.8 27B addition in words**
+🥇 **Scrimshaw Jukebox**
 
-[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — simonwillison.net · 19 小时前 · 📝 其他
+[Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — simonwillison.net · 1 小时前 · 📝 其他
+
+> Scrimshaw Jukebox
+
+🥈 **Quoting Felix Rieseberg**
+
+[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — simonwillison.net · 16 小时前 · 📝 其他
+
+> Quoting Felix Rieseberg
+
+🥉 **Qwen3.8 27B addition in words**
+
+[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Qwen3.8 27B addition in words
-
-🥈 **We're going to need default hard budget caps on pretty much everything**
-
-[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — simonwillison.net · 1 天前 · 📝 其他
-
-> We're going to need default hard budget caps on pretty much everything
-
-🥉 **September sponsors-only newsletter**
-
-[September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/) — simonwillison.net · 1 天前 · 📝 其他
-
-> September sponsors-only newsletter
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2314 篇 → 20 篇 | 48h | **15 篇** |
+| 83/92 | 2344 篇 → 24 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Qwen3.8 27B addition in words
+### 1. Scrimshaw Jukebox
 
-[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+[Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — **simonwillison.net** · 1 小时前 · ⭐ 15/30
+
+> Scrimshaw Jukebox
+
+---
+
+### 2. Quoting Felix Rieseberg
+
+[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> Quoting Felix Rieseberg
+
+---
+
+### 3. Qwen3.8 27B addition in words
+
+[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Qwen3.8 27B addition in words
 
 ---
 
-### 2. We're going to need default hard budget caps on pretty much everything
+### 4. Steve Jobs, Walking Through a Mockup for Apple Park in 2010
 
-[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Steve Jobs, Walking Through a Mockup for Apple Park in 2010](https://book.stevejobsarchive.com/#photo-37) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
 
-> We're going to need default hard budget caps on pretty much everything
-
----
-
-### 3. September sponsors-only newsletter
-
-[September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> September sponsors-only newsletter
+> Steve Jobs, Walking Through a Mockup for Apple Park in 2010
 
 ---
 
-### 4. WorkOS
+### 5. [Sponsor] Sunnny
 
-[WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[[Sponsor] Sunnny](https://sunnny.com/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
 
-> WorkOS
-
----
-
-### 5. Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it
-
-[Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it
+> [Sponsor] Sunnny
 
 ---
 
-### 6. The indicators of a quality website (somewhat silly)
+### 6. OpenAI Announces Their Text Watermarking Plans
 
-[The indicators of a quality website (somewhat silly)](https://maurycyz.com/misc/quality/indicators.html) — **maurycyz.com** · 1 天前 · ⭐ 15/30
+[OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
 
-> The indicators of a quality website (somewhat silly)
+> OpenAI Announces Their Text Watermarking Plans
 
 ---
 
-### 7. [RSS Club] Changes to the RSS and Atom feeds
+### 7. Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death
 
-[[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — **shkspr.mobi** · 7 小时前 · ⭐ 15/30
+[Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death
+
+---
+
+### 8. Pluralistic: Swapping money for expertise (06 Oct 2026)
+
+[Pluralistic: Swapping money for expertise (06 Oct 2026)](https://pluralistic.net/2026/10/06/nonfungible/) — **pluralistic.net** · 3 小时前 · ⭐ 15/30
+
+> Pluralistic: Swapping money for expertise (06 Oct 2026)
+
+---
+
+### 9. Pluralistic: Scrutinized (05 Oct 2026)
+
+[Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/) — **pluralistic.net** · 21 小时前 · ⭐ 15/30
+
+> Pluralistic: Scrutinized (05 Oct 2026)
+
+---
+
+### 10. Una Watch - SDK and Writing Your First App
+
+[Una Watch - SDK and Writing Your First App](https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/) — **shkspr.mobi** · 4 小时前 · ⭐ 15/30
+
+> Una Watch - SDK and Writing Your First App
+
+---
+
+### 11. [RSS Club] Changes to the RSS and Atom feeds
+
+[[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > [RSS Club] Changes to the RSS and Atom feeds
 
 ---
 
-### 8. My Pitch for the New Season of Doctor Who
+### 12. If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?
 
-[My Pitch for the New Season of Doctor Who](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?](https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
 
-> My Pitch for the New Season of Doctor Who
-
----
-
-### 9. How to Solve: AAC Heavyweight M1 (Savage)
-
-[How to Solve: AAC Heavyweight M1 (Savage)](https://xeiaso.net/blog/2026/m9s/) — **xeiaso.net** · 1 天前 · ⭐ 15/30
-
-> How to Solve: AAC Heavyweight M1 (Savage)
+> If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?
 
 ---
 
-### 10. Miquel’s pentagon theorem
+### 13. What is Codemode
 
-[Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — **johndcook.com** · 1 天前 · ⭐ 15/30
+[What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) — **lucumr.pocoo.org** · 16 小时前 · ⭐ 15/30
 
-> Miquel’s pentagon theorem
-
----
-
-### 11. Topological models of modal logic
-
-[Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Topological models of modal logic
-
----
-
-### 12. Modal logic and topology
-
-[Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Modal logic and topology
-
----
-
-### 13. Miquel’s pivot theorem
-
-[Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/) — **johndcook.com** · 1 天前 · ⭐ 15/30
-
-> Miquel’s pivot theorem
+> What is Codemode
 
 ---
 
 ### 14. Benchmark In Milliseconds
 
-[Benchmark In Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) — **matklad.github.io** · 18 小时前 · ⭐ 15/30
+[Benchmark In Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
 
 > Benchmark In Milliseconds
 
 ---
 
-### 15. “I’m Embarrassed on Behalf of the Tech Industry”
+### 15. Missing Link
 
-[“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/) — **blog.jim-nielsen.com** · 23 小时前 · ⭐ 15/30
+[Missing Link](https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance) — **tedium.co** · 13 小时前 · ⭐ 15/30
 
-> “I’m Embarrassed on Behalf of the Tech Industry”
+> Missing Link
 
 ---
 
-*生成于 2026-10-05 18:54 | 扫描 82 源 → 获取 2314 篇 → 精选 15 篇*
+*生成于 2026-10-06 16:20 | 扫描 83 源 → 获取 2344 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
