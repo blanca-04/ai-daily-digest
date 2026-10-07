@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-06
+# 📰 AI 博客每日精选 — 2026-10-07
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Scrimshaw Jukebox**
+🥇 **Anti-Patterns in Software Blogging**
 
-[Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — simonwillison.net · 1 小时前 · 📝 其他
+[Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/) — simonwillison.net · 2 小时前 · 📝 其他
 
-> Scrimshaw Jukebox
+> Anti-Patterns in Software Blogging
 
-🥈 **Quoting Felix Rieseberg**
+🥈 **Quoting Jake Boggan**
 
-[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — simonwillison.net · 16 小时前 · 📝 其他
+[Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — simonwillison.net · 12 小时前 · 📝 其他
 
-> Quoting Felix Rieseberg
+> Quoting Jake Boggan
 
-🥉 **Qwen3.8 27B addition in words**
+🥉 **OpenAI “rogue” agent activities found on Wikimedia projects**
 
-[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — simonwillison.net · 1 天前 · 📝 其他
+[OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — simonwillison.net · 16 小时前 · 📝 其他
 
-> Qwen3.8 27B addition in words
+> OpenAI “rogue” agent activities found on Wikimedia projects
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2344 篇 → 24 篇 | 48h | **15 篇** |
+| 83/92 | 2346 篇 → 38 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Scrimshaw Jukebox
+### 1. Anti-Patterns in Software Blogging
 
-[Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — **simonwillison.net** · 1 小时前 · ⭐ 15/30
+[Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/) — **simonwillison.net** · 2 小时前 · ⭐ 15/30
+
+> Anti-Patterns in Software Blogging
+
+---
+
+### 2. Quoting Jake Boggan
+
+[Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — **simonwillison.net** · 12 小时前 · ⭐ 15/30
+
+> Quoting Jake Boggan
+
+---
+
+### 3. OpenAI “rogue” agent activities found on Wikimedia projects
+
+[OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> OpenAI “rogue” agent activities found on Wikimedia projects
+
+---
+
+### 4. Quoting Victoria Kim
+
+[Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> Quoting Victoria Kim
+
+---
+
+### 5. llm-openai-decisions 0.1a0
+
+[llm-openai-decisions 0.1a0](https://simonwillison.net/2026/Oct/6/llm-openai-decisions/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> llm-openai-decisions 0.1a0
+
+---
+
+### 6. llm-mistral 0.16
+
+[llm-mistral 0.16](https://simonwillison.net/2026/Oct/6/llm-mistral/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> llm-mistral 0.16
+
+---
+
+### 7. EmbeddingGemma 2
+
+[EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> EmbeddingGemma 2
+
+---
+
+### 8. Introducing Mistral Large 4: Le chonk
+
+[Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Introducing Mistral Large 4: Le chonk
+
+---
+
+### 9. Using Parseable with Datasette for OpenTelemetry traces
+
+[Using Parseable with Datasette for OpenTelemetry traces](https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> Using Parseable with Datasette for OpenTelemetry traces
+
+---
+
+### 10. Mistral Large 4
+
+[Mistral Large 4](https://simonwillison.net/2026/Oct/6/hn-49982139/) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> Mistral Large 4
+
+---
+
+### 11. datasette-atom 0.11a0
+
+[datasette-atom 0.11a0](https://simonwillison.net/2026/Oct/6/datasette-atom/) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+
+> datasette-atom 0.11a0
+
+---
+
+### 12. Scrimshaw Jukebox
+
+[Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Scrimshaw Jukebox
 
 ---
 
-### 2. Quoting Felix Rieseberg
+### 13. Quoting Felix Rieseberg
 
-[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quoting Felix Rieseberg
 
 ---
 
-### 3. Qwen3.8 27B addition in words
+### 14. How to read code
 
-[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[How to read code](https://seangoedecke.com/how-to-read-code/) — **seangoedecke.com** · 17 小时前 · ⭐ 15/30
 
-> Qwen3.8 27B addition in words
-
----
-
-### 4. Steve Jobs, Walking Through a Mockup for Apple Park in 2010
-
-[Steve Jobs, Walking Through a Mockup for Apple Park in 2010](https://book.stevejobsarchive.com/#photo-37) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
-
-> Steve Jobs, Walking Through a Mockup for Apple Park in 2010
+> How to read code
 
 ---
 
-### 5. [Sponsor] Sunnny
+### 15. ShinyHunters Extorted Boeing Spin-off Prior to Arrests
 
-[[Sponsor] Sunnny](https://sunnny.com/) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) — **krebsonsecurity.com** · 3 小时前 · ⭐ 15/30
 
-> [Sponsor] Sunnny
-
----
-
-### 6. OpenAI Announces Their Text Watermarking Plans
-
-[OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
-
-> OpenAI Announces Their Text Watermarking Plans
+> ShinyHunters Extorted Boeing Spin-off Prior to Arrests
 
 ---
 
-### 7. Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death
-
-[Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
-
-> Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death
-
----
-
-### 8. Pluralistic: Swapping money for expertise (06 Oct 2026)
-
-[Pluralistic: Swapping money for expertise (06 Oct 2026)](https://pluralistic.net/2026/10/06/nonfungible/) — **pluralistic.net** · 3 小时前 · ⭐ 15/30
-
-> Pluralistic: Swapping money for expertise (06 Oct 2026)
-
----
-
-### 9. Pluralistic: Scrutinized (05 Oct 2026)
-
-[Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/) — **pluralistic.net** · 21 小时前 · ⭐ 15/30
-
-> Pluralistic: Scrutinized (05 Oct 2026)
-
----
-
-### 10. Una Watch - SDK and Writing Your First App
-
-[Una Watch - SDK and Writing Your First App](https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/) — **shkspr.mobi** · 4 小时前 · ⭐ 15/30
-
-> Una Watch - SDK and Writing Your First App
-
----
-
-### 11. [RSS Club] Changes to the RSS and Atom feeds
-
-[[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> [RSS Club] Changes to the RSS and Atom feeds
-
----
-
-### 12. If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?
-
-[If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?](https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/) — **devblogs.microsoft.com/oldnewthing** · 1 天前 · ⭐ 15/30
-
-> If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?
-
----
-
-### 13. What is Codemode
-
-[What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) — **lucumr.pocoo.org** · 16 小时前 · ⭐ 15/30
-
-> What is Codemode
-
----
-
-### 14. Benchmark In Milliseconds
-
-[Benchmark In Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) — **matklad.github.io** · 1 天前 · ⭐ 15/30
-
-> Benchmark In Milliseconds
-
----
-
-### 15. Missing Link
-
-[Missing Link](https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance) — **tedium.co** · 13 小时前 · ⭐ 15/30
-
-> Missing Link
-
----
-
-*生成于 2026-10-06 16:20 | 扫描 83 源 → 获取 2344 篇 → 精选 15 篇*
+*生成于 2026-10-07 17:03 | 扫描 83 源 → 获取 2346 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
