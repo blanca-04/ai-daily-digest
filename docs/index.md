@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-20
+# 📰 AI 博客每日精选 — 2026-10-21
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **My obituary for programming**
+🥇 **eMudhra Intermediate CA Compromise**
 
-[My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — simonwillison.net · 14 小时前 · 📝 其他
+[eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) — simonwillison.net · 14 小时前 · 📝 其他
+
+> eMudhra Intermediate CA Compromise
+
+🥈 **Battle Drones - a vibe coded RTS with audio-based multiplayer**
+
+[Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) — simonwillison.net · 19 小时前 · 📝 其他
+
+> Battle Drones - a vibe coded RTS with audio-based multiplayer
+
+🥉 **My obituary for programming**
+
+[My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — simonwillison.net · 1 天前 · 📝 其他
 
 > My obituary for programming
-
-🥈 **llm-tools-datasette 0.1.1**
-
-[llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — simonwillison.net · 1 天前 · 📝 其他
-
-> llm-tools-datasette 0.1.1
-
-🥉 **llm-echo 0.5**
-
-[llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) — simonwillison.net · 1 天前 · 📝 其他
-
-> llm-echo 0.5
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2507 篇 → 36 篇 | 48h | **15 篇** |
+| 82/92 | 2527 篇 → 27 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. My obituary for programming
+### 1. eMudhra Intermediate CA Compromise
 
-[My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+[eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> eMudhra Intermediate CA Compromise
+
+---
+
+### 2. Battle Drones - a vibe coded RTS with audio-based multiplayer
+
+[Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Battle Drones - a vibe coded RTS with audio-based multiplayer
+
+---
+
+### 3. My obituary for programming
+
+[My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > My obituary for programming
 
 ---
 
-### 2. llm-tools-datasette 0.1.1
+### 4. Upgrade your PHP installs immediately to protect against php2shell
 
-[llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Upgrade your PHP installs immediately to protect against php2shell](https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/) — **jeffgeerling.com** · 33 分钟前 · ⭐ 15/30
 
-> llm-tools-datasette 0.1.1
-
----
-
-### 3. llm-echo 0.5
-
-[llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> llm-echo 0.5
+> Upgrade your PHP installs immediately to protect against php2shell
 
 ---
 
-### 4. Laypeople support technical fields for technology, not art
+### 5. Laypeople support technical fields for technology, not art
 
-[Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) — **seangoedecke.com** · 14 小时前 · ⭐ 15/30
+[Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Laypeople support technical fields for technology, not art
 
 ---
 
-### 5. What requirements don't you have?
+### 6. [Sponsor] Sunnny
 
-[What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> What requirements don't you have?
-
----
-
-### 6. Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
-
-[Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) — **krebsonsecurity.com** · 1 天前 · ⭐ 15/30
-
-> Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
-
----
-
-### 7. [Sponsor] Sunnny
-
-[[Sponsor] Sunnny](https://sunnny.com/) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
+[[Sponsor] Sunnny](https://sunnny.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > [Sponsor] Sunnny
 
 ---
 
-### 8. Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar
+### 7. Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar
 
-[Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) — **daringfireball.net** · 13 小时前 · ⭐ 15/30
+[Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar
 
 ---
 
-### 9. From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?
+### 8. From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?
 
-[From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?](https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+[From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?](https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?
 
 ---
 
-### 10. Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’
+### 9. Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’
 
-[Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’
 
 ---
 
-### 11. ★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos
+### 10. ★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos
 
-[★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos](https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+[★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos](https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos
 
 ---
 
-### 12. Netflix Shitcanned Film Chief Dan Lin Too
+### 11. Netflix Shitcanned Film Chief Dan Lin Too
 
-[Netflix Shitcanned Film Chief Dan Lin Too](https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Netflix Shitcanned Film Chief Dan Lin Too](https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Netflix Shitcanned Film Chief Dan Lin Too
 
 ---
 
-### 13. Ex-Apple Employee Fred Potter on HomeView
+### 12. Ex-Apple Employee Fred Potter on HomeView
 
-[Ex-Apple Employee Fred Potter on HomeView](https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[Ex-Apple Employee Fred Potter on HomeView](https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Ex-Apple Employee Fred Potter on HomeView
 
 ---
 
-### 14. Netflix Lays Off 6 Percent of Staff
+### 13. Netflix Lays Off 6 Percent of Staff
 
-[Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Netflix Lays Off 6 Percent of Staff
 
 ---
 
-### 15. Time Magazine Profiles John Ternus
+### 14. Time Magazine Profiles John Ternus
 
-[Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Time Magazine Profiles John Ternus
 
 ---
 
-*生成于 2026-10-20 14:32 | 扫描 82 源 → 获取 2507 篇 → 精选 15 篇*
+### 15. Pluralistic: The death of history's most successful publisher (20 Oct 2026)
+
+[Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/) — **pluralistic.net** · 21 小时前 · ⭐ 15/30
+
+> Pluralistic: The death of history's most successful publisher (20 Oct 2026)
+
+---
+
+*生成于 2026-10-21 14:43 | 扫描 82 源 → 获取 2527 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
