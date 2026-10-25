@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-24
+# 📰 AI 博客每日精选 — 2026-10-25
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Quick Study**
+🥇 **battledrones v14: Compass Rose, a four player map**
 
-[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — simonwillison.net · 16 小时前 · 📝 其他
+[battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/) — simonwillison.net · 1 天前 · 📝 其他
+
+> battledrones v14: Compass Rose, a four player map
+
+🥈 **Quick Study**
+
+[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Quick Study
 
-🥈 **Introducing Kimi K3.1 Pro**
+🥉 **Introducing Kimi K3.1 Pro**
 
-[Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — simonwillison.net · 18 小时前 · 📝 其他
+[Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — simonwillison.net · 1 天前 · 📝 其他
 
 > Introducing Kimi K3.1 Pro
-
-🥉 **DE STAAT - FREEDOM (Official Music Video)**
-
-[DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — simonwillison.net · 1 天前 · 📝 其他
-
-> DE STAAT - FREEDOM (Official Music Video)
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2564 篇 → 32 篇 | 48h | **15 篇** |
+| 84/92 | 2566 篇 → 31 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Quick Study
+### 1. battledrones v14: Compass Rose, a four player map
 
-[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> battledrones v14: Compass Rose, a four player map
+
+---
+
+### 2. Quick Study
+
+[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Quick Study
 
 ---
 
-### 2. Introducing Kimi K3.1 Pro
+### 3. Introducing Kimi K3.1 Pro
 
-[Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Introducing Kimi K3.1 Pro
 
 ---
 
-### 3. DE STAAT - FREEDOM (Official Music Video)
+### 4. Don't anthropomorphize big tech companies
 
-[DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — **seangoedecke.com** · 13 小时前 · ⭐ 15/30
 
-> DE STAAT - FREEDOM (Official Music Video)
-
----
-
-### 4. Donating Agent Skills to the Agentic AI Foundation
-
-[Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Donating Agent Skills to the Agentic AI Foundation
+> Don't anthropomorphize big tech companies
 
 ---
 
-### 5. Quoting Armin Ronacher
+### 5. Nicole Nguyen’s Duo Review for the WSJ
 
-[Quoting Armin Ronacher](https://simonwillison.net/2026/Oct/22/armin-ronacher/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Quoting Armin Ronacher
-
----
-
-### 6. Ubiquiti's $99 Vape Detector is actually pretty good
-
-[Ubiquiti's $99 Vape Detector is actually pretty good](https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Ubiquiti's $99 Vape Detector is actually pretty good
+> Nicole Nguyen’s Duo Review for the WSJ
 
 ---
 
-### 7. Software is slow because of bad design, not slow languages
+### 6. Reuters and the WSJ on the Duo Launch
 
-[Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Reuters and the WSJ on the Duo Launch](https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
 
-> Software is slow because of bad design, not slow languages
+> Reuters and the WSJ on the Duo Launch
 
 ---
 
-### 8. The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’
+### 7. Marion Barry Meets the iPhone Duo
 
-[The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen) — **daringfireball.net** · 16 小时前 · ⭐ 15/30
+
+> Marion Barry Meets the iPhone Duo
+
+---
+
+### 8. MKBHD’s Duo Review
+
+[MKBHD’s Duo Review](https://youtu.be/ESABTN4VtrA) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+
+> MKBHD’s Duo Review
+
+---
+
+### 9. Tim Pan’s iPhone Duo Review
+
+[Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+
+> Tim Pan’s iPhone Duo Review
+
+---
+
+### 10. Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page
+
+[Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page](https://music.apple.com/404) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page
+
+---
+
+### 11. Chan Karunamuni on the Duo’s Open/Close Translucent Transition
+
+[Chan Karunamuni on the Duo’s Open/Close Translucent Transition](https://x.com/chan_k/status/2113622379050246243) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Chan Karunamuni on the Duo’s Open/Close Translucent Transition
+
+---
+
+### 12. The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’
+
+[The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’
 
 ---
 
-### 9. Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’
+### 13. Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’
 
-[Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’
 
 ---
 
-### 10. Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo
+### 14. Pluralistic: Critique and writing (23 Oct 2026)
 
-[Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo
-
----
-
-### 11. Updates to My iPhone Duo Review
-
-[Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Updates to My iPhone Duo Review
-
----
-
-### 12. Productivity
-
-[Productivity](https://idiallo.com/byte-size/productivity-video) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> Productivity
-
----
-
-### 13. Pluralistic: Critique and writing (23 Oct 2026)
-
-[Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/) — **pluralistic.net** · 16 小时前 · ⭐ 15/30
+[Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Critique and writing (23 Oct 2026)
 
 ---
 
-### 14. Book Review: Get Ahead of Being Dead by Evie King ★★★★☆
+### 15. Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪
 
-[Book Review: Get Ahead of Being Dead by Evie King ★★★★☆](https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/) — **shkspr.mobi** · 2 小时前 · ⭐ 15/30
+[Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) — **shkspr.mobi** · 1 小时前 · ⭐ 15/30
 
-> Book Review: Get Ahead of Being Dead by Evie King ★★★★☆
-
----
-
-### 15. More phishing messages via Booking.com and Novotel
-
-[More phishing messages via Booking.com and Novotel](https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> More phishing messages via Booking.com and Novotel
+> Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪
 
 ---
 
-*生成于 2026-10-24 13:41 | 扫描 84 源 → 获取 2564 篇 → 精选 15 篇*
+*生成于 2026-10-25 13:59 | 扫描 84 源 → 获取 2566 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
