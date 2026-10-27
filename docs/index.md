@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-26
+# 📰 AI 博客每日精选 — 2026-10-27
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Seam Cutter**
+🥇 **GPT-6.1 Terra**
 
-[Seam Cutter](https://simonwillison.net/2026/Oct/25/seam-cutter/) — simonwillison.net · 1 天前 · 📝 其他
+[GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Seam Cutter
+> GPT-6.1 Terra
 
-🥈 **Don't anthropomorphize big tech companies**
+🥈 **Quoting Jason Koebler**
 
-[Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — seangoedecke.com · 1 天前 · 📝 其他
+[Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) — simonwillison.net · 20 小时前 · 📝 其他
 
-> Don't anthropomorphize big tech companies
+> Quoting Jason Koebler
 
-🥉 **Tiny Computers for iPhone Duo**
+🥉 **webframe: evaluated as a scraper and a sandbox**
 
-[Tiny Computers for iPhone Duo](https://www.fountaininteractive.com/TinyComputers/) — daringfireball.net · 1 小时前 · 📝 其他
+[webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation/) — simonwillison.net · 23 小时前 · 📝 其他
 
-> Tiny Computers for iPhone Duo
+> webframe: evaluated as a scraper and a sandbox
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2564 篇 → 30 篇 | 48h | **15 篇** |
+| 83/92 | 2534 篇 → 32 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Seam Cutter
+### 1. GPT-6.1 Terra
 
-[Seam Cutter](https://simonwillison.net/2026/Oct/25/seam-cutter/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
 
-> Seam Cutter
-
----
-
-### 2. Don't anthropomorphize big tech companies
-
-[Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Don't anthropomorphize big tech companies
+> GPT-6.1 Terra
 
 ---
 
-### 3. Tiny Computers for iPhone Duo
+### 2. Quoting Jason Koebler
 
-[Tiny Computers for iPhone Duo](https://www.fountaininteractive.com/TinyComputers/) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
+[Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> Quoting Jason Koebler
+
+---
+
+### 3. webframe: evaluated as a scraper and a sandbox
+
+[webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation/) — **simonwillison.net** · 23 小时前 · ⭐ 15/30
+
+> webframe: evaluated as a scraper and a sandbox
+
+---
+
+### 4. The NYT Seemingly Does Marissa Mayer Dirty
+
+[The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> The NYT Seemingly Does Marissa Mayer Dirty
+
+---
+
+### 5. Apple Issues Statement on iPhone Duo’s Crack Problem
+
+[Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) — **daringfireball.net** · 15 小时前 · ⭐ 15/30
+
+> Apple Issues Statement on iPhone Duo’s Crack Problem
+
+---
+
+### 6. Glenn Fleishman on Apple Notes and Markdown
+
+[Glenn Fleishman on Apple Notes and Markdown](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+
+> Glenn Fleishman on Apple Notes and Markdown
+
+---
+
+### 7. ★ Apple Announces New A20 Pro iPad Mini
+
+[★ Apple Announces New A20 Pro iPad Mini](https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+
+> ★ Apple Announces New A20 Pro iPad Mini
+
+---
+
+### 8. A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It
+
+[A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It
+
+---
+
+### 9. Tiny Computers for iPhone Duo
+
+[Tiny Computers for iPhone Duo](https://www.fountaininteractive.com/TinyComputers/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Tiny Computers for iPhone Duo
 
 ---
 
-### 4. Sunnny
+### 10. Sunnny
 
-[Sunnny](https://sunnny.com/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Sunnny](https://sunnny.com/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Sunnny
 
 ---
 
-### 5. Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy
+### 11. Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy
 
-[Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) — **daringfireball.net** · 18 小时前 · ⭐ 15/30
+[Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy
 
 ---
 
-### 6. The Talk Show: ‘Lubricate the Inside of the Hinge’
+### 12. The Talk Show: ‘Lubricate the Inside of the Hinge’
 
-[The Talk Show: ‘Lubricate the Inside of the Hinge’](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[The Talk Show: ‘Lubricate the Inside of the Hinge’](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Talk Show: ‘Lubricate the Inside of the Hinge’
 
 ---
 
-### 7. iPhone Portrait Mode, 10 Years In
+### 13. iPhone Portrait Mode, 10 Years In
 
-[iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > iPhone Portrait Mode, 10 Years In
 
 ---
 
-### 8. Nicole Nguyen’s Duo Review for the WSJ
+### 14. Pluralistic: History is something you do (27 Oct 2026)
 
-[Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/) — **pluralistic.net** · 6 小时前 · ⭐ 15/30
 
-> Nicole Nguyen’s Duo Review for the WSJ
-
----
-
-### 9. Reuters and the WSJ on the Duo Launch
-
-[Reuters and the WSJ on the Duo Launch](https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Reuters and the WSJ on the Duo Launch
+> Pluralistic: History is something you do (27 Oct 2026)
 
 ---
 
-### 10. Marion Barry Meets the iPhone Duo
+### 15. Pluralistic: Sovereign citizens, but for news (26 Oct 2026)
 
-[Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Marion Barry Meets the iPhone Duo
-
----
-
-### 11. MKBHD’s Duo Review
-
-[MKBHD’s Duo Review](https://youtu.be/ESABTN4VtrA) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> MKBHD’s Duo Review
-
----
-
-### 12. Tim Pan’s iPhone Duo Review
-
-[Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Tim Pan’s iPhone Duo Review
-
----
-
-### 13. Pluralistic: Sovereign citizens, but for news (26 Oct 2026)
-
-[Pluralistic: Sovereign citizens, but for news (26 Oct 2026)](https://pluralistic.net/2026/10/26/abandon-hope/) — **pluralistic.net** · 33 分钟前 · ⭐ 15/30
+[Pluralistic: Sovereign citizens, but for news (26 Oct 2026)](https://pluralistic.net/2026/10/26/abandon-hope/) — **pluralistic.net** · 23 小时前 · ⭐ 15/30
 
 > Pluralistic: Sovereign citizens, but for news (26 Oct 2026)
 
 ---
 
-### 14. Theatre Review: Opera UnTouched's "The Telephone" ★★★★★
-
-[Theatre Review: Opera UnTouched's "The Telephone" ★★★★★](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
-
-> Theatre Review: Opera UnTouched's "The Telephone" ★★★★★
-
----
-
-### 15. Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪
-
-[Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪
-
----
-
-*生成于 2026-10-26 16:20 | 扫描 84 源 → 获取 2564 篇 → 精选 15 篇*
+*生成于 2026-10-27 15:35 | 扫描 83 源 → 获取 2534 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
