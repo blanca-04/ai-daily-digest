@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-10-31
+# 📰 AI 博客每日精选 — 2026-11-01
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **dbreunig/nesformer**
+🥇 **How We Took Over ChatGPT Accounts**
 
-[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — simonwillison.net · 17 小时前 · 📝 其他
+[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — simonwillison.net · 17 小时前 · 📝 其他
+
+> How We Took Over ChatGPT Accounts
+
+🥈 **datasette-llm 0.1a9**
+
+[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — simonwillison.net · 18 小时前 · 📝 其他
+
+> datasette-llm 0.1a9
+
+🥉 **dbreunig/nesformer**
+
+[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — simonwillison.net · 1 天前 · 📝 其他
 
 > dbreunig/nesformer
-
-🥈 **API credits benefit for eligible ChatGPT subscriptions**
-
-[API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) — simonwillison.net · 1 天前 · 📝 其他
-
-> API credits benefit for eligible ChatGPT subscriptions
-
-🥉 **Building a multiplayer game world with autonomous Fable-class models**
-
-[Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) — simonwillison.net · 1 天前 · 📝 其他
-
-> Building a multiplayer game world with autonomous Fable-class models
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 84/92 | 2565 篇 → 28 篇 | 48h | **15 篇** |
+| 82/92 | 2521 篇 → 22 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. dbreunig/nesformer
+### 1. How We Took Over ChatGPT Accounts
 
-[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> How We Took Over ChatGPT Accounts
+
+---
+
+### 2. datasette-llm 0.1a9
+
+[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+
+> datasette-llm 0.1a9
+
+---
+
+### 3. dbreunig/nesformer
+
+[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > dbreunig/nesformer
 
 ---
 
-### 2. API credits benefit for eligible ChatGPT subscriptions
+### 4. Fast and slow ways to improve your reputation
 
-[API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — **seangoedecke.com** · 16 小时前 · ⭐ 15/30
 
-> API credits benefit for eligible ChatGPT subscriptions
-
----
-
-### 3. Building a multiplayer game world with autonomous Fable-class models
-
-[Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Building a multiplayer game world with autonomous Fable-class models
+> Fast and slow ways to improve your reputation
 
 ---
 
-### 4. Rejoice, leap seconds are dead!
+### 5. Sponsorship Openings for Daring Fireball (Including The Talk Show)
 
-[Rejoice, leap seconds are dead!](https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/) — **jeffgeerling.com** · 1 天前 · ⭐ 15/30
-
-> Rejoice, leap seconds are dead!
-
----
-
-### 5. Elegance and intelligence are anticorrelated
-
-[Elegance and intelligence are anticorrelated](https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
-
-> Elegance and intelligence are anticorrelated
-
----
-
-### 6. Sponsorship Openings for Daring Fireball (Including The Talk Show)
-
-[Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Sponsorship Openings for Daring Fireball (Including The Talk Show)
 
 ---
 
-### 7. ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
+### 6. ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
 
-[★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — **daringfireball.net** · 17 小时前 · ⭐ 15/30
+[★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
 
 ---
 
-### 8. The Only Good Easter Eggs Are Whole-Assed Easter Eggs
+### 7. The Only Good Easter Eggs Are Whole-Assed Easter Eggs
 
-[The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
+[The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > The Only Good Easter Eggs Are Whole-Assed Easter Eggs
 
 ---
 
-### 9. GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
+### 8. GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
 
-[GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
 
 ---
 
-### 10. Patrick Stewart Dies at 86
+### 9. Patrick Stewart Dies at 86
 
-[Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Patrick Stewart Dies at 86
 
 ---
 
-### 11. Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan
+### 10. College will only cost $20 a month
 
-[Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan](https://developer.apple.com/news/?id=w9mxlhek) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan
-
----
-
-### 12. A Health Update From Craig Hockenberry
-
-[A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> A Health Update From Craig Hockenberry
-
----
-
-### 13. Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’
-
-[Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’
-
----
-
-### 14. College will only cost $20 a month
-
-[College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — **idiallo.com** · 15 小时前 · ⭐ 15/30
+[College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — **idiallo.com** · 1 天前 · ⭐ 15/30
 
 > College will only cost $20 a month
 
 ---
 
-### 15. Pluralistic: Formalities (31 Oct 2026)
+### 11. Pluralistic: Formalities (31 Oct 2026)
 
-[Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — **pluralistic.net** · 15 分钟前 · ⭐ 15/30
+[Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
 
 > Pluralistic: Formalities (31 Oct 2026)
 
 ---
 
-*生成于 2026-10-31 15:31 | 扫描 84 源 → 获取 2565 篇 → 精选 15 篇*
+### 12. 10 Years on Mastodon
+
+[10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
+
+> 10 Years on Mastodon
+
+---
+
+### 13. Gig Review: The Witcher in Concert ★★★★☆
+
+[Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+
+> Gig Review: The Witcher in Concert ★★★★☆
+
+---
+
+### 14. A Mastodon bot powered by iOS Shortcuts
+
+[A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — **evanhahn.com** · 5 小时前 · ⭐ 15/30
+
+> A Mastodon bot powered by iOS Shortcuts
+
+---
+
+### 15. Notes from October 2026
+
+[Notes from October 2026](https://evanhahn.com/notes-from-october-2026/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+
+> Notes from October 2026
+
+---
+
+*生成于 2026-11-01 16:30 | 扫描 82 源 → 获取 2521 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
