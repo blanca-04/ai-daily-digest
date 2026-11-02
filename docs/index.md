@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-11-01
+# 📰 AI 博客每日精选 — 2026-11-02
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **How We Took Over ChatGPT Accounts**
+🥇 **The U.S. Census Bureau and “Super Intelligence”**
 
-[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — simonwillison.net · 17 小时前 · 📝 其他
+[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — simonwillison.net · 6 小时前 · 📝 其他
 
-> How We Took Over ChatGPT Accounts
+> The U.S. Census Bureau and “Super Intelligence”
 
-🥈 **datasette-llm 0.1a9**
+🥈 **If in doubt, delete the uv.lock file**
 
-[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — simonwillison.net · 18 小时前 · 📝 其他
+[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — simonwillison.net · 20 小时前 · 📝 其他
 
-> datasette-llm 0.1a9
+> If in doubt, delete the uv.lock file
 
-🥉 **dbreunig/nesformer**
+🥉 **Quoting Kyle Kingsbury**
 
-[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — simonwillison.net · 1 天前 · 📝 其他
+[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — simonwillison.net · 1 天前 · 📝 其他
 
-> dbreunig/nesformer
+> Quoting Kyle Kingsbury
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2521 篇 → 22 篇 | 48h | **15 篇** |
+| 83/92 | 2551 篇 → 18 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. How We Took Over ChatGPT Accounts
+### 1. The U.S. Census Bureau and “Super Intelligence”
 
-[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — **simonwillison.net** · 6 小时前 · ⭐ 15/30
+
+> The U.S. Census Bureau and “Super Intelligence”
+
+---
+
+### 2. If in doubt, delete the uv.lock file
+
+[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> If in doubt, delete the uv.lock file
+
+---
+
+### 3. Quoting Kyle Kingsbury
+
+[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> Quoting Kyle Kingsbury
+
+---
+
+### 4. How We Took Over ChatGPT Accounts
+
+[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > How We Took Over ChatGPT Accounts
 
 ---
 
-### 2. datasette-llm 0.1a9
+### 5. datasette-llm 0.1a9
 
-[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — **simonwillison.net** · 18 小时前 · ⭐ 15/30
+[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette-llm 0.1a9
 
 ---
 
-### 3. dbreunig/nesformer
+### 6. Reliably aligning LLMs is impossible in principle
 
-[dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/) — **seangoedecke.com** · 19 小时前 · ⭐ 15/30
 
-> dbreunig/nesformer
+> Reliably aligning LLMs is impossible in principle
 
 ---
 
-### 4. Fast and slow ways to improve your reputation
+### 7. Fast and slow ways to improve your reputation
 
-[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — **seangoedecke.com** · 16 小时前 · ⭐ 15/30
+[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Fast and slow ways to improve your reputation
 
 ---
 
-### 5. Sponsorship Openings for Daring Fireball (Including The Talk Show)
+### 8. WorkOS: Let Agents Sign Up for Your App Without a Browser
 
-[Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
 
-> Sponsorship Openings for Daring Fireball (Including The Talk Show)
-
----
-
-### 6. ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
-
-[★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max
+> WorkOS: Let Agents Sign Up for Your App Without a Browser
 
 ---
 
-### 7. The Only Good Easter Eggs Are Whole-Assed Easter Eggs
+### 9. Pluralistic: Autodoxing (02 Nov 2026)
 
-[The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) — **pluralistic.net** · 11 小时前 · ⭐ 15/30
 
-> The Only Good Easter Eggs Are Whole-Assed Easter Eggs
-
----
-
-### 8. GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
-
-[GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy
+> Pluralistic: Autodoxing (02 Nov 2026)
 
 ---
 
-### 9. Patrick Stewart Dies at 86
+### 10. Lorem Ipsum Dot Gov Dot UK
 
-[Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) — **shkspr.mobi** · 7 小时前 · ⭐ 15/30
 
-> Patrick Stewart Dies at 86
-
----
-
-### 10. College will only cost $20 a month
-
-[College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — **idiallo.com** · 1 天前 · ⭐ 15/30
-
-> College will only cost $20 a month
+> Lorem Ipsum Dot Gov Dot UK
 
 ---
 
-### 11. Pluralistic: Formalities (31 Oct 2026)
+### 11. 10 Years on Mastodon
 
-[Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: Formalities (31 Oct 2026)
-
----
-
-### 12. 10 Years on Mastodon
-
-[10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
+[10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
 
 > 10 Years on Mastodon
 
 ---
 
-### 13. Gig Review: The Witcher in Concert ★★★★☆
+### 12. Sneaking into the auditorium for the Windows 2000 launch rehearsal
 
-[Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) — **devblogs.microsoft.com/oldnewthing** · 4 小时前 · ⭐ 15/30
 
-> Gig Review: The Witcher in Concert ★★★★☆
+> Sneaking into the auditorium for the Windows 2000 launch rehearsal
 
 ---
 
-### 14. A Mastodon bot powered by iOS Shortcuts
+### 13. Making peace with the projective plane
 
-[A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — **evanhahn.com** · 5 小时前 · ⭐ 15/30
+[Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) — **johndcook.com** · 5 小时前 · ⭐ 15/30
+
+> Making peace with the projective plane
+
+---
+
+### 14. A unified view of poles and polars
+
+[A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) — **johndcook.com** · 23 小时前 · ⭐ 15/30
+
+> A unified view of poles and polars
+
+---
+
+### 15. A Mastodon bot powered by iOS Shortcuts
+
+[A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
 
 > A Mastodon bot powered by iOS Shortcuts
 
 ---
 
-### 15. Notes from October 2026
-
-[Notes from October 2026](https://evanhahn.com/notes-from-october-2026/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
-
-> Notes from October 2026
-
----
-
-*生成于 2026-11-01 16:30 | 扫描 82 源 → 获取 2521 篇 → 精选 15 篇*
+*生成于 2026-11-02 19:51 | 扫描 83 源 → 获取 2551 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
