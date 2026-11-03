@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-11-02
+# 📰 AI 博客每日精选 — 2026-11-03
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **The U.S. Census Bureau and “Super Intelligence”**
+🥇 **Qwen 3.8 27B on my laptop can interpret model weights, too**
 
-[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — simonwillison.net · 6 小时前 · 📝 其他
+[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — simonwillison.net · 54 分钟前 · 📝 其他
 
-> The U.S. Census Bureau and “Super Intelligence”
+> Qwen 3.8 27B on my laptop can interpret model weights, too
 
-🥈 **If in doubt, delete the uv.lock file**
+🥈 **I discovered a sound that leaks your exact location (and it's everywhere) - YouTube**
 
-[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — simonwillison.net · 20 小时前 · 📝 其他
+[I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) — simonwillison.net · 11 小时前 · 📝 其他
 
-> If in doubt, delete the uv.lock file
+> I discovered a sound that leaks your exact location (and it's everywhere) - YouTube
 
-🥉 **Quoting Kyle Kingsbury**
+🥉 **October sponsors-only newsletter**
 
-[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — simonwillison.net · 1 天前 · 📝 其他
+[October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/) — simonwillison.net · 11 小时前 · 📝 其他
 
-> Quoting Kyle Kingsbury
+> October sponsors-only newsletter
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 83/92 | 2551 篇 → 18 篇 | 48h | **15 篇** |
+| 83/92 | 2551 篇 → 36 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. The U.S. Census Bureau and “Super Intelligence”
+### 1. Qwen 3.8 27B on my laptop can interpret model weights, too
 
-[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — **simonwillison.net** · 6 小时前 · ⭐ 15/30
+[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — **simonwillison.net** · 54 分钟前 · ⭐ 15/30
+
+> Qwen 3.8 27B on my laptop can interpret model weights, too
+
+---
+
+### 2. I discovered a sound that leaks your exact location (and it's everywhere) - YouTube
+
+[I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> I discovered a sound that leaks your exact location (and it's everywhere) - YouTube
+
+---
+
+### 3. October sponsors-only newsletter
+
+[October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/) — **simonwillison.net** · 11 小时前 · ⭐ 15/30
+
+> October sponsors-only newsletter
+
+---
+
+### 4. llm 0.37
+
+[llm 0.37](https://simonwillison.net/2026/Nov/2/llm/) — **simonwillison.net** · 17 小时前 · ⭐ 15/30
+
+> llm 0.37
+
+---
+
+### 5. The U.S. Census Bureau and “Super Intelligence”
+
+[The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > The U.S. Census Bureau and “Super Intelligence”
 
 ---
 
-### 2. If in doubt, delete the uv.lock file
+### 6. If in doubt, delete the uv.lock file
 
-[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > If in doubt, delete the uv.lock file
 
 ---
 
-### 3. Quoting Kyle Kingsbury
+### 7. LLMs are not superhuman at reading and writing neural network weights
 
-[Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) — **seangoedecke.com** · 17 小时前 · ⭐ 15/30
 
-> Quoting Kyle Kingsbury
-
----
-
-### 4. How We Took Over ChatGPT Accounts
-
-[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> How We Took Over ChatGPT Accounts
+> LLMs are not superhuman at reading and writing neural network weights
 
 ---
 
-### 5. datasette-llm 0.1a9
+### 8. Audience capture
 
-[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Audience capture](https://seangoedecke.com/audience-capture/) — **seangoedecke.com** · 17 小时前 · ⭐ 15/30
 
-> datasette-llm 0.1a9
+> Audience capture
 
 ---
 
-### 6. Reliably aligning LLMs is impossible in principle
+### 9. Reliably aligning LLMs is impossible in principle
 
-[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/) — **seangoedecke.com** · 19 小时前 · ⭐ 15/30
+[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Reliably aligning LLMs is impossible in principle
 
 ---
 
-### 7. Fast and slow ways to improve your reputation
+### 10. Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies
 
-[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/) — **krebsonsecurity.com** · 14 小时前 · ⭐ 15/30
 
-> Fast and slow ways to improve your reputation
-
----
-
-### 8. WorkOS: Let Agents Sign Up for Your App Without a Browser
-
-[WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026) — **daringfireball.net** · 23 小时前 · ⭐ 15/30
-
-> WorkOS: Let Agents Sign Up for Your App Without a Browser
+> Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies
 
 ---
 
-### 9. Pluralistic: Autodoxing (02 Nov 2026)
+### 11. The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training
 
-[Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) — **pluralistic.net** · 11 小时前 · ⭐ 15/30
+[The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
 
-> Pluralistic: Autodoxing (02 Nov 2026)
-
----
-
-### 10. Lorem Ipsum Dot Gov Dot UK
-
-[Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) — **shkspr.mobi** · 7 小时前 · ⭐ 15/30
-
-> Lorem Ipsum Dot Gov Dot UK
+> The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training
 
 ---
 
-### 11. 10 Years on Mastodon
+### 12. Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’
 
-[10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
+[Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’](https://www.macworld.com/article/208438/jobs_transcript.html) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
 
-> 10 Years on Mastodon
-
----
-
-### 12. Sneaking into the auditorium for the Windows 2000 launch rehearsal
-
-[Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) — **devblogs.microsoft.com/oldnewthing** · 4 小时前 · ⭐ 15/30
-
-> Sneaking into the auditorium for the Windows 2000 launch rehearsal
+> Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’
 
 ---
 
-### 13. Making peace with the projective plane
+### 13. Chance Miller Reviews the New A20 Pro iPad Mini
 
-[Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) — **johndcook.com** · 5 小时前 · ⭐ 15/30
+[Chance Miller Reviews the New A20 Pro iPad Mini](https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
 
-> Making peace with the projective plane
-
----
-
-### 14. A unified view of poles and polars
-
-[A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) — **johndcook.com** · 23 小时前 · ⭐ 15/30
-
-> A unified view of poles and polars
+> Chance Miller Reviews the New A20 Pro iPad Mini
 
 ---
 
-### 15. A Mastodon bot powered by iOS Shortcuts
+### 14. Apple’s Analyst Calls Have Been Scripted for Decades
 
-[A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+[Apple’s Analyst Calls Have Been Scripted for Decades](https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
 
-> A Mastodon bot powered by iOS Shortcuts
+> Apple’s Analyst Calls Have Been Scripted for Decades
 
 ---
 
-*生成于 2026-11-02 19:51 | 扫描 83 源 → 获取 2551 篇 → 精选 15 篇*
+### 15. Apple’s New iPhone Release Schedule Seems to Pay Off
+
+[Apple’s New iPhone Release Schedule Seems to Pay Off](https://x.com/asymco/status/2117379158087278697) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
+
+> Apple’s New iPhone Release Schedule Seems to Pay Off
+
+---
+
+*生成于 2026-11-03 17:24 | 扫描 83 源 → 获取 2551 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
