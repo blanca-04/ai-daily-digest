@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-11-08
+# 📰 AI 博客每日精选 — 2026-11-09
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages**
+🥇 **The Web Is More Than Enough, by Paul Ford**
 
-[datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — simonwillison.net · 16 小时前 · 📝 其他
+[The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages
+> The Web Is More Than Enough, by Paul Ford
 
-🥈 **Quoting Nilay Patel**
+🥈 **Hide your slop PR descriptions behind <details><summary>**
 
-[Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — simonwillison.net · 1 天前 · 📝 其他
+[Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Quoting Nilay Patel
+> Hide your slop PR descriptions behind <details><summary>
 
-🥉 **LLMs are terrible at designing AI systems**
+🥉 **parse_number() as a SQLite extension: C vs Rust**
 
-[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — seangoedecke.com · 16 小时前 · 📝 其他
+[parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) — simonwillison.net · 21 小时前 · 📝 其他
 
-> LLMs are terrible at designing AI systems
+> parse_number() as a SQLite extension: C vs Rust
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 82/92 | 2545 篇 → 18 篇 | 48h | **15 篇** |
+| 79/92 | 2471 篇 → 26 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages
+### 1. The Web Is More Than Enough, by Paul Ford
 
-[datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+[The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> The Web Is More Than Enough, by Paul Ford
+
+---
+
+### 2. Hide your slop PR descriptions behind <details><summary>
+
+[Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> Hide your slop PR descriptions behind <details><summary>
+
+---
+
+### 3. parse_number() as a SQLite extension: C vs Rust
+
+[parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) — **simonwillison.net** · 21 小时前 · ⭐ 15/30
+
+> parse_number() as a SQLite extension: C vs Rust
+
+---
+
+### 4. datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages
+
+[datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages
 
 ---
 
-### 2. Quoting Nilay Patel
+### 5. LLMs are terrible at designing AI systems
 
-[Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Quoting Nilay Patel
-
----
-
-### 3. LLMs are terrible at designing AI systems
-
-[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — **seangoedecke.com** · 16 小时前 · ⭐ 15/30
+[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > LLMs are terrible at designing AI systems
 
 ---
 
-### 4. Working with designers
+### 6. Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times
 
-[Working with designers](https://seangoedecke.com/working-with-designers/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
 
-> Working with designers
+> Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times
 
 ---
 
-### 5. Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays
+### 7. Jensen Huang Betrayed Nvidia, Not Just His Family
 
-[Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> Jensen Huang Betrayed Nvidia, Not Just His Family
+
+---
+
+### 8. Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing
+
+[Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+
+> Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing
+
+---
+
+### 9. Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays
+
+[Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays
 
 ---
 
-### 6. ★ Touch and Glow
+### 10. Horible public key tricks:
 
-[★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) — **daringfireball.net** · 1 天前 · ⭐ 15/30
+[Horible public key tricks:](https://maurycyz.com/projects/badcert/) — **maurycyz.com** · 1 天前 · ⭐ 15/30
 
-> ★ Touch and Glow
-
----
-
-### 7. Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)
-
-[Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/) — **pluralistic.net** · 1 天前 · ⭐ 15/30
-
-> Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)
+> Horible public key tricks:
 
 ---
 
-### 8. Some thoughts on restaurant menu QR codes
+### 11. Pluralistic: America cannot undo Trumpism (09 Nov 2026)
 
-[Some thoughts on restaurant menu QR codes](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) — **shkspr.mobi** · 3 小时前 · ⭐ 15/30
+[Pluralistic: America cannot undo Trumpism (09 Nov 2026)](https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/) — **pluralistic.net** · 12 小时前 · ⭐ 15/30
 
-> Some thoughts on restaurant menu QR codes
-
----
-
-### 9. Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★
-
-[Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★
+> Pluralistic: America cannot undo Trumpism (09 Nov 2026)
 
 ---
 
-### 10. Reverse engineering a vintage diode-transistor logic chip
+### 12. Optimal virulence and the Android lockdown
 
-[Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/feeds/7533579802505281921/comments/default) — **righto.com** · 12 分钟前 · ⭐ 15/30
+[Optimal virulence and the Android lockdown](https://dynomight.net/android/) — **dynomight.net** · 20 小时前 · ⭐ 15/30
+
+> Optimal virulence and the Android lockdown
+
+---
+
+### 13. Reverse engineering a vintage diode-transistor logic chip
+
+[Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/feeds/7533579802505281921/comments/default) — **righto.com** · 1 天前 · ⭐ 15/30
 
 > Reverse engineering a vintage diode-transistor logic chip
 
 ---
 
-### 11. Static site generators are weird
+### 14. AI and Irontown
 
-[Static site generators are weird](https://evanhahn.com/static-site-generators-are-weird/) — **evanhahn.com** · 1 天前 · ⭐ 15/30
+[AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/) — **lucumr.pocoo.org** · 20 小时前 · ⭐ 15/30
 
-> Static site generators are weird
-
----
-
-### 12. This Week in Package Management: 7 November 2026
-
-[This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html) — **nesbitt.io** · 1 天前 · ⭐ 15/30
-
-> This Week in Package Management: 7 November 2026
+> AI and Irontown
 
 ---
 
-### 13. Reading List 11/7/2026
+### 15. Steiner Systems
 
-[Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026) — **construction-physics.com** · 1 天前 · ⭐ 15/30
+[Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/) — **johndcook.com** · 3 小时前 · ⭐ 15/30
 
-> Reading List 11/7/2026
-
----
-
-### 14. Premium: Fault Lines
-
-[Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/) — **wheresyoured.at** · 1 天前 · ⭐ 15/30
-
-> Premium: Fault Lines
+> Steiner Systems
 
 ---
 
-### 15. The problem with Micron MT 4264 RAM
-
-[The problem with Micron MT 4264 RAM](https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-problem-with-micron-mt-4264-ram) — **dfarq.homeip.net** · 4 小时前 · ⭐ 15/30
-
-> The problem with Micron MT 4264 RAM
-
----
-
-*生成于 2026-11-08 16:25 | 扫描 82 源 → 获取 2545 篇 → 精选 15 篇*
+*生成于 2026-11-09 20:14 | 扫描 79 源 → 获取 2471 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
