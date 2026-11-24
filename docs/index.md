@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-11-23
+# 📰 AI 博客每日精选 — 2026-11-24
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Select Styling Specimens**
+🥇 **GPT 6.2 Astra Solves a Historical Mystery**
 
-[Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) — simonwillison.net · 1 天前 · 📝 其他
+[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) — simonwillison.net · 3 小时前 · 📝 其他
 
-> Select Styling Specimens
+> GPT 6.2 Astra Solves a Historical Mystery
 
-🥈 **Muru**
+🥈 **datasette-charts 0.2a0**
 
-[Muru](https://simonwillison.net/2026/Nov/21/muru/) — simonwillison.net · 1 天前 · 📝 其他
+[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — simonwillison.net · 15 小时前 · 📝 其他
 
-> Muru
+> datasette-charts 0.2a0
 
-🥉 **When in doubt, flail about**
+🥉 **datasette-agent 0.7a1**
 
-[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/) — seangoedecke.com · 21 小时前 · 📝 其他
+[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — simonwillison.net · 16 小时前 · 📝 其他
 
-> When in doubt, flail about
+> datasette-agent 0.7a1
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 81/92 | 2475 篇 → 26 篇 | 48h | **15 篇** |
+| 82/92 | 2500 篇 → 47 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Select Styling Specimens
+### 1. GPT 6.2 Astra Solves a Historical Mystery
 
-[Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) — **simonwillison.net** · 3 小时前 · ⭐ 15/30
 
-> Select Styling Specimens
-
----
-
-### 2. Muru
-
-[Muru](https://simonwillison.net/2026/Nov/21/muru/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> Muru
+> GPT 6.2 Astra Solves a Historical Mystery
 
 ---
 
-### 3. When in doubt, flail about
+### 2. datasette-charts 0.2a0
 
-[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/) — **seangoedecke.com** · 21 小时前 · ⭐ 15/30
+[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — **simonwillison.net** · 15 小时前 · ⭐ 15/30
+
+> datasette-charts 0.2a0
+
+---
+
+### 3. datasette-agent 0.7a1
+
+[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — **simonwillison.net** · 16 小时前 · ⭐ 15/30
+
+> datasette-agent 0.7a1
+
+---
+
+### 4. GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+
+[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+
+> GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+
+---
+
+### 5. Ladybird's first alpha release
+
+[Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/) — **simonwillison.net** · 22 小时前 · ⭐ 15/30
+
+> Ladybird's first alpha release
+
+---
+
+### 6. datasette-charts 0.1a0
+
+[datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> datasette-charts 0.1a0
+
+---
+
+### 7. When in doubt, flail about
+
+[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > When in doubt, flail about
 
 ---
 
-### 4. Notes on OpenAI's perplexity reveal
+### 8. Notes on OpenAI's perplexity reveal
 
-[Notes on OpenAI's perplexity reveal](https://seangoedecke.com/notes-on-openais-perplexity-reveal/) — **seangoedecke.com** · 21 小时前 · ⭐ 15/30
+[Notes on OpenAI's perplexity reveal](https://seangoedecke.com/notes-on-openais-perplexity-reveal/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
 
 > Notes on OpenAI's perplexity reveal
 
 ---
 
-### 5. To code well, avoid blunders
+### 9. ‘The Economy Is a Hostage Situation’
 
-[To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/) — **seangoedecke.com** · 1 天前 · ⭐ 15/30
+[‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&amp;) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
 
-> To code well, avoid blunders
-
----
-
-### 6. Donald Trump on Jensen Huang’s Reinstatement at Nvidia
-
-[Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493) — **daringfireball.net** · 4 小时前 · ⭐ 15/30
-
-> Donald Trump on Jensen Huang’s Reinstatement at Nvidia
+> ‘The Economy Is a Hostage Situation’
 
 ---
 
-### 7. Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’
+### 10. I Told You to Bet the Over
 
-[Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo) — **daringfireball.net** · 5 小时前 · ⭐ 15/30
+[I Told You to Bet the Over](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV) — **daringfireball.net** · 1 小时前 · ⭐ 15/30
 
-> Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’
-
----
-
-### 8. Government Regulation and Demand
-
-[Government Regulation and Demand](https://stratechery.com/2026/obituaries/) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
-
-> Government Regulation and Demand
+> I Told You to Bet the Over
 
 ---
 
-### 9. Elon Musk Claims to Be Unfamiliar With MAGA
+### 11. Restoring a 1982 ‘Star Wars’ Poster From Japan
 
-[Elon Musk Claims to Be Unfamiliar With MAGA](https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/) — **daringfireball.net** · 6 小时前 · ⭐ 15/30
+[Restoring a 1982 ‘Star Wars’ Poster From Japan](https://www.instagram.com/p/DcUk0WjBwVI/) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
 
-> Elon Musk Claims to Be Unfamiliar With MAGA
-
----
-
-### 10. Nvidia Board Reinstates Jensen Huang
-
-[Nvidia Board Reinstates Jensen Huang](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) — **daringfireball.net** · 7 小时前 · ⭐ 15/30
-
-> Nvidia Board Reinstates Jensen Huang
+> Restoring a 1982 ‘Star Wars’ Poster From Japan
 
 ---
 
-### 11. Ivy
+### 12. Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001
 
-[Ivy](https://semantical.com/?utm_campaign=df-2026-12) — **daringfireball.net** · 22 小时前 · ⭐ 15/30
+[Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001](https://www.threads.com/@meidastouch/post/DgGKhbTAka5) — **daringfireball.net** · 3 小时前 · ⭐ 15/30
 
-> Ivy
-
----
-
-### 12. Pluralistic: The Debt Trap (23 Nov 2026)
-
-[Pluralistic: The Debt Trap (23 Nov 2026)](https://pluralistic.net/2026/11/23/grasshoppers-v-ants/) — **pluralistic.net** · 8 小时前 · ⭐ 15/30
-
-> Pluralistic: The Debt Trap (23 Nov 2026)
+> Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001
 
 ---
 
-### 13. Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆
+### 13. David Sacks’s Pool Boy Is Cocky
 
-[Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆](https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/) — **shkspr.mobi** · 9 小时前 · ⭐ 15/30
+[David Sacks’s Pool Boy Is Cocky](https://www.threads.com/@karaswisher/post/DgGBe_XI147) — **daringfireball.net** · 3 小时前 · ⭐ 15/30
 
-> Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆
-
----
-
-### 14. I don't enjoy being pampered
-
-[I don't enjoy being pampered](https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/) — **shkspr.mobi** · 1 天前 · ⭐ 15/30
-
-> I don't enjoy being pampered
+> David Sacks’s Pool Boy Is Cocky
 
 ---
 
-### 15. Two generators suffice
+### 14. Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker
 
-[Two generators suffice](https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/) — **johndcook.com** · 4 小时前 · ⭐ 15/30
+[Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker](https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile) — **daringfireball.net** · 4 小时前 · ⭐ 15/30
 
-> Two generators suffice
+> Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker
 
 ---
 
-*生成于 2026-11-23 21:46 | 扫描 81 源 → 获取 2475 篇 → 精选 15 篇*
+### 15. [Sponsor] Finalist Daily Planner Meets iPhone Duo
+
+[[Sponsor] Finalist Daily Planner Meets iPhone Duo](https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> [Sponsor] Finalist Daily Planner Meets iPhone Duo
+
+---
+
+*生成于 2026-11-24 20:24 | 扫描 82 源 → 获取 2500 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
