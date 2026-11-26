@@ -2,29 +2,29 @@
 layout: default
 title: AI Daily Digest
 ---
-# 📰 AI 博客每日精选 — 2026-11-25
+# 📰 AI 博客每日精选 — 2026-11-26
 
 > 来自 Karpathy 推荐的 92 个顶级技术博客，AI 精选 Top 15
 
 ## 🏆 今日必读
 
-🥇 **Three LLM inflection points in twelve months**
+🥇 **Quoting Jack Despain Zhou**
 
-[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — simonwillison.net · 20 小时前 · 📝 其他
+[Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) — simonwillison.net · 4 小时前 · 📝 其他
 
-> Three LLM inflection points in twelve months
+> Quoting Jack Despain Zhou
 
-🥈 **GPT 6.2 Astra Solves a Historical Mystery**
+🥈 **sqlite3_rsync: Database Remote-Copy Tool For SQLite**
 
-[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) — simonwillison.net · 1 天前 · 📝 其他
+[sqlite3_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) — simonwillison.net · 13 小时前 · 📝 其他
 
-> GPT 6.2 Astra Solves a Historical Mystery
+> sqlite3_rsync: Database Remote-Copy Tool For SQLite
 
-🥉 **datasette-charts 0.2a0**
+🥉 **The New York Times warns photographers not to update Photoshop over AI features**
 
-[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — simonwillison.net · 1 天前 · 📝 其他
+[The New York Times warns photographers not to update Photoshop over AI features](https://simonwillison.net/2026/Nov/26/hn-50651685/) — simonwillison.net · 14 小时前 · 📝 其他
 
-> datasette-charts 0.2a0
+> The New York Times warns photographers not to update Photoshop over AI features
 
 ---
 
@@ -32,7 +32,7 @@ title: AI Daily Digest
 
 | 扫描源 | 抓取文章 | 时间范围 | 精选 |
 |:---:|:---:|:---:|:---:|
-| 85/92 | 2556 篇 → 47 篇 | 48h | **15 篇** |
+| 81/92 | 2492 篇 → 33 篇 | 48h | **15 篇** |
 
 ### 分类分布
 
@@ -46,126 +46,126 @@ pie showData
 
 ## 📝 其他
 
-### 1. Three LLM inflection points in twelve months
+### 1. Quoting Jack Despain Zhou
 
-[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — **simonwillison.net** · 20 小时前 · ⭐ 15/30
+[Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) — **simonwillison.net** · 4 小时前 · ⭐ 15/30
+
+> Quoting Jack Despain Zhou
+
+---
+
+### 2. sqlite3_rsync: Database Remote-Copy Tool For SQLite
+
+[sqlite3_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) — **simonwillison.net** · 13 小时前 · ⭐ 15/30
+
+> sqlite3_rsync: Database Remote-Copy Tool For SQLite
+
+---
+
+### 3. The New York Times warns photographers not to update Photoshop over AI features
+
+[The New York Times warns photographers not to update Photoshop over AI features](https://simonwillison.net/2026/Nov/26/hn-50651685/) — **simonwillison.net** · 14 小时前 · ⭐ 15/30
+
+> The New York Times warns photographers not to update Photoshop over AI features
+
+---
+
+### 4. Quoting Scott Aaronson
+
+[Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/) — **simonwillison.net** · 19 小时前 · ⭐ 15/30
+
+> Quoting Scott Aaronson
+
+---
+
+### 5. datasette-charts 0.3a0
+
+[datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+
+> datasette-charts 0.3a0
+
+---
+
+### 6. Three LLM inflection points in twelve months
+
+[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
 
 > Three LLM inflection points in twelve months
 
 ---
 
-### 2. GPT 6.2 Astra Solves a Historical Mystery
+### 7. Ansible Fails waiting for privilege escalation on Ubuntu 26
 
-[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/) — **jeffgeerling.com** · 21 小时前 · ⭐ 15/30
 
-> GPT 6.2 Astra Solves a Historical Mystery
-
----
-
-### 3. datasette-charts 0.2a0
-
-[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> datasette-charts 0.2a0
+> Ansible Fails waiting for privilege escalation on Ubuntu 26
 
 ---
 
-### 4. datasette-agent 0.7a1
+### 8. ★ Obvious Affordances Are Due for a Comeback
 
-[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[★ Obvious Affordances Are Due for a Comeback](https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) — **daringfireball.net** · 4 小时前 · ⭐ 15/30
 
-> datasette-agent 0.7a1
-
----
-
-### 5. GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
-
-[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
-
-> GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+> ★ Obvious Affordances Are Due for a Comeback
 
 ---
 
-### 6. Ladybird's first alpha release
+### 9. Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term
 
-[Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/) — **simonwillison.net** · 1 天前 · ⭐ 15/30
+[Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
 
-> Ladybird's first alpha release
+> Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term
 
 ---
 
-### 7. ‘The Life of a Composer’
+### 10. 1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata
 
-[‘The Life of a Composer’](https://composer.pablostanley.com/#1) — **daringfireball.net** · 2 小时前 · ⭐ 15/30
+[1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> 1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata
+
+---
+
+### 11. ‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’
+
+[‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+
+> ‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’
+
+---
+
+### 12. ‘The Life of a Composer’
+
+[‘The Life of a Composer’](https://composer.pablostanley.com/#1) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > ‘The Life of a Composer’
 
 ---
 
-### 8. 20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain
+### 13. 20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain
 
-[20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda) — **daringfireball.net** · 3 小时前 · ⭐ 15/30
+[20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > 20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain
 
 ---
 
-### 9. Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau
+### 14. Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau
 
-[Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/) — **daringfireball.net** · 19 小时前 · ⭐ 15/30
+[Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau
 
 ---
 
-### 10. Trump Made Up to $15M on Nvidia Stock After Huang’s Return
+### 15. Trump Made Up to $15M on Nvidia Stock After Huang’s Return
 
-[Trump Made Up to $15M on Nvidia Stock After Huang’s Return](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market) — **daringfireball.net** · 20 小时前 · ⭐ 15/30
+[Trump Made Up to $15M on Nvidia Stock After Huang’s Return](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market) — **daringfireball.net** · 1 天前 · ⭐ 15/30
 
 > Trump Made Up to $15M on Nvidia Stock After Huang’s Return
 
 ---
 
-### 11. Nvidia and Trump’s State Capitalism
-
-[Nvidia and Trump’s State Capitalism](https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
-
-> Nvidia and Trump’s State Capitalism
-
----
-
-### 12. Patriotism, Trump-Style
-
-[Patriotism, Trump-Style](https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/) — **daringfireball.net** · 21 小时前 · ⭐ 15/30
-
-> Patriotism, Trump-Style
-
----
-
-### 13. ‘The Economy Is a Hostage Situation’
-
-[‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&amp;) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> ‘The Economy Is a Hostage Situation’
-
----
-
-### 14. I Told You to Bet the Over
-
-[I Told You to Bet the Over](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> I Told You to Bet the Over
-
----
-
-### 15. Restoring a 1982 ‘Star Wars’ Poster From Japan
-
-[Restoring a 1982 ‘Star Wars’ Poster From Japan](https://www.instagram.com/p/DcUk0WjBwVI/) — **daringfireball.net** · 1 天前 · ⭐ 15/30
-
-> Restoring a 1982 ‘Star Wars’ Poster From Japan
-
----
-
-*生成于 2026-11-25 19:38 | 扫描 85 源 → 获取 2556 篇 → 精选 15 篇*
+*生成于 2026-11-26 19:19 | 扫描 81 源 → 获取 2492 篇 → 精选 15 篇*
 *基于 [Hacker News Popularity Contest 2025](https://refactoringenglish.com/tools/hn-popularity/) RSS 源列表，由 [Andrej Karpathy](https://x.com/karpathy) 推荐*
 *由「懂点儿AI」制作，欢迎关注同名微信公众号获取更多 AI 实用技巧 💡*
